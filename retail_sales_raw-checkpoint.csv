@@ -1,0 +1,2831 @@
+sale_id,product_name,category,quantity,unit_price,sale_date,customer_type
+1,Cooking Oil 1L,Grocery,9.0,145.0,2026-03-04,Regular
+2,Tea Powder 250g,Grocery,18.0,116.0,2026-01-23,Wholesale
+3,Paneer 200g,Dairy,1.0,75.0,2026-01-24,Regular
+4,Toothpaste,Personal Care,20.0,93.0,2026-01-07,Wholesale
+5,Shampoo,Personal Care,18.0,185.0,2026-04-18,Regular
+6,Detergent 1kg,Household,9.0,134.0,2026-01-02,Regular
+7,Paneer 200g,Dairy,9.0,80.0,2026-02-09,Regular
+8,Namkeen 200g,Snacks,3.0,56.0,2026-04-08,Regular
+9,Milk 1L,Dairy,20.0,55.0,2026-03-09,Regular
+10,Detergent 1kg,Household,4.0,133.0,2026-04-07,Regular
+11,Chips,Snacks,20.0,25.0,2026-04-03,Wholesale
+12,Shampoo,Personal Care,2.0,176.0,2026-06-19,Regular
+13,Chips,Snacks,8.0,16.0,2026-01-26,Walk-in
+14,Biscuits,Snacks,12.0,32.0,2026-02-11,Walk-in
+15,Milk 1L,Dairy,9.0,53.0,2026-06-29,Wholesale
+16,Sugar 1kg,Grocery,6.0,49.0,2026-05-17,Wholesale
+17,Toothpaste,Personal Care,15.0,87.0,2026-04-08,Walk-in
+18,Toothpaste,Personal Care,11.0,95.0,2026-01-15,Regular
+19,Wheat Flour 5kg,Grocery,13.0,220.0,2026-03-10,Regular
+20,Shampoo,Personal Care,11.0,184.0,2026-02-24,Wholesale
+21,Dishwash Liquid,Household,15.0,96.0,2026-02-06,Walk-in
+22,Tea Powder 250g,Grocery,18.0,118.0,2026-05-18,Walk-in
+23,Paneer 200g,Dairy,13.0,84.0,2026-04-03,Regular
+24,Tea Powder 250g,Grocery,16.0,123.0,2026-01-24,Regular
+25,Cooking Oil 1L,Grocery,6.0,147.0,2026-06-24,Walk-in
+26,Sugar 1kg,Grocery,13.0,46.0,2026-06-02,Walk-in
+27,Biscuits,Snacks,1.0,33.0,2026-06-24,Wholesale
+28,Cooking Oil 1L,Grocery,18.0,155.0,2026-03-10,Wholesale
+29,Namkeen 200g,Snacks,10.0,56.0,2026-04-22,Regular
+30,Detergent 1kg,Household,9.0,125.0,2026-05-09,Regular
+31,Cooking Oil 1L,Grocery,10.0,155.0,2026-06-13,Wholesale
+32,Shampoo,Personal Care,12.0,177.0,2026-02-11,Wholesale
+33,Rice 5kg,Grocery,,354.0,2026-05-06,Regular
+34,Cooking Oil 1L,Grocery,10.0,150.0,2026-03-03,Regular
+35,Toothpaste,Personal Care,3.0,,2026-01-22,Wholesale
+36,Dishwash Liquid,Household,18.0,91.0,2026-02-02,Regular
+37,Dishwash Liquid,Household,6.0,98.0,2026-03-09,Wholesale
+38,Paneer 200g,Dairy,18.0,78.0,2026-06-26,Regular
+39,Chips,Snacks,12.0,21.0,2026-04-23,Wholesale
+40,Detergent 1kg,Household,8.0,126.0,2026-02-27,Regular
+41,Namkeen 200g,Snacks,19.0,55.0,2026-05-22,Regular
+42,Toothpaste,Personal Care,3.0,85.0,2026-06-11,Regular
+43,Toothpaste,Personal Care,2.0,86.0,2026-03-26,Regular
+44,Toothpaste,Personal Care,16.0,89.0,2026-02-24,Wholesale
+45,Tea Powder 250g,Grocery,19.0,124.0,2026-05-02,Regular
+46,Dishwash Liquid,Household,7.0,96.0,2026-01-25,Regular
+47,Paneer 200g,Dairy,14.0,80.0,2026-04-16,Walk-in
+48,Wheat Flour 5kg,Grocery,4.0,225.0,2026-01-16,Walk-in
+49,Namkeen 200g,Snacks,8.0,56.0,2026-02-19,Regular
+50,Detergent 1kg,Household,14.0,127.0,2026-02-16,Walk-in
+51,Detergent 1kg,Household,3.0,,2026-04-24,Wholesale
+52,Cooking Oil 1L,Grocery,18.0,145.0,2026-01-04,Regular
+53,Toothpaste,Personal Care,14.0,87.0,2026-05-05,Walk-in
+54,Shampoo,Personal Care,2.0,181.0,2026-02-12,Walk-in
+55,Rice 5kg,Grocery,9.0,351.0,2026-04-27,Walk-in
+56,Paneer 200g,Dairy,16.0,83.0,2026-02-09,Regular
+57,Chips,Snacks,2.0,18.0,2026-05-29,Wholesale
+58,WHEAT FLOUR 5KG  ,Grocery,2.0,220.0,2026-01-13,Wholesale
+59,Dishwash Liquid,Household,17.0,98.0,2026-02-10,Regular
+60,Sugar 1kg,Grocery,3.0,42.0,2026-06-02,Regular
+61,Toothpaste,Personal Care,4.0,91.0,2026-05-26,Regular
+62,Wheat Flour 5kg,Grocery,3.0,224.0,2026-04-18,Wholesale
+63,Namkeen 200g,Snacks,7.0,59.0,2026-06-21,Wholesale
+64,Namkeen 200g,Snacks,9.0,58.0,2026-04-12,Regular
+65,Chips,Snacks,11.0,22.0,2026-01-19,Regular
+66,Detergent 1kg,Household,19.0,134.0,2026-01-26,Regular
+67,Shampoo,Personal Care,9.0,183.0,2026-02-03,Walk-in
+68,Sugar 1kg,Grocery,12.0,43.0,2026-03-14,Regular
+69,Detergent 1kg,Household,10.0,133.0,2026-06-06,Wholesale
+70,Rice 5kg,Grocery,18.0,355.0,2026-03-18,Wholesale
+71,Cooking Oil 1L,Grocery,9.0,147.0,2026-01-30,Regular
+72,Tea Powder 250g,Grocery,10.0,119.0,2026-06-04,Regular
+73,Namkeen 200g,Snacks,9.0,58.0,2026-05-10,Walk-in
+74,Biscuits,Snacks,3.0,25.0,2026-06-12,Walk-in
+75,Biscuits,Snacks,1.0,25.0,2026-03-27,Regular
+76,Biscuits,Snacks,15.0,27.0,2026-05-22,Wholesale
+77,Paneer 200g,Dairy,1.0,83.0,2026-01-29,Regular
+78,Tea Powder 250g,Grocery,2.0,123.0,2026-04-05,Wholesale
+79,Tea Powder 250g,Grocery,5.0,121.0,2026-01-11,Walk-in
+80,Milk 1L,Dairy,12.0,50.0,2026-02-23,Wholesale
+81,Toothpaste,Personal Care,4.0,95.0,2026-04-01,Wholesale
+82,Paneer 200g,Dairy,5.0,84.0,2026-03-02,Regular
+83,Soap,Personal Care,1.0,36.0,2026-02-15,Wholesale
+84,Namkeen 200g,Snacks,8.0,61.0,2026-03-10,Regular
+85,Cooking Oil 1L,Grocery,2.0,151.0,2026-05-01,Regular
+86,Shampoo,Personal Care,12.0,182.0,2026-03-20,Regular
+87,Toothpaste,Personal Care,7.0,85.0,2026-04-13,Walk-in
+88,Biscuits,Snacks,9.0,26.0,2026-03-31,Wholesale
+89,Curd 500g,Dairy,18.0,45.0,2026-03-26,Regular
+90,Cooking Oil 1L,Grocery,6.0,149.0,2026-05-29,Walk-in
+91,Wheat Flour 5kg,Grocery,20.0,216.0,2026-04-22,Walk-in
+92,Namkeen 200g,Snacks,20.0,61.0,2026-05-11,Regular
+93,Curd 500g,Dairy,7.0,44.0,2026-03-07,Regular
+94,Paneer 200g,Dairy,17.0,75.0,2026-05-18,Wholesale
+95,Shampoo,Personal Care,14.0,180.0,2026-01-18,Wholesale
+96,Namkeen 200g,Snacks,11.0,64.0,2026-06-19,Regular
+97,Chips,Snacks,10.0,23.0,2026-06-20,Walk-in
+98,Namkeen 200g,Snacks,10.0,61.0,2026-05-22,Regular
+99,Shampoo,Personal Care,13.0,181.0,2026-06-23,Wholesale
+100,Soap,Personal Care,19.0,39.0,2026-03-19,Walk-in
+101,Rice 5kg,Grocery,10.0,349.0,2026-02-23,Walk-in
+102,Namkeen 200g,Snacks,15.0,62.0,2026-04-24,Wholesale
+103,SHAMPOO  ,Personal Care,16.0,183.0,2026-02-13,Wholesale
+104,Sugar 1kg,Grocery,17.0,44.0,2026-06-19,Wholesale
+105,Namkeen 200g,Snacks,8.0,56.0,2026-06-22,Walk-in
+106,Toothpaste,Personal Care,5.0,88.0,2026-01-07,Regular
+107,Toothpaste,Personal Care,20.0,92.0,2026-01-19,Walk-in
+108,Paneer 200g,Dairy,19.0,85.0,2026-02-19,Wholesale
+109,Curd 500g,Dairy,13.0,42.0,2026-03-04,Regular
+110,Rice 5kg,Grocery,14.0,346.0,2026-02-26,Regular
+111,Detergent 1kg,Household,18.0,125.0,2026-03-05,Regular
+112,Detergent 1kg,Household,15.0,127.0,2026-06-20,Wholesale
+113,NAMKEEN 200G  ,Snacks,20.0,62.0,2026-05-10,Walk-in
+114,Detergent 1kg,Household,16.0,127.0,2026-04-26,Walk-in
+115,Toothpaste,Personal Care,9.0,95.0,2026-05-14,Walk-in
+116,Toothpaste,Personal Care,15.0,89.0,2026-01-20,Wholesale
+117,Chips,Snacks,9.0,,2026-03-27,Walk-in
+118,Sugar 1kg,Grocery,5.0,42.0,2026-03-01,Walk-in
+119,Tea Powder 250g,Grocery,3.0,118.0,2026-04-17,Walk-in
+120,Namkeen 200g,Snacks,15.0,63.0,2026-04-17,Regular
+121,Shampoo,Personal Care,13.0,181.0,2026-05-30,Wholesale
+122,Rice 5kg,Grocery,13.0,354.0,2026-05-03,Regular
+123,Milk 1L,Dairy,13.0,54.0,2026-04-18,Wholesale
+124,Toothpaste,Personal Care,8.0,92.0,2026-03-11,Walk-in
+125,Dishwash Liquid,Household,13.0,90.0,2026-03-28,Wholesale
+126,Curd 500g,Dairy,15.0,37.0,2026-02-02,Wholesale
+127,Rice 5kg,Grocery,19.0,351.0,2026-05-25,Wholesale
+128,Rice 5kg,Grocery,14.0,346.0,2026-02-04,Walk-in
+129,Soap,Personal Care,9.0,30.0,2026-04-08,Walk-in
+130,Shampoo,Personal Care,11.0,182.0,2026-03-28,Walk-in
+131,Biscuits,Snacks,9.0,31.0,2026-01-21,Walk-in
+132,Rice 5kg,Grocery,2.0,353.0,2026-03-31,Regular
+133,Sugar 1kg,Grocery,2.0,50.0,2026-01-08,Regular
+134,Shampoo,Personal Care,20.0,175.0,2026-02-09,Regular
+135,Tea Powder 250g,Grocery,4.0,122.0,2026-05-25,Regular
+136,Detergent 1kg,Household,12.0,129.0,2026-02-12,Wholesale
+137,Cooking Oil 1L,Grocery,10.0,147.0,2026-01-28,Wholesale
+138,Rice 5kg,Grocery,19.0,349.0,2026-06-23,Walk-in
+139,Curd 500g,Dairy,3.0,38.0,2026-06-01,Wholesale
+140,Toothpaste,Personal Care,10.0,86.0,2026-06-25,Wholesale
+141,Cooking Oil 1L,Grocery,2.0,154.0,2026-03-30,Wholesale
+142,Paneer 200g,Dairy,12.0,85.0,2026-01-18,Wholesale
+143,Namkeen 200g,Snacks,14.0,55.0,2026-05-06,Regular
+144,Paneer 200g,Dairy,15.0,80.0,2026-02-09,Walk-in
+145,Soap,Personal Care,9.0,38.0,2026-06-07,Wholesale
+146,Dishwash Liquid,Household,14.0,97.0,2026-06-01,Walk-in
+147,Namkeen 200g,Snacks,3.0,58.0,2026-03-13,Walk-in
+148,Toothpaste,Personal Care,19.0,92.0,2026-06-06,Wholesale
+149,Curd 500g,Dairy,1.0,40.0,2026-05-07,Walk-in
+150,Soap,Personal Care,7.0,37.0,2026-04-01,Walk-in
+151,Namkeen 200g,Snacks,20.0,59.0,2026-06-29,Walk-in
+152,Rice 5kg,Grocery,7.0,353.0,2026-01-22,Regular
+153,Paneer 200g,Dairy,18.0,82.0,2026-03-03,Wholesale
+154,Dishwash Liquid,Household,16.0,100.0,2026-04-25,Regular
+155,Sugar 1kg,Grocery,8.0,44.0,2026-04-14,Wholesale
+156,Toothpaste,Personal Care,19.0,89.0,2026-04-05,Walk-in
+157,Milk 1L,Dairy,18.0,56.0,2026-03-26,Walk-in
+158,Detergent 1kg,Household,10.0,129.0,2026-03-06,Regular
+159,Cooking Oil 1L,Grocery,11.0,148.0,2026-01-31,Wholesale
+160,Soap,Personal Care,7.0,33.0,2026-05-04,Walk-in
+161,Chips,Snacks,7.0,16.0,2026-03-17,Regular
+162,Milk 1L,Dairy,10.0,52.0,2026-01-04,Wholesale
+163,Tea Powder 250g,Grocery,2.0,119.0,2026-01-14,Wholesale
+164,Chips,Snacks,16.0,17.0,2026-01-27,Regular
+165,Chips,Snacks,16.0,22.0,2026-04-23,Walk-in
+166,Soap,Personal Care,9.0,30.0,2026-05-03,Regular
+167,Sugar 1kg,Grocery,16.0,46.0,2026-01-19,Wholesale
+168,Wheat Flour 5kg,Grocery,5.0,217.0,2026-05-25,Walk-in
+169,Sugar 1kg,Grocery,4.0,43.0,2026-05-23,Walk-in
+170,Toothpaste,Personal Care,13.0,93.0,2026-04-26,Walk-in
+171,Chips,Snacks,14.0,24.0,2026-03-20,Wholesale
+172,Wheat Flour 5kg,Grocery,4.0,224.0,2026-02-23,Wholesale
+173,Shampoo,Personal Care,3.0,179.0,2026-02-10,Regular
+174,Soap,Personal Care,3.0,38.0,2026-02-10,Regular
+175,Paneer 200g,Dairy,20.0,82.0,2026-05-01,Walk-in
+176,Wheat Flour 5kg,Grocery,10.0,218.0,2026-06-30,Walk-in
+177,Detergent 1kg,Household,8.0,126.0,2026-03-09,Wholesale
+178,Shampoo,Personal Care,4.0,,2026-05-20,Regular
+179,Tea Powder 250g,Grocery,5.0,119.0,2026-01-19,Regular
+180,Soap,Personal Care,20.0,34.0,2026-05-26,Walk-in
+181,Detergent 1kg,Household,15.0,126.0,2026-06-26,Walk-in
+182,Curd 500g,Dairy,17.0,39.0,2026-05-19,Walk-in
+183,Detergent 1kg,Household,20.0,126.0,2026-01-11,Walk-in
+184,Namkeen 200g,Snacks,9.0,64.0,2026-01-07,Regular
+185,Toothpaste,Personal Care,19.0,95.0,2026-05-31,Regular
+186,Biscuits,Snacks,2.0,34.0,2026-02-14,Walk-in
+187,Detergent 1kg,Household,6.0,129.0,2026-05-30,Walk-in
+188,Dishwash Liquid,Household,16.0,91.0,2026-03-31,Walk-in
+189,Namkeen 200g,Snacks,4.0,60.0,2026-02-11,Walk-in
+190,Paneer 200g,Dairy,10.0,82.0,2026-06-19,Walk-in
+191,Wheat Flour 5kg,Grocery,3.0,222.0,2026-03-22,Walk-in
+192,Namkeen 200g,Snacks,13.0,56.0,2026-05-12,Regular
+193,Detergent 1kg,Household,2.0,131.0,2026-02-18,Wholesale
+194,Milk 1L,Dairy,16.0,59.0,2026-06-10,Walk-in
+195,Wheat Flour 5kg,Grocery,9.0,218.0,2026-05-21,Regular
+196,Chips,Snacks,16.0,22.0,2026-02-01,Regular
+197,Toothpaste,Personal Care,10.0,87.0,2026-05-22,Regular
+198,Paneer 200g,Dairy,8.0,76.0,2026-01-30,Walk-in
+199,Cooking Oil 1L,Grocery,5.0,155.0,2026-05-08,Wholesale
+200,Chips,Snacks,9.0,23.0,2026-04-17,Walk-in
+201,Dishwash Liquid,Household,15.0,93.0,2026-05-22,Regular
+202,Curd 500g,Dairy,20.0,38.0,2026-05-11,Wholesale
+203,Tea Powder 250g,Grocery,9.0,116.0,2026-04-17,Walk-in
+204,Biscuits,Snacks,10.0,25.0,2026-03-18,Wholesale
+205,Dishwash Liquid,Household,15.0,92.0,2026-05-18,Walk-in
+206,MILK 1L  ,Dairy,18.0,55.0,2026-05-20,Walk-in
+207,Detergent 1kg,Household,7.0,130.0,2026-06-28,Regular
+208,Curd 500g,Dairy,14.0,38.0,2026-01-12,Walk-in
+209,Dishwash Liquid,Household,13.0,96.0,2026-06-19,Wholesale
+210,Tea Powder 250g,Grocery,2.0,122.0,2026-02-02,Wholesale
+211,Namkeen 200g,Snacks,15.0,56.0,2026-01-26,Wholesale
+212,Detergent 1kg,Household,,125.0,2026-04-15,Wholesale
+213,Tea Powder 250g,Grocery,16.0,116.0,2026-03-09,Walk-in
+214,Curd 500g,Dairy,3.0,45.0,2026-03-26,Wholesale
+215,Curd 500g,Dairy,16.0,40.0,2026-05-19,Regular
+216,Sugar 1kg,Grocery,10.0,43.0,2026-02-28,Wholesale
+217,Sugar 1kg,Grocery,4.0,46.0,2026-06-12,Wholesale
+218,Cooking Oil 1L,Grocery,6.0,152.0,2026-06-27,Walk-in
+219,Rice 5kg,Grocery,11.0,345.0,2026-01-15,Walk-in
+220,Milk 1L,Dairy,14.0,55.0,2026-02-07,Regular
+221,Paneer 200g,Dairy,6.0,84.0,2026-02-13,Regular
+222,Sugar 1kg,Grocery,13.0,49.0,2026-06-08,Wholesale
+223,Toothpaste,Personal Care,19.0,92.0,2026-02-06,Regular
+224,Detergent 1kg,Household,9.0,135.0,2026-04-28,Walk-in
+225,Rice 5kg,Grocery,10.0,352.0,2026-06-23,Wholesale
+226,Soap,Personal Care,15.0,31.0,2026-03-30,Wholesale
+227,Chips,Snacks,14.0,25.0,2026-06-26,Walk-in
+228,Detergent 1kg,Household,7.0,129.0,2026-04-09,Walk-in
+229,Cooking Oil 1L,Grocery,13.0,148.0,2026-05-27,Walk-in
+230,Chips,Snacks,1.0,19.0,2026-06-18,Walk-in
+231,Biscuits,Snacks,19.0,25.0,2026-06-25,Wholesale
+232,Wheat Flour 5kg,Grocery,16.0,224.0,2026-03-15,Regular
+233,Milk 1L,Dairy,7.0,53.0,2026-06-08,Walk-in
+234,Tea Powder 250g,Grocery,4.0,125.0,2026-06-10,Wholesale
+235,Wheat Flour 5kg,Grocery,15.0,219.0,2026-01-09,Wholesale
+236,Milk 1L,Dairy,3.0,52.0,2026-03-17,Walk-in
+237,Paneer 200g,Dairy,7.0,77.0,2026-02-03,Wholesale
+238,Milk 1L,Dairy,17.0,58.0,2026-03-11,Regular
+239,Biscuits,Snacks,10.0,32.0,2026-03-28,Regular
+240,Detergent 1kg,Household,5.0,126.0,2026-02-27,Wholesale
+241,Curd 500g,Dairy,12.0,43.0,2026-01-24,Walk-in
+242,Rice 5kg,Grocery,18.0,349.0,2026-02-01,Walk-in
+243,Milk 1L,Dairy,9.0,60.0,2026-05-30,Walk-in
+244,Milk 1L,Dairy,8.0,51.0,2026-05-01,Regular
+245,Namkeen 200g,Snacks,8.0,64.0,2026-06-15,Regular
+246,Detergent 1kg,Household,14.0,129.0,2026-01-30,Regular
+247,Wheat Flour 5kg,Grocery,10.0,215.0,2026-05-07,Regular
+248,Cooking Oil 1L,Grocery,18.0,148.0,2026-02-04,Walk-in
+249,Detergent 1kg,Household,18.0,130.0,2026-04-18,Wholesale
+250,Tea Powder 250g,Grocery,4.0,121.0,2026-05-06,Wholesale
+251,Paneer 200g,Dairy,2.0,79.0,2026-06-26,Walk-in
+252,Shampoo,Personal Care,15.0,182.0,2026-03-02,Walk-in
+253,Cooking Oil 1L,Grocery,12.0,155.0,2026-05-20,Wholesale
+254,Milk 1L,Dairy,13.0,50.0,2026-03-12,Regular
+255,Cooking Oil 1L,Grocery,3.0,152.0,2026-06-19,Regular
+256,Rice 5kg,Grocery,11.0,345.0,2026-03-04,Regular
+257,Shampoo,Personal Care,18.0,176.0,2026-02-23,Wholesale
+258,Shampoo,Personal Care,11.0,178.0,2026-02-07,Wholesale
+259,Rice 5kg,Grocery,5.0,349.0,2026-02-03,Wholesale
+260,Biscuits,Snacks,4.0,27.0,2026-06-19,Regular
+261,Tea Powder 250g,Grocery,12.0,115.0,2026-03-02,Wholesale
+262,Namkeen 200g,Snacks,6.0,55.0,2026-03-09,Regular
+263,Tea Powder 250g,Grocery,17.0,121.0,2026-01-30,Wholesale
+264,Sugar 1kg,Grocery,15.0,47.0,2026-04-03,Wholesale
+265,Cooking Oil 1L,Grocery,17.0,152.0,2026-02-26,Wholesale
+266,Wheat Flour 5kg,Grocery,17.0,225.0,2026-03-19,Walk-in
+267,Rice 5kg,Grocery,16.0,345.0,2026-04-13,Walk-in
+268,Cooking Oil 1L,Grocery,15.0,152.0,2026-01-19,Regular
+269,Namkeen 200g,Snacks,5.0,64.0,2026-01-17,Regular
+270,Biscuits,Snacks,19.0,34.0,2026-05-21,Wholesale
+271,Namkeen 200g,Snacks,20.0,61.0,2026-05-16,Walk-in
+272,Detergent 1kg,Household,20.0,133.0,2026-04-21,Regular
+273,Cooking Oil 1L,Grocery,18.0,155.0,2026-02-25,Walk-in
+274,Detergent 1kg,Household,14.0,128.0,2026-03-28,Walk-in
+275,Curd 500g,Dairy,4.0,41.0,2026-03-22,Walk-in
+276,Namkeen 200g,Snacks,9.0,65.0,2026-04-06,Regular
+277,Dishwash Liquid,Household,3.0,91.0,2026-01-22,Regular
+278,Paneer 200g,Dairy,12.0,76.0,2026-02-03,Wholesale
+279,Wheat Flour 5kg,Grocery,18.0,224.0,2026-05-24,Walk-in
+280,Cooking Oil 1L,Grocery,12.0,151.0,2026-06-20,Walk-in
+281,Wheat Flour 5kg,Grocery,20.0,219.0,2026-03-21,Walk-in
+282,Cooking Oil 1L,Grocery,17.0,154.0,2026-02-24,Regular
+283,DISHWASH LIQUID  ,Household,4.0,93.0,2026-03-31,Wholesale
+284,Milk 1L,Dairy,9.0,51.0,2026-05-27,Regular
+285,Paneer 200g,Dairy,20.0,83.0,2026-06-07,Wholesale
+286,Rice 5kg,Grocery,9.0,354.0,2026-01-08,Regular
+287,Biscuits,Snacks,11.0,29.0,2026-03-31,Regular
+288,Soap,Personal Care,19.0,32.0,2026-06-18,Walk-in
+289,Sugar 1kg,Grocery,1.0,42.0,2026-01-24,Wholesale
+290,Shampoo,Personal Care,14.0,181.0,2026-04-27,Walk-in
+291,Soap,Personal Care,10.0,35.0,2026-03-25,Wholesale
+292,Sugar 1kg,Grocery,5.0,40.0,2026-02-10,Wholesale
+293,Wheat Flour 5kg,Grocery,3.0,225.0,2026-03-11,Walk-in
+294,Paneer 200g,Dairy,20.0,82.0,2026-04-24,Walk-in
+295,Biscuits,Snacks,17.0,28.0,2026-01-30,Walk-in
+296,Paneer 200g,Dairy,10.0,76.0,2026-06-23,Wholesale
+297,Dishwash Liquid,Household,,98.0,2026-01-12,Regular
+298,Curd 500g,Dairy,2.0,44.0,2026-01-02,Regular
+299,Chips,Snacks,5.0,18.0,2026-03-07,Walk-in
+300,Namkeen 200g,Snacks,1.0,56.0,2026-05-08,Wholesale
+301,Paneer 200g,Dairy,5.0,77.0,2026-04-08,Wholesale
+302,Toothpaste,Personal Care,18.0,93.0,2026-06-21,Walk-in
+303,Sugar 1kg,Grocery,2.0,46.0,2026-04-22,Regular
+304,DETERGENT 1KG  ,Household,11.0,126.0,2026-05-28,Walk-in
+305,Curd 500g,Dairy,14.0,45.0,2026-03-16,Regular
+306,Curd 500g,Dairy,11.0,35.0,2026-02-13,Wholesale
+307,Detergent 1kg,Household,3.0,130.0,2026-04-22,Regular
+308,Toothpaste,Personal Care,19.0,91.0,2026-04-13,Wholesale
+309,Sugar 1kg,Grocery,10.0,46.0,2026-03-28,Regular
+310,Namkeen 200g,Snacks,3.0,57.0,2026-05-11,Wholesale
+311,Cooking Oil 1L,Grocery,17.0,153.0,2026-02-19,Walk-in
+312,Milk 1L,Dairy,5.0,60.0,2026-03-02,Regular
+313,Tea Powder 250g,Grocery,7.0,119.0,2026-02-14,Wholesale
+314,Tea Powder 250g,Grocery,3.0,125.0,2026-02-15,Wholesale
+315,Dishwash Liquid,Household,19.0,97.0,2026-05-29,Walk-in
+316,Namkeen 200g,Snacks,11.0,65.0,2026-02-08,Walk-in
+317,Sugar 1kg,Grocery,15.0,47.0,2026-06-11,Walk-in
+318,Biscuits,Snacks,2.0,34.0,2026-04-01,Wholesale
+319,Sugar 1kg,Grocery,15.0,44.0,2026-04-26,Regular
+320,Wheat Flour 5kg,Grocery,10.0,220.0,2026-01-20,Wholesale
+321,Sugar 1kg,Grocery,20.0,49.0,2026-05-10,Walk-in
+322,Detergent 1kg,Household,,134.0,2026-01-11,Walk-in
+323,Shampoo,Personal Care,20.0,180.0,2026-05-02,Wholesale
+324,Tea Powder 250g,Grocery,15.0,115.0,2026-01-27,Walk-in
+325,Sugar 1kg,Grocery,6.0,48.0,2026-01-11,Regular
+326,Detergent 1kg,Household,17.0,132.0,2026-05-14,Wholesale
+327,Soap,Personal Care,12.0,35.0,2026-03-14,Walk-in
+328,Paneer 200g,Dairy,20.0,80.0,2026-01-14,Wholesale
+329,Namkeen 200g,Snacks,11.0,56.0,2026-01-25,Wholesale
+330,Curd 500g,Dairy,9.0,39.0,2026-06-18,Wholesale
+331,Tea Powder 250g,Grocery,3.0,120.0,2026-05-30,Wholesale
+332,Tea Powder 250g,Grocery,10.0,120.0,2026-06-17,Wholesale
+333,Curd 500g,Dairy,20.0,37.0,2026-01-22,Walk-in
+334,Curd 500g,Dairy,11.0,45.0,2026-02-02,Wholesale
+335,Sugar 1kg,Grocery,14.0,50.0,2026-05-11,Walk-in
+336,Rice 5kg,Grocery,10.0,350.0,2026-02-16,Regular
+337,Namkeen 200g,Snacks,7.0,62.0,2026-02-27,Regular
+338,Tea Powder 250g,Grocery,10.0,116.0,2026-01-26,Wholesale
+339,Wheat Flour 5kg,Grocery,11.0,225.0,2026-06-08,Regular
+340,Curd 500g,Dairy,6.0,37.0,2026-02-16,Wholesale
+341,Soap,Personal Care,2.0,37.0,2026-04-16,Walk-in
+342,Toothpaste,Personal Care,20.0,92.0,2026-03-14,Wholesale
+343,Detergent 1kg,Household,18.0,128.0,2026-03-03,Walk-in
+344,Dishwash Liquid,Household,12.0,,2026-06-23,Wholesale
+345,Detergent 1kg,Household,10.0,132.0,2026-04-08,Wholesale
+346,Paneer 200g,Dairy,7.0,77.0,2026-06-04,Regular
+347,Biscuits,Snacks,16.0,25.0,2026-04-06,Wholesale
+348,Cooking Oil 1L,Grocery,4.0,153.0,2026-03-14,Regular
+349,Soap,Personal Care,15.0,34.0,2026-05-12,Regular
+350,Paneer 200g,Dairy,8.0,76.0,2026-04-26,Walk-in
+351,Rice 5kg,Grocery,2.0,351.0,2026-04-12,Wholesale
+352,Milk 1L,Dairy,13.0,53.0,2026-01-21,Walk-in
+353,Toothpaste,Personal Care,11.0,85.0,2026-01-26,Wholesale
+354,Namkeen 200g,Snacks,5.0,57.0,2026-01-10,Walk-in
+355,Dishwash Liquid,Household,16.0,92.0,2026-04-25,Wholesale
+356,Rice 5kg,Grocery,1.0,346.0,2026-03-07,Regular
+357,Tea Powder 250g,Grocery,20.0,123.0,2026-05-16,Walk-in
+358,Cooking Oil 1L,Grocery,8.0,149.0,2026-03-19,Regular
+359,Wheat Flour 5kg,Grocery,14.0,218.0,2026-06-13,Wholesale
+360,Detergent 1kg,Household,4.0,126.0,2026-05-08,Wholesale
+361,Rice 5kg,Grocery,17.0,355.0,2026-05-28,Regular
+362,Tea Powder 250g,Grocery,14.0,119.0,2026-01-01,Wholesale
+363,Milk 1L,Dairy,19.0,53.0,2026-04-17,Regular
+364,Sugar 1kg,Grocery,12.0,48.0,2026-01-18,Wholesale
+365,Rice 5kg,Grocery,16.0,351.0,2026-01-12,Wholesale
+366,CURD 500G  ,Dairy,9.0,40.0,2026-01-05,Walk-in
+367,Sugar 1kg,Grocery,8.0,45.0,2026-06-18,Wholesale
+368,Cooking Oil 1L,Grocery,11.0,154.0,2026-02-04,Regular
+369,Milk 1L,Dairy,11.0,58.0,2026-06-14,Regular
+370,Detergent 1kg,Household,6.0,132.0,2026-02-04,Regular
+371,Detergent 1kg,Household,10.0,125.0,2026-02-21,Regular
+372,Shampoo,Personal Care,11.0,175.0,2026-03-21,Wholesale
+373,Curd 500g,Dairy,16.0,43.0,2026-03-06,Regular
+374,Shampoo,Personal Care,12.0,179.0,2026-01-13,Wholesale
+375,Namkeen 200g,Snacks,4.0,59.0,2026-04-05,Walk-in
+376,Curd 500g,Dairy,13.0,42.0,2026-03-28,Regular
+377,Dishwash Liquid,Household,12.0,97.0,2026-05-13,Walk-in
+378,Sugar 1kg,Grocery,3.0,46.0,2026-04-21,Wholesale
+379,Soap,Personal Care,10.0,38.0,2026-03-24,Regular
+380,Sugar 1kg,Grocery,10.0,45.0,2026-03-20,Walk-in
+381,Paneer 200g,Dairy,15.0,77.0,2026-03-31,Walk-in
+382,Wheat Flour 5kg,Grocery,20.0,220.0,2026-04-22,Walk-in
+383,Wheat Flour 5kg,Grocery,13.0,216.0,2026-04-04,Wholesale
+384,Soap,Personal Care,5.0,30.0,2026-06-05,Wholesale
+385,Detergent 1kg,Household,5.0,125.0,2026-01-18,Regular
+386,Milk 1L,Dairy,13.0,55.0,2026-05-26,Regular
+387,Tea Powder 250g,Grocery,15.0,125.0,2026-04-05,Walk-in
+388,Detergent 1kg,Household,19.0,126.0,2026-02-05,Wholesale
+389,Milk 1L,Dairy,11.0,56.0,2026-06-16,Walk-in
+390,Toothpaste,Personal Care,1.0,86.0,2026-02-17,Walk-in
+391,Curd 500g,Dairy,4.0,43.0,2026-03-09,Walk-in
+392,Detergent 1kg,Household,20.0,128.0,2026-03-15,Wholesale
+393,Dishwash Liquid,Household,4.0,93.0,2026-02-04,Regular
+394,Detergent 1kg,Household,15.0,127.0,2026-01-23,Wholesale
+395,Namkeen 200g,Snacks,12.0,65.0,2026-01-17,Wholesale
+396,Chips,Snacks,6.0,19.0,2026-06-29,Wholesale
+397,Soap,Personal Care,17.0,35.0,2026-02-27,Regular
+398,Shampoo,Personal Care,8.0,177.0,2026-05-07,Regular
+399,Milk 1L,Dairy,19.0,58.0,2026-04-05,Walk-in
+400,Tea Powder 250g,Grocery,3.0,124.0,2026-01-17,Walk-in
+401,Curd 500g,Dairy,17.0,42.0,2026-04-16,Walk-in
+402,Sugar 1kg,Grocery,11.0,42.0,2026-06-14,Regular
+403,Detergent 1kg,Household,,132.0,2026-03-30,Regular
+404,Soap,Personal Care,14.0,32.0,2026-05-09,Regular
+405,Cooking Oil 1L,Grocery,5.0,153.0,2026-03-19,Regular
+406,Soap,Personal Care,8.0,35.0,2026-03-30,Wholesale
+407,Chips,Snacks,9.0,16.0,2026-02-20,Wholesale
+408,Biscuits,Snacks,10.0,27.0,2026-06-07,Wholesale
+409,Sugar 1kg,Grocery,,48.0,2026-06-01,Wholesale
+410,Tea Powder 250g,Grocery,20.0,117.0,2026-06-04,Walk-in
+411,Wheat Flour 5kg,Grocery,,215.0,2026-01-12,Wholesale
+412,Biscuits,Snacks,7.0,35.0,2026-05-27,Walk-in
+413,Rice 5kg,Grocery,18.0,352.0,2026-03-16,Wholesale
+414,Chips,Snacks,8.0,22.0,2026-06-25,Walk-in
+415,Chips,Snacks,3.0,22.0,2026-06-26,Regular
+416,Soap,Personal Care,14.0,37.0,2026-05-04,Walk-in
+417,Shampoo,Personal Care,20.0,180.0,2026-02-06,Walk-in
+418,Namkeen 200g,Snacks,13.0,60.0,2026-02-03,Walk-in
+419,Cooking Oil 1L,Grocery,8.0,150.0,2026-04-30,Regular
+420,Biscuits,Snacks,8.0,32.0,2026-02-06,Regular
+421,Wheat Flour 5kg,Grocery,13.0,219.0,2026-06-07,Walk-in
+422,Toothpaste,Personal Care,11.0,87.0,2026-05-28,Wholesale
+423,Namkeen 200g,Snacks,6.0,58.0,2026-05-08,Wholesale
+424,Detergent 1kg,Household,10.0,132.0,2026-05-08,Regular
+425,Sugar 1kg,Grocery,17.0,46.0,2026-04-28,Regular
+426,Shampoo,Personal Care,12.0,184.0,2026-01-13,Regular
+427,Chips,Snacks,20.0,22.0,2026-06-17,Wholesale
+428,Dishwash Liquid,Household,18.0,94.0,2026-01-03,Regular
+429,Paneer 200g,Dairy,9.0,77.0,2026-04-04,Walk-in
+430,Milk 1L,Dairy,13.0,50.0,2026-01-14,Wholesale
+431,Shampoo,Personal Care,18.0,180.0,2026-03-15,Regular
+432,Curd 500g,Dairy,15.0,,2026-05-21,Walk-in
+433,Cooking Oil 1L,Grocery,4.0,147.0,2026-04-11,Walk-in
+434,Namkeen 200g,Snacks,,63.0,2026-02-06,Regular
+435,Curd 500g,Dairy,2.0,43.0,2026-01-12,Regular
+436,Tea Powder 250g,Grocery,16.0,120.0,2026-05-13,Walk-in
+437,Tea Powder 250g,Grocery,17.0,124.0,2026-02-05,Walk-in
+438,Namkeen 200g,Snacks,13.0,57.0,2026-06-07,Wholesale
+439,Chips,Snacks,11.0,24.0,2026-05-10,Wholesale
+440,Dishwash Liquid,Household,10.0,99.0,2026-05-02,Regular
+441,Milk 1L,Dairy,4.0,55.0,2026-04-17,Wholesale
+442,Chips,Snacks,1.0,25.0,2026-06-02,Walk-in
+443,Biscuits,Snacks,19.0,35.0,2026-05-28,Regular
+444,Wheat Flour 5kg,Grocery,16.0,224.0,2026-02-13,Wholesale
+445,Curd 500g,Dairy,8.0,37.0,2026-01-09,Wholesale
+446,Cooking Oil 1L,Grocery,1.0,148.0,2026-04-23,Walk-in
+447,Paneer 200g,Dairy,14.0,77.0,2026-06-26,Regular
+448,Paneer 200g,Dairy,20.0,83.0,2026-05-01,Wholesale
+449,Wheat Flour 5kg,Grocery,17.0,217.0,2026-02-23,Wholesale
+450,Namkeen 200g,Snacks,16.0,65.0,2026-05-15,Walk-in
+451,Namkeen 200g,Snacks,15.0,57.0,2026-05-17,Walk-in
+452,Milk 1L,Dairy,9.0,60.0,2026-06-06,Walk-in
+453,Shampoo,Personal Care,9.0,178.0,2026-05-23,Walk-in
+454,Toothpaste,Personal Care,10.0,89.0,2026-06-30,Regular
+455,Dishwash Liquid,Household,16.0,95.0,2026-03-31,Wholesale
+456,Biscuits,Snacks,4.0,29.0,2026-05-27,Wholesale
+457,Curd 500g,Dairy,12.0,41.0,2026-02-07,Walk-in
+458,Wheat Flour 5kg,Grocery,,219.0,2026-03-30,Walk-in
+459,Biscuits,Snacks,7.0,32.0,2026-02-21,Wholesale
+460,Biscuits,Snacks,9.0,33.0,2026-02-05,Regular
+461,Toothpaste,Personal Care,2.0,88.0,2026-06-21,Wholesale
+462,Toothpaste,Personal Care,8.0,95.0,2026-01-14,Regular
+463,Paneer 200g,Dairy,16.0,,2026-01-26,Wholesale
+464,Tea Powder 250g,Grocery,,115.0,2026-02-10,Walk-in
+465,Dishwash Liquid,Household,7.0,97.0,2026-03-15,Walk-in
+466,Chips,Snacks,2.0,25.0,2026-01-23,Wholesale
+467,Toothpaste,Personal Care,2.0,93.0,2026-02-14,Walk-in
+468,Soap,Personal Care,13.0,30.0,2026-05-07,Regular
+469,Chips,Snacks,1.0,15.0,2026-03-18,Wholesale
+470,Cooking Oil 1L,Grocery,10.0,150.0,2026-04-27,Wholesale
+471,Dishwash Liquid,Household,17.0,92.0,2026-04-30,Walk-in
+472,Shampoo,Personal Care,11.0,176.0,2026-02-11,Wholesale
+473,Detergent 1kg,Household,9.0,135.0,2026-02-17,Regular
+474,Namkeen 200g,Snacks,19.0,59.0,2026-06-22,Regular
+475,Soap,Personal Care,13.0,39.0,2026-04-20,Wholesale
+476,Namkeen 200g,Snacks,13.0,56.0,2026-06-21,Regular
+477,Soap,Personal Care,16.0,32.0,2026-03-24,Regular
+478,Rice 5kg,Grocery,13.0,349.0,2026-03-02,Walk-in
+479,Biscuits,Snacks,10.0,30.0,2026-05-30,Wholesale
+480,Rice 5kg,Grocery,12.0,349.0,2026-06-27,Regular
+481,Wheat Flour 5kg,Grocery,4.0,225.0,2026-04-30,Walk-in
+482,Soap,Personal Care,17.0,36.0,2026-06-30,Walk-in
+483,Cooking Oil 1L,Grocery,10.0,155.0,2026-04-05,Wholesale
+484,Toothpaste,Personal Care,5.0,88.0,2026-05-03,Regular
+485,Detergent 1kg,Household,12.0,134.0,2026-04-17,Wholesale
+486,Dishwash Liquid,Household,7.0,98.0,2026-03-05,Wholesale
+487,Sugar 1kg,Grocery,15.0,48.0,2026-05-16,Wholesale
+488,Milk 1L,Dairy,19.0,51.0,2026-01-29,Regular
+489,Shampoo,Personal Care,18.0,184.0,2026-02-08,Regular
+490,Namkeen 200g,Snacks,15.0,63.0,2026-01-30,Wholesale
+491,Shampoo,Personal Care,16.0,184.0,2026-01-24,Wholesale
+492,Detergent 1kg,Household,15.0,125.0,2026-02-03,Wholesale
+493,Paneer 200g,Dairy,19.0,82.0,2026-01-15,Wholesale
+494,DETERGENT 1KG  ,Household,10.0,135.0,2026-01-06,Walk-in
+495,Biscuits,Snacks,7.0,25.0,2026-05-29,Regular
+496,Wheat Flour 5kg,Grocery,,221.0,2026-06-29,Regular
+497,Wheat Flour 5kg,Grocery,16.0,216.0,2026-01-09,Walk-in
+498,Paneer 200g,Dairy,5.0,77.0,2026-06-14,Wholesale
+499,Paneer 200g,Dairy,13.0,80.0,2026-04-25,Walk-in
+500,Curd 500g,Dairy,18.0,36.0,2026-02-04,Wholesale
+501,Milk 1L,Dairy,6.0,51.0,2026-05-18,Walk-in
+502,Tea Powder 250g,Grocery,1.0,118.0,2026-01-06,Walk-in
+503,Detergent 1kg,Household,18.0,135.0,2026-04-19,Wholesale
+504,Curd 500g,Dairy,8.0,38.0,2026-04-28,Walk-in
+505,Tea Powder 250g,Grocery,7.0,119.0,2026-01-29,Regular
+506,Paneer 200g,Dairy,1.0,84.0,2026-03-03,Regular
+507,Sugar 1kg,Grocery,20.0,41.0,2026-01-09,Walk-in
+508,Wheat Flour 5kg,Grocery,2.0,218.0,2026-04-13,Walk-in
+509,Toothpaste,Personal Care,7.0,93.0,2026-01-15,Regular
+510,Chips,Snacks,19.0,18.0,2026-03-23,Wholesale
+511,Namkeen 200g,Snacks,10.0,58.0,2026-02-06,Wholesale
+512,Toothpaste,Personal Care,10.0,91.0,2026-03-12,Regular
+513,Soap,Personal Care,14.0,40.0,2026-05-23,Walk-in
+514,Wheat Flour 5kg,Grocery,13.0,220.0,2026-05-15,Walk-in
+515,Paneer 200g,Dairy,5.0,81.0,2026-03-18,Walk-in
+516,Soap,Personal Care,16.0,38.0,2026-03-03,Regular
+517,Chips,Snacks,15.0,17.0,2026-01-15,Wholesale
+518,Paneer 200g,Dairy,18.0,81.0,2026-05-16,Regular
+519,Curd 500g,Dairy,9.0,38.0,2026-02-22,Walk-in
+520,Sugar 1kg,Grocery,12.0,47.0,2026-01-24,Wholesale
+521,Shampoo,Personal Care,9.0,175.0,2026-04-07,Wholesale
+522,Wheat Flour 5kg,Grocery,7.0,216.0,2026-05-31,Wholesale
+523,Shampoo,Personal Care,7.0,182.0,2026-03-27,Walk-in
+524,Rice 5kg,Grocery,7.0,348.0,2026-01-31,Wholesale
+525,Dishwash Liquid,Household,20.0,93.0,2026-06-30,Regular
+526,Curd 500g,Dairy,18.0,38.0,2026-03-24,Walk-in
+527,Curd 500g,Dairy,18.0,42.0,2026-06-16,Walk-in
+528,Chips,Snacks,12.0,19.0,2026-05-12,Walk-in
+529,Detergent 1kg,Household,16.0,126.0,2026-03-23,Regular
+530,Milk 1L,Dairy,14.0,55.0,2026-01-12,Wholesale
+531,Toothpaste,Personal Care,1.0,87.0,2026-03-08,Wholesale
+532,Paneer 200g,Dairy,5.0,79.0,2026-02-20,Walk-in
+533,Toothpaste,Personal Care,19.0,91.0,2026-03-04,Walk-in
+534,Namkeen 200g,Snacks,16.0,59.0,2026-06-14,Wholesale
+535,Dishwash Liquid,Household,6.0,97.0,2026-04-01,Regular
+536,Tea Powder 250g,Grocery,16.0,123.0,2026-02-17,Wholesale
+537,Wheat Flour 5kg,Grocery,2.0,223.0,2026-01-20,Wholesale
+538,Wheat Flour 5kg,Grocery,14.0,215.0,2026-02-05,Wholesale
+539,Toothpaste,Personal Care,5.0,86.0,2026-01-03,Regular
+540,Detergent 1kg,Household,2.0,130.0,2026-06-08,Wholesale
+541,Dishwash Liquid,Household,16.0,100.0,2026-01-05,Regular
+542,Paneer 200g,Dairy,1.0,75.0,2026-05-16,Wholesale
+543,Biscuits,Snacks,10.0,33.0,2026-01-05,Wholesale
+544,Paneer 200g,Dairy,4.0,77.0,2026-01-25,Wholesale
+545,Tea Powder 250g,Grocery,7.0,,2026-06-08,Wholesale
+546,Biscuits,Snacks,9.0,30.0,2026-04-12,Regular
+547,Milk 1L,Dairy,15.0,56.0,2026-05-25,Regular
+548,Toothpaste,Personal Care,3.0,89.0,2026-06-17,Wholesale
+549,Wheat Flour 5kg,Grocery,13.0,216.0,2026-04-08,Walk-in
+550,Dishwash Liquid,Household,1.0,90.0,2026-06-29,Regular
+551,Sugar 1kg,Grocery,14.0,47.0,2026-06-15,Walk-in
+552,Cooking Oil 1L,Grocery,2.0,153.0,2026-02-28,Regular
+553,Dishwash Liquid,Household,2.0,94.0,2026-01-20,Wholesale
+554,Biscuits,Snacks,19.0,33.0,2026-06-18,Regular
+555,Soap,Personal Care,1.0,35.0,2026-02-23,Wholesale
+556,Tea Powder 250g,Grocery,3.0,121.0,2026-03-18,Regular
+557,Toothpaste,Personal Care,13.0,94.0,2026-06-23,Wholesale
+558,Namkeen 200g,Snacks,5.0,61.0,2026-06-26,Wholesale
+559,Sugar 1kg,Grocery,12.0,48.0,2026-01-14,Regular
+560,Paneer 200g,Dairy,3.0,78.0,2026-03-29,Wholesale
+561,Curd 500g,Dairy,1.0,40.0,2026-06-12,Walk-in
+562,Detergent 1kg,Household,8.0,132.0,2026-04-02,Wholesale
+563,Curd 500g,Dairy,6.0,41.0,2026-06-24,Wholesale
+564,Curd 500g,Dairy,20.0,36.0,2026-03-17,Regular
+565,Sugar 1kg,Grocery,9.0,41.0,2026-02-09,Walk-in
+566,Tea Powder 250g,Grocery,11.0,121.0,2026-04-03,Regular
+567,Sugar 1kg,Grocery,10.0,40.0,2026-04-24,Walk-in
+568,Biscuits,Snacks,5.0,26.0,2026-01-23,Regular
+569,Paneer 200g,Dairy,18.0,82.0,2026-05-23,Wholesale
+570,PANEER 200G  ,Dairy,1.0,76.0,2026-01-23,Walk-in
+571,Sugar 1kg,Grocery,20.0,49.0,2026-03-25,Walk-in
+572,Rice 5kg,Grocery,14.0,349.0,2026-04-10,Regular
+573,Toothpaste,Personal Care,,94.0,2026-02-13,Wholesale
+574,Curd 500g,Dairy,5.0,37.0,2026-03-10,Walk-in
+575,Biscuits,Snacks,5.0,32.0,2026-01-17,Regular
+576,Paneer 200g,Dairy,14.0,79.0,2026-03-18,Walk-in
+577,Sugar 1kg,Grocery,9.0,45.0,2026-03-05,Wholesale
+578,Dishwash Liquid,Household,20.0,99.0,2026-02-20,Walk-in
+579,Cooking Oil 1L,Grocery,10.0,147.0,2026-01-02,Walk-in
+580,Namkeen 200g,Snacks,13.0,64.0,2026-03-26,Walk-in
+581,Namkeen 200g,Snacks,20.0,61.0,2026-02-04,Walk-in
+582,Namkeen 200g,Snacks,7.0,64.0,2026-05-03,Walk-in
+583,Soap,Personal Care,11.0,36.0,2026-03-16,Wholesale
+584,Dishwash Liquid,Household,8.0,99.0,2026-03-25,Walk-in
+585,Biscuits,Snacks,12.0,31.0,2026-01-30,Wholesale
+586,Shampoo,Personal Care,18.0,184.0,2026-02-16,Wholesale
+587,Rice 5kg,Grocery,7.0,352.0,2026-04-23,Walk-in
+588,Sugar 1kg,Grocery,16.0,46.0,2026-02-05,Wholesale
+589,Chips,Snacks,9.0,18.0,2026-06-18,Regular
+590,Paneer 200g,Dairy,3.0,81.0,2026-04-25,Wholesale
+591,Dishwash Liquid,Household,13.0,99.0,2026-05-17,Wholesale
+592,Paneer 200g,Dairy,2.0,83.0,2026-04-03,Wholesale
+593,Sugar 1kg,Grocery,8.0,41.0,2026-06-18,Wholesale
+594,Milk 1L,Dairy,20.0,52.0,2026-01-12,Wholesale
+595,Curd 500g,Dairy,14.0,40.0,2026-01-28,Regular
+596,Cooking Oil 1L,Grocery,8.0,149.0,2026-05-11,Wholesale
+597,Toothpaste,Personal Care,12.0,92.0,2026-04-11,Walk-in
+598,Tea Powder 250g,Grocery,1.0,120.0,2026-05-04,Regular
+599,Chips,Snacks,3.0,21.0,2026-01-30,Wholesale
+600,Tea Powder 250g,Grocery,10.0,120.0,2026-03-29,Walk-in
+601,Shampoo,Personal Care,16.0,183.0,2026-03-31,Walk-in
+602,Cooking Oil 1L,Grocery,15.0,152.0,2026-03-23,Regular
+603,Chips,Snacks,4.0,15.0,2026-01-06,Walk-in
+604,Cooking Oil 1L,Grocery,6.0,155.0,2026-03-04,Wholesale
+605,Soap,Personal Care,6.0,38.0,2026-03-26,Wholesale
+606,Paneer 200g,Dairy,,82.0,2026-04-14,Wholesale
+607,Soap,Personal Care,14.0,32.0,2026-04-12,Regular
+608,SHAMPOO  ,Personal Care,19.0,182.0,2026-04-20,Walk-in
+609,Rice 5kg,Grocery,7.0,,2026-03-13,Wholesale
+610,Sugar 1kg,Grocery,4.0,49.0,2026-05-18,Regular
+611,Milk 1L,Dairy,7.0,55.0,2026-04-28,Regular
+612,Biscuits,Snacks,16.0,35.0,2026-05-16,Wholesale
+613,Namkeen 200g,Snacks,13.0,64.0,2026-06-06,Walk-in
+614,Cooking Oil 1L,Grocery,12.0,150.0,2026-04-28,Wholesale
+615,Soap,Personal Care,10.0,40.0,2026-06-07,Wholesale
+616,Sugar 1kg,Grocery,5.0,50.0,2026-03-22,Regular
+617,Toothpaste,Personal Care,4.0,89.0,2026-02-16,Walk-in
+618,Tea Powder 250g,Grocery,13.0,123.0,2026-04-18,Wholesale
+619,Tea Powder 250g,Grocery,13.0,124.0,2026-04-19,Regular
+620,Dishwash Liquid,Household,18.0,100.0,2026-06-27,Wholesale
+621,Soap,Personal Care,6.0,38.0,2026-05-06,Walk-in
+622,Tea Powder 250g,Grocery,11.0,117.0,2026-04-26,Wholesale
+623,Wheat Flour 5kg,Grocery,1.0,220.0,2026-05-05,Regular
+624,Shampoo,Personal Care,18.0,181.0,2026-05-10,Wholesale
+625,Dishwash Liquid,Household,16.0,96.0,2026-04-17,Wholesale
+626,Detergent 1kg,Household,6.0,132.0,2026-01-22,Wholesale
+627,Rice 5kg,Grocery,10.0,348.0,2026-01-09,Walk-in
+628,Toothpaste,Personal Care,10.0,93.0,2026-02-13,Walk-in
+629,Dishwash Liquid,Household,17.0,98.0,2026-01-29,Wholesale
+630,Cooking Oil 1L,Grocery,18.0,149.0,2026-04-04,Wholesale
+631,Wheat Flour 5kg,Grocery,18.0,222.0,2026-02-25,Walk-in
+632,Cooking Oil 1L,Grocery,8.0,155.0,2026-03-18,Regular
+633,Detergent 1kg,Household,12.0,129.0,2026-01-23,Walk-in
+634,Cooking Oil 1L,Grocery,7.0,148.0,2026-05-31,Wholesale
+635,Milk 1L,Dairy,14.0,59.0,2026-02-12,Wholesale
+636,Tea Powder 250g,Grocery,7.0,118.0,2026-01-16,Wholesale
+637,Milk 1L,Dairy,9.0,58.0,2026-06-02,Wholesale
+638,Soap,Personal Care,10.0,35.0,2026-03-16,Wholesale
+639,Biscuits,Snacks,4.0,33.0,2026-02-04,Walk-in
+640,Wheat Flour 5kg,Grocery,5.0,219.0,2026-06-29,Regular
+641,Toothpaste,Personal Care,11.0,87.0,2026-03-05,Wholesale
+642,Curd 500g,Dairy,5.0,42.0,2026-05-28,Wholesale
+643,Biscuits,Snacks,14.0,35.0,2026-04-07,Walk-in
+644,Sugar 1kg,Grocery,3.0,50.0,2026-04-14,Wholesale
+645,Biscuits,Snacks,15.0,30.0,2026-05-05,Walk-in
+646,Rice 5kg,Grocery,15.0,346.0,2026-06-12,Wholesale
+647,Milk 1L,Dairy,18.0,51.0,2026-04-12,Regular
+648,Paneer 200g,Dairy,16.0,78.0,2026-03-10,Walk-in
+649,Chips,Snacks,18.0,20.0,2026-05-28,Regular
+650,Dishwash Liquid,Household,2.0,95.0,2026-01-12,Regular
+651,Detergent 1kg,Household,4.0,125.0,2026-02-10,Walk-in
+652,Detergent 1kg,Household,,125.0,2026-02-21,Wholesale
+653,Tea Powder 250g,Grocery,10.0,125.0,2026-02-10,Walk-in
+654,Sugar 1kg,Grocery,12.0,50.0,2026-03-06,Regular
+655,Milk 1L,Dairy,6.0,60.0,2026-01-14,Walk-in
+656,Chips,Snacks,14.0,18.0,2026-06-17,Regular
+657,Cooking Oil 1L,Grocery,7.0,145.0,2026-05-03,Regular
+658,Tea Powder 250g,Grocery,8.0,124.0,2026-05-13,Wholesale
+659,Detergent 1kg,Household,1.0,125.0,2026-06-28,Walk-in
+660,Cooking Oil 1L,Grocery,5.0,151.0,2026-05-03,Regular
+661,Toothpaste,Personal Care,3.0,91.0,2026-01-27,Regular
+662,Namkeen 200g,Snacks,10.0,60.0,2026-02-05,Walk-in
+663,Tea Powder 250g,Grocery,5.0,125.0,2026-01-18,Wholesale
+664,Rice 5kg,Grocery,6.0,354.0,2026-04-23,Walk-in
+665,Shampoo,Personal Care,5.0,185.0,2026-04-16,Wholesale
+666,Detergent 1kg,Household,3.0,128.0,2026-01-26,Regular
+667,Cooking Oil 1L,Grocery,13.0,154.0,2026-03-31,Walk-in
+668,Namkeen 200g,Snacks,8.0,57.0,2026-03-12,Wholesale
+669,Sugar 1kg,Grocery,18.0,43.0,2026-06-03,Wholesale
+670,Chips,Snacks,10.0,15.0,2026-02-22,Wholesale
+671,Shampoo,Personal Care,10.0,181.0,2026-06-15,Regular
+672,Toothpaste,Personal Care,13.0,92.0,2026-01-29,Regular
+673,Dishwash Liquid,Household,20.0,100.0,2026-01-19,Wholesale
+674,Rice 5kg,Grocery,11.0,350.0,2026-02-03,Walk-in
+675,Paneer 200g,Dairy,18.0,80.0,2026-06-24,Regular
+676,Dishwash Liquid,Household,1.0,91.0,2026-05-31,Regular
+677,Rice 5kg,Grocery,7.0,349.0,2026-01-11,Regular
+678,Curd 500g,Dairy,,43.0,2026-06-10,Wholesale
+679,Paneer 200g,Dairy,13.0,81.0,2026-01-22,Wholesale
+680,Tea Powder 250g,Grocery,,119.0,2026-03-21,Regular
+681,Shampoo,Personal Care,18.0,177.0,2026-03-25,Walk-in
+682,Sugar 1kg,Grocery,14.0,44.0,2026-03-03,Regular
+683,Toothpaste,Personal Care,14.0,86.0,2026-01-30,Walk-in
+684,Wheat Flour 5kg,Grocery,6.0,219.0,2026-01-31,Regular
+685,Tea Powder 250g,Grocery,6.0,115.0,2026-05-08,Walk-in
+686,BISCUITS  ,Snacks,12.0,27.0,2026-02-02,Wholesale
+687,Biscuits,Snacks,1.0,26.0,2026-03-27,Walk-in
+688,Biscuits,Snacks,3.0,33.0,2026-03-09,Wholesale
+689,Sugar 1kg,Grocery,15.0,47.0,2026-05-11,Walk-in
+690,Wheat Flour 5kg,Grocery,19.0,222.0,2026-02-12,Walk-in
+691,Soap,Personal Care,4.0,34.0,2026-05-27,Wholesale
+692,Cooking Oil 1L,Grocery,17.0,148.0,2026-01-01,Regular
+693,Rice 5kg,Grocery,2.0,348.0,2026-05-01,Walk-in
+694,Curd 500g,Dairy,6.0,37.0,2026-01-10,Wholesale
+695,Paneer 200g,Dairy,11.0,78.0,2026-03-05,Walk-in
+696,Namkeen 200g,Snacks,3.0,59.0,2026-05-27,Walk-in
+697,Cooking Oil 1L,Grocery,2.0,153.0,2026-02-15,Regular
+698,Wheat Flour 5kg,Grocery,3.0,221.0,2026-04-30,Walk-in
+699,Chips,Snacks,3.0,20.0,2026-05-22,Walk-in
+700,Rice 5kg,Grocery,7.0,350.0,2026-03-16,Wholesale
+701,Chips,Snacks,,24.0,2026-04-29,Walk-in
+702,Dishwash Liquid,Household,18.0,93.0,2026-03-04,Regular
+703,Rice 5kg,Grocery,1.0,351.0,2026-03-01,Wholesale
+704,Milk 1L,Dairy,1.0,60.0,2026-03-27,Regular
+705,Curd 500g,Dairy,4.0,39.0,2026-02-22,Wholesale
+706,Toothpaste,Personal Care,16.0,91.0,2026-01-16,Regular
+707,Biscuits,Snacks,2.0,26.0,2026-03-01,Wholesale
+708,Paneer 200g,Dairy,15.0,80.0,2026-01-22,Wholesale
+709,Cooking Oil 1L,Grocery,5.0,153.0,2026-06-13,Walk-in
+710,Sugar 1kg,Grocery,19.0,49.0,2026-01-16,Walk-in
+711,Tea Powder 250g,Grocery,10.0,118.0,2026-03-08,Walk-in
+712,Curd 500g,Dairy,11.0,40.0,2026-04-26,Walk-in
+713,Toothpaste,Personal Care,7.0,86.0,2026-02-04,Wholesale
+714,Cooking Oil 1L,Grocery,4.0,147.0,2026-02-12,Walk-in
+715,Detergent 1kg,Household,14.0,130.0,2026-01-31,Wholesale
+716,Milk 1L,Dairy,15.0,53.0,2026-03-20,Walk-in
+717,Biscuits,Snacks,3.0,26.0,2026-02-10,Wholesale
+718,Chips,Snacks,2.0,24.0,2026-02-25,Walk-in
+719,Tea Powder 250g,Grocery,8.0,116.0,2026-04-02,Walk-in
+720,Wheat Flour 5kg,Grocery,10.0,225.0,2026-03-08,Regular
+721,Rice 5kg,Grocery,15.0,351.0,2026-05-23,Wholesale
+722,Toothpaste,Personal Care,15.0,86.0,2026-01-27,Regular
+723,Cooking Oil 1L,Grocery,2.0,145.0,2026-02-26,Regular
+724,Shampoo,Personal Care,12.0,181.0,2026-06-25,Wholesale
+725,Sugar 1kg,Grocery,19.0,49.0,2026-03-08,Regular
+726,Rice 5kg,Grocery,7.0,346.0,2026-06-15,Walk-in
+727,Tea Powder 250g,Grocery,11.0,116.0,2026-02-01,Regular
+728,Detergent 1kg,Household,6.0,125.0,2026-05-27,Walk-in
+729,Curd 500g,Dairy,1.0,42.0,2026-04-08,Wholesale
+730,Paneer 200g,Dairy,12.0,77.0,2026-02-24,Regular
+731,Biscuits,Snacks,15.0,29.0,2026-02-08,Regular
+732,TOOTHPASTE  ,Personal Care,10.0,95.0,2026-05-08,Walk-in
+733,Dishwash Liquid,Household,3.0,90.0,2026-03-13,Walk-in
+734,Tea Powder 250g,Grocery,7.0,121.0,2026-06-14,Wholesale
+735,Toothpaste,Personal Care,18.0,95.0,2026-01-05,Walk-in
+736,Milk 1L,Dairy,18.0,57.0,2026-05-05,Walk-in
+737,Namkeen 200g,Snacks,9.0,61.0,2026-02-16,Regular
+738,Namkeen 200g,Snacks,8.0,64.0,2026-01-08,Walk-in
+739,Wheat Flour 5kg,Grocery,17.0,222.0,2026-04-02,Wholesale
+740,Toothpaste,Personal Care,4.0,87.0,2026-03-05,Wholesale
+741,Toothpaste,Personal Care,18.0,89.0,2026-01-15,Regular
+742,Curd 500g,Dairy,6.0,40.0,2026-02-15,Regular
+743,Namkeen 200g,Snacks,19.0,60.0,2026-01-08,Wholesale
+744,Milk 1L,Dairy,19.0,59.0,2026-02-06,Wholesale
+745,Shampoo,Personal Care,18.0,182.0,2026-03-21,Regular
+746,Dishwash Liquid,Household,3.0,90.0,2026-01-15,Regular
+747,Toothpaste,Personal Care,17.0,85.0,2026-05-03,Regular
+748,Namkeen 200g,Snacks,7.0,64.0,2026-02-03,Walk-in
+749,Soap,Personal Care,2.0,35.0,2026-01-06,Regular
+750,Tea Powder 250g,Grocery,17.0,116.0,2026-04-04,Regular
+751,Milk 1L,Dairy,13.0,60.0,2026-05-31,Regular
+752,Namkeen 200g,Snacks,11.0,59.0,2026-02-04,Regular
+753,Paneer 200g,Dairy,16.0,85.0,2026-06-16,Walk-in
+754,Soap,Personal Care,20.0,38.0,2026-04-02,Regular
+755,Soap,Personal Care,10.0,36.0,2026-06-26,Walk-in
+756,Tea Powder 250g,Grocery,1.0,117.0,2026-06-29,Wholesale
+757,Curd 500g,Dairy,2.0,44.0,2026-02-16,Wholesale
+758,Namkeen 200g,Snacks,8.0,64.0,2026-06-13,Wholesale
+759,Cooking Oil 1L,Grocery,5.0,152.0,2026-03-26,Wholesale
+760,Sugar 1kg,Grocery,12.0,43.0,2026-03-23,Regular
+761,Sugar 1kg,Grocery,11.0,50.0,2026-04-25,Regular
+762,Biscuits,Snacks,8.0,28.0,2026-06-27,Regular
+763,Milk 1L,Dairy,4.0,54.0,2026-01-01,Regular
+764,Curd 500g,Dairy,14.0,42.0,2026-02-12,Walk-in
+765,Dishwash Liquid,Household,12.0,96.0,2026-05-20,Walk-in
+766,Cooking Oil 1L,Grocery,19.0,,2026-06-16,Wholesale
+767,Toothpaste,Personal Care,15.0,87.0,2026-01-19,Regular
+768,Chips,Snacks,11.0,15.0,2026-03-08,Regular
+769,Sugar 1kg,Grocery,6.0,45.0,2026-04-07,Regular
+770,Sugar 1kg,Grocery,3.0,48.0,2026-03-28,Wholesale
+771,Dishwash Liquid,Household,14.0,90.0,2026-06-17,Regular
+772,Paneer 200g,Dairy,2.0,77.0,2026-01-26,Walk-in
+773,Shampoo,Personal Care,,178.0,2026-06-28,Wholesale
+774,Biscuits,Snacks,10.0,35.0,2026-03-18,Regular
+775,Cooking Oil 1L,Grocery,13.0,145.0,2026-05-27,Wholesale
+776,DISHWASH LIQUID  ,Household,2.0,92.0,2026-04-03,Regular
+777,Paneer 200g,Dairy,10.0,76.0,2026-06-19,Wholesale
+778,Dishwash Liquid,Household,4.0,93.0,2026-01-07,Regular
+779,Soap,Personal Care,10.0,40.0,2026-01-21,Walk-in
+780,Cooking Oil 1L,Grocery,13.0,149.0,2026-05-01,Walk-in
+781,Biscuits,Snacks,18.0,26.0,2026-04-10,Regular
+782,Milk 1L,Dairy,12.0,56.0,2026-02-17,Walk-in
+783,Wheat Flour 5kg,Grocery,15.0,219.0,2026-04-30,Walk-in
+784,Toothpaste,Personal Care,19.0,89.0,2026-01-16,Regular
+785,Cooking Oil 1L,Grocery,12.0,146.0,2026-05-19,Walk-in
+786,Toothpaste,Personal Care,2.0,93.0,2026-04-10,Wholesale
+787,Paneer 200g,Dairy,16.0,83.0,2026-05-27,Regular
+788,Dishwash Liquid,Household,3.0,94.0,2026-04-12,Wholesale
+789,Wheat Flour 5kg,Grocery,19.0,223.0,2026-05-13,Wholesale
+790,Tea Powder 250g,Grocery,15.0,116.0,2026-02-14,Regular
+791,Shampoo,Personal Care,5.0,178.0,2026-01-11,Walk-in
+792,Sugar 1kg,Grocery,14.0,50.0,2026-02-21,Wholesale
+793,Tea Powder 250g,Grocery,9.0,124.0,2026-03-23,Wholesale
+794,Sugar 1kg,Grocery,13.0,41.0,2026-05-23,Walk-in
+795,Namkeen 200g,Snacks,17.0,59.0,2026-04-28,Regular
+796,Paneer 200g,Dairy,14.0,76.0,2026-02-08,Regular
+797,Cooking Oil 1L,Grocery,19.0,146.0,2026-01-26,Walk-in
+798,Milk 1L,Dairy,9.0,56.0,2026-04-09,Wholesale
+799,Dishwash Liquid,Household,20.0,99.0,2026-05-02,Regular
+800,Soap,Personal Care,13.0,34.0,2026-02-06,Wholesale
+801,Curd 500g,Dairy,13.0,35.0,2026-03-26,Wholesale
+802,Toothpaste,Personal Care,16.0,85.0,2026-03-10,Walk-in
+803,Rice 5kg,Grocery,10.0,350.0,2026-03-21,Walk-in
+804,Dishwash Liquid,Household,4.0,100.0,2026-02-28,Regular
+805,Chips,Snacks,11.0,22.0,2026-03-10,Wholesale
+806,Paneer 200g,Dairy,3.0,84.0,2026-02-18,Walk-in
+807,Shampoo,Personal Care,16.0,181.0,2026-05-13,Walk-in
+808,Wheat Flour 5kg,Grocery,6.0,223.0,2026-01-17,Walk-in
+809,Curd 500g,Dairy,17.0,37.0,2026-05-26,Regular
+810,Soap,Personal Care,7.0,33.0,2026-01-15,Regular
+811,Wheat Flour 5kg,Grocery,2.0,222.0,2026-04-03,Wholesale
+812,Shampoo,Personal Care,12.0,179.0,2026-04-29,Wholesale
+813,Curd 500g,Dairy,4.0,45.0,2026-06-24,Regular
+814,Toothpaste,Personal Care,16.0,90.0,2026-06-02,Walk-in
+815,Soap,Personal Care,19.0,37.0,2026-05-22,Walk-in
+816,Milk 1L,Dairy,9.0,52.0,2026-06-26,Regular
+817,Chips,Snacks,13.0,15.0,2026-01-13,Regular
+818,Shampoo,Personal Care,8.0,178.0,2026-06-23,Regular
+819,Biscuits,Snacks,14.0,35.0,2026-05-12,Regular
+820,Rice 5kg,Grocery,5.0,352.0,2026-06-15,Regular
+821,Rice 5kg,Grocery,9.0,348.0,2026-06-05,Walk-in
+822,Biscuits,Snacks,13.0,31.0,2026-03-31,Walk-in
+823,Biscuits,Snacks,15.0,28.0,2026-03-19,Wholesale
+824,Curd 500g,Dairy,4.0,44.0,2026-01-02,Wholesale
+825,Milk 1L,Dairy,20.0,58.0,2026-06-05,Walk-in
+826,Chips,Snacks,4.0,25.0,2026-05-04,Regular
+827,Namkeen 200g,Snacks,11.0,59.0,2026-03-12,Walk-in
+828,Chips,Snacks,5.0,18.0,2026-05-13,Regular
+829,Wheat Flour 5kg,Grocery,13.0,224.0,2026-06-19,Walk-in
+830,Tea Powder 250g,Grocery,16.0,115.0,2026-03-17,Walk-in
+831,Paneer 200g,Dairy,13.0,81.0,2026-01-10,Wholesale
+832,Shampoo,Personal Care,,180.0,2026-06-25,Wholesale
+833,Dishwash Liquid,Household,12.0,100.0,2026-05-10,Walk-in
+834,Soap,Personal Care,18.0,40.0,2026-02-16,Walk-in
+835,Cooking Oil 1L,Grocery,5.0,152.0,2026-03-08,Wholesale
+836,Soap,Personal Care,11.0,40.0,2026-06-17,Regular
+837,Toothpaste,Personal Care,8.0,90.0,2026-03-20,Walk-in
+838,Namkeen 200g,Snacks,9.0,60.0,2026-05-30,Walk-in
+839,Detergent 1kg,Household,16.0,126.0,2026-01-14,Wholesale
+840,Sugar 1kg,Grocery,7.0,47.0,2026-05-09,Regular
+841,Curd 500g,Dairy,10.0,43.0,2026-04-16,Regular
+842,Tea Powder 250g,Grocery,7.0,117.0,2026-03-29,Walk-in
+843,Detergent 1kg,Household,11.0,127.0,2026-02-16,Regular
+844,Dishwash Liquid,Household,6.0,95.0,2026-03-22,Wholesale
+845,Wheat Flour 5kg,Grocery,15.0,215.0,2026-03-12,Regular
+846,Soap,Personal Care,,39.0,2026-05-06,Regular
+847,Tea Powder 250g,Grocery,14.0,124.0,2026-06-12,Walk-in
+848,Curd 500g,Dairy,16.0,41.0,2026-04-09,Regular
+849,Wheat Flour 5kg,Grocery,7.0,,2026-04-06,Regular
+850,Namkeen 200g,Snacks,7.0,63.0,2026-01-05,Wholesale
+851,Rice 5kg,Grocery,8.0,355.0,2026-02-27,Wholesale
+852,Milk 1L,Dairy,5.0,54.0,2026-01-27,Walk-in
+853,Chips,Snacks,3.0,17.0,2026-01-12,Walk-in
+854,Chips,Snacks,17.0,22.0,2026-06-02,Wholesale
+855,Namkeen 200g,Snacks,5.0,61.0,2026-03-29,Walk-in
+856,Milk 1L,Dairy,6.0,53.0,2026-04-14,Regular
+857,Toothpaste,Personal Care,5.0,88.0,2026-02-24,Wholesale
+858,Rice 5kg,Grocery,17.0,354.0,2026-02-13,Regular
+859,Milk 1L,Dairy,,60.0,2026-04-07,Wholesale
+860,Biscuits,Snacks,20.0,33.0,2026-01-13,Wholesale
+861,Wheat Flour 5kg,Grocery,4.0,225.0,2026-06-17,Regular
+862,Wheat Flour 5kg,Grocery,14.0,216.0,2026-04-24,Walk-in
+863,Cooking Oil 1L,Grocery,9.0,153.0,2026-05-02,Wholesale
+864,Tea Powder 250g,Grocery,1.0,118.0,2026-03-19,Walk-in
+865,Cooking Oil 1L,Grocery,17.0,155.0,2026-03-11,Wholesale
+866,Tea Powder 250g,Grocery,4.0,121.0,2026-05-11,Wholesale
+867,Cooking Oil 1L,Grocery,4.0,149.0,2026-01-28,Walk-in
+868,Shampoo,Personal Care,7.0,184.0,2026-03-09,Wholesale
+869,Shampoo,Personal Care,14.0,180.0,2026-03-17,Regular
+870,Wheat Flour 5kg,Grocery,16.0,223.0,2026-02-23,Wholesale
+871,Dishwash Liquid,Household,8.0,95.0,2026-01-01,Regular
+872,Sugar 1kg,Grocery,19.0,41.0,2026-06-21,Walk-in
+873,Tea Powder 250g,Grocery,17.0,116.0,2026-01-20,Wholesale
+874,Cooking Oil 1L,Grocery,8.0,149.0,2026-04-27,Walk-in
+875,Biscuits,Snacks,2.0,32.0,2026-01-26,Regular
+876,Wheat Flour 5kg,Grocery,12.0,219.0,2026-06-23,Walk-in
+877,Paneer 200g,Dairy,4.0,76.0,2026-01-12,Regular
+878,Tea Powder 250g,Grocery,6.0,125.0,2026-03-26,Walk-in
+879,Detergent 1kg,Household,9.0,134.0,2026-01-24,Walk-in
+880,Namkeen 200g,Snacks,4.0,57.0,2026-04-13,Walk-in
+881,Detergent 1kg,Household,13.0,129.0,2026-06-26,Walk-in
+882,Paneer 200g,Dairy,6.0,85.0,2026-01-29,Regular
+883,Wheat Flour 5kg,Grocery,4.0,217.0,2026-04-17,Wholesale
+884,Dishwash Liquid,Household,15.0,99.0,2026-02-16,Wholesale
+885,Curd 500g,Dairy,20.0,40.0,2026-01-08,Wholesale
+886,Tea Powder 250g,Grocery,16.0,122.0,2026-01-29,Walk-in
+887,Detergent 1kg,Household,3.0,125.0,2026-03-08,Wholesale
+888,Namkeen 200g,Snacks,17.0,55.0,2026-05-28,Wholesale
+889,Toothpaste,Personal Care,11.0,95.0,2026-05-13,Wholesale
+890,Cooking Oil 1L,Grocery,8.0,151.0,2026-05-04,Walk-in
+891,Curd 500g,Dairy,18.0,37.0,2026-06-06,Regular
+892,Rice 5kg,Grocery,6.0,355.0,2026-05-10,Walk-in
+893,Dishwash Liquid,Household,3.0,92.0,2026-05-06,Walk-in
+894,Toothpaste,Personal Care,9.0,90.0,2026-01-13,Wholesale
+895,Toothpaste,Personal Care,13.0,93.0,2026-04-14,Regular
+896,Sugar 1kg,Grocery,15.0,47.0,2026-05-27,Walk-in
+897,Sugar 1kg,Grocery,15.0,47.0,2026-03-22,Regular
+898,Dishwash Liquid,Household,1.0,100.0,2026-01-27,Walk-in
+899,Paneer 200g,Dairy,18.0,75.0,2026-05-21,Regular
+900,Sugar 1kg,Grocery,20.0,49.0,2026-06-13,Walk-in
+901,Shampoo,Personal Care,15.0,185.0,2026-03-29,Walk-in
+902,Wheat Flour 5kg,Grocery,15.0,218.0,2026-03-26,Wholesale
+903,Dishwash Liquid,Household,12.0,100.0,2026-04-26,Regular
+904,Cooking Oil 1L,Grocery,8.0,155.0,2026-01-01,Walk-in
+905,Milk 1L,Dairy,10.0,60.0,2026-05-21,Wholesale
+906,Milk 1L,Dairy,2.0,51.0,2026-02-12,Walk-in
+907,Tea Powder 250g,Grocery,4.0,121.0,2026-03-07,Wholesale
+908,Shampoo,Personal Care,4.0,178.0,2026-04-11,Regular
+909,Detergent 1kg,Household,11.0,128.0,2026-01-28,Walk-in
+910,Wheat Flour 5kg,Grocery,19.0,225.0,2026-02-01,Walk-in
+911,Detergent 1kg,Household,19.0,135.0,2026-05-10,Regular
+912,Dishwash Liquid,Household,17.0,90.0,2026-01-13,Wholesale
+913,Paneer 200g,Dairy,16.0,84.0,2026-05-11,Regular
+914,Soap,Personal Care,4.0,32.0,2026-04-10,Wholesale
+915,Namkeen 200g,Snacks,13.0,63.0,2026-04-18,Wholesale
+916,Toothpaste,Personal Care,13.0,89.0,2026-03-29,Walk-in
+917,Detergent 1kg,Household,5.0,127.0,2026-04-16,Wholesale
+918,Chips,Snacks,11.0,23.0,2026-05-22,Wholesale
+919,Shampoo,Personal Care,7.0,178.0,2026-06-09,Wholesale
+920,Chips,Snacks,12.0,25.0,2026-06-22,Regular
+921,Soap,Personal Care,18.0,38.0,2026-06-27,Wholesale
+922,Namkeen 200g,Snacks,12.0,56.0,2026-05-24,Walk-in
+923,Paneer 200g,Dairy,18.0,85.0,2026-03-15,Walk-in
+924,Rice 5kg,Grocery,4.0,353.0,2026-01-07,Walk-in
+925,Tea Powder 250g,Grocery,2.0,115.0,2026-02-21,Walk-in
+926,Soap,Personal Care,9.0,34.0,2026-02-07,Regular
+927,Chips,Snacks,18.0,18.0,2026-01-09,Walk-in
+928,Detergent 1kg,Household,20.0,126.0,2026-06-22,Wholesale
+929,Toothpaste,Personal Care,18.0,95.0,2026-04-10,Regular
+930,Chips,Snacks,2.0,25.0,2026-04-08,Walk-in
+931,Paneer 200g,Dairy,11.0,85.0,2026-05-22,Regular
+932,Rice 5kg,Grocery,7.0,349.0,2026-06-08,Walk-in
+933,Toothpaste,Personal Care,12.0,95.0,2026-05-31,Wholesale
+934,Shampoo,Personal Care,10.0,178.0,2026-04-25,Regular
+935,Sugar 1kg,Grocery,6.0,42.0,2026-05-12,Regular
+936,Curd 500g,Dairy,14.0,35.0,2026-03-13,Wholesale
+937,Biscuits,Snacks,6.0,27.0,2026-05-30,Walk-in
+938,Rice 5kg,Grocery,15.0,350.0,2026-02-09,Regular
+939,Tea Powder 250g,Grocery,20.0,120.0,2026-01-14,Wholesale
+940,Chips,Snacks,19.0,22.0,2026-05-21,Walk-in
+941,Sugar 1kg,Grocery,17.0,45.0,2026-02-26,Regular
+942,Sugar 1kg,Grocery,,48.0,2026-04-17,Wholesale
+943,Curd 500g,Dairy,12.0,36.0,2026-02-26,Regular
+944,Namkeen 200g,Snacks,12.0,60.0,2026-03-17,Regular
+945,Dishwash Liquid,Household,1.0,98.0,2026-01-30,Wholesale
+946,MILK 1L  ,Dairy,8.0,57.0,2026-06-14,Wholesale
+947,Toothpaste,Personal Care,11.0,85.0,2026-04-08,Regular
+948,Curd 500g,Dairy,18.0,39.0,2026-03-14,Regular
+949,Milk 1L,Dairy,17.0,58.0,2026-04-25,Walk-in
+950,Wheat Flour 5kg,Grocery,7.0,219.0,2026-03-24,Wholesale
+951,Sugar 1kg,Grocery,6.0,41.0,2026-05-18,Wholesale
+952,RICE 5KG  ,Grocery,3.0,355.0,2026-02-23,Wholesale
+953,Shampoo,Personal Care,14.0,185.0,2026-01-27,Regular
+954,Paneer 200g,Dairy,3.0,85.0,2026-06-25,Regular
+955,Rice 5kg,Grocery,11.0,352.0,2026-01-10,Regular
+956,Sugar 1kg,Grocery,6.0,40.0,2026-03-06,Wholesale
+957,Sugar 1kg,Grocery,8.0,49.0,2026-03-08,Walk-in
+958,Curd 500g,Dairy,13.0,42.0,2026-04-21,Walk-in
+959,Rice 5kg,Grocery,4.0,351.0,2026-05-17,Regular
+960,Sugar 1kg,Grocery,2.0,49.0,2026-06-29,Regular
+961,Milk 1L,Dairy,4.0,58.0,2026-03-16,Wholesale
+962,Chips,Snacks,3.0,24.0,2026-03-14,Walk-in
+963,Curd 500g,Dairy,1.0,41.0,2026-05-02,Regular
+964,Toothpaste,Personal Care,13.0,87.0,2026-05-20,Walk-in
+965,Tea Powder 250g,Grocery,12.0,119.0,2026-01-03,Wholesale
+966,Tea Powder 250g,Grocery,2.0,116.0,2026-01-02,Wholesale
+967,Curd 500g,Dairy,18.0,43.0,2026-01-22,Walk-in
+968,Shampoo,Personal Care,7.0,180.0,2026-04-16,Wholesale
+969,Tea Powder 250g,Grocery,6.0,117.0,2026-02-26,Wholesale
+970,Biscuits,Snacks,4.0,28.0,2026-02-16,Wholesale
+971,Wheat Flour 5kg,Grocery,15.0,223.0,2026-06-15,Wholesale
+972,Sugar 1kg,Grocery,3.0,44.0,2026-03-06,Regular
+973,Shampoo,Personal Care,16.0,184.0,2026-03-26,Walk-in
+974,Tea Powder 250g,Grocery,8.0,125.0,2026-01-26,Walk-in
+975,Sugar 1kg,Grocery,11.0,43.0,2026-05-05,Walk-in
+976,Namkeen 200g,Snacks,10.0,64.0,2026-06-27,Wholesale
+977,Tea Powder 250g,Grocery,19.0,124.0,2026-04-04,Walk-in
+978,Paneer 200g,Dairy,1.0,77.0,2026-03-22,Regular
+979,Toothpaste,Personal Care,,95.0,2026-03-12,Walk-in
+980,Tea Powder 250g,Grocery,11.0,125.0,2026-05-03,Walk-in
+981,Detergent 1kg,Household,10.0,130.0,2026-05-05,Wholesale
+982,Cooking Oil 1L,Grocery,20.0,147.0,2026-01-21,Walk-in
+983,Tea Powder 250g,Grocery,7.0,123.0,2026-03-09,Wholesale
+984,Sugar 1kg,Grocery,1.0,41.0,2026-05-10,Wholesale
+985,Rice 5kg,Grocery,19.0,354.0,2026-04-14,Wholesale
+986,Shampoo,Personal Care,18.0,175.0,2026-03-08,Wholesale
+987,Dishwash Liquid,Household,5.0,100.0,2026-04-04,Walk-in
+988,Toothpaste,Personal Care,10.0,94.0,2026-02-04,Walk-in
+989,Sugar 1kg,Grocery,12.0,46.0,2026-05-09,Regular
+990,Toothpaste,Personal Care,6.0,94.0,2026-05-12,Regular
+991,Detergent 1kg,Household,6.0,127.0,2026-05-25,Wholesale
+992,Tea Powder 250g,Grocery,12.0,122.0,2026-01-11,Regular
+993,Dishwash Liquid,Household,3.0,93.0,2026-03-09,Walk-in
+994,Toothpaste,Personal Care,7.0,85.0,2026-05-13,Walk-in
+995,Curd 500g,Dairy,15.0,42.0,2026-01-12,Regular
+996,Namkeen 200g,Snacks,17.0,56.0,2026-06-12,Walk-in
+997,Biscuits,Snacks,18.0,34.0,2026-05-26,Regular
+998,Curd 500g,Dairy,13.0,45.0,2026-04-04,Wholesale
+999,Sugar 1kg,Grocery,9.0,48.0,2026-04-07,Regular
+1000,Curd 500g,Dairy,12.0,40.0,2026-05-05,Walk-in
+1001,Rice 5kg,Grocery,5.0,353.0,2026-04-23,Regular
+1002,Toothpaste,Personal Care,17.0,86.0,2026-06-14,Walk-in
+1003,Shampoo,Personal Care,6.0,177.0,2026-02-10,Walk-in
+1004,Cooking Oil 1L,Grocery,8.0,155.0,2026-04-17,Walk-in
+1005,Cooking Oil 1L,Grocery,16.0,152.0,2026-05-03,Regular
+1006,Soap,Personal Care,14.0,40.0,2026-01-06,Regular
+1007,Wheat Flour 5kg,Grocery,19.0,217.0,2026-06-01,Regular
+1008,Tea Powder 250g,Grocery,17.0,125.0,2026-01-11,Wholesale
+1009,Tea Powder 250g,Grocery,6.0,115.0,2026-03-08,Regular
+1010,Curd 500g,Dairy,19.0,44.0,2026-06-13,Regular
+1011,Chips,Snacks,7.0,16.0,2026-04-25,Wholesale
+1012,Dishwash Liquid,Household,,97.0,2026-02-26,Walk-in
+1013,Tea Powder 250g,Grocery,6.0,124.0,2026-06-09,Wholesale
+1014,Biscuits,Snacks,11.0,27.0,2026-04-27,Wholesale
+1015,Sugar 1kg,Grocery,13.0,43.0,2026-04-09,Regular
+1016,Cooking Oil 1L,Grocery,7.0,145.0,2026-05-14,Wholesale
+1017,Paneer 200g,Dairy,20.0,77.0,2026-01-25,Regular
+1018,Dishwash Liquid,Household,20.0,99.0,2026-01-10,Wholesale
+1019,Cooking Oil 1L,Grocery,16.0,146.0,2026-06-18,Regular
+1020,Rice 5kg,Grocery,14.0,355.0,2026-05-14,Walk-in
+1021,Milk 1L,Dairy,17.0,50.0,2026-04-20,Regular
+1022,Dishwash Liquid,Household,12.0,96.0,2026-05-31,Wholesale
+1023,Cooking Oil 1L,Grocery,5.0,151.0,2026-03-07,Walk-in
+1024,Toothpaste,Personal Care,10.0,86.0,2026-06-03,Wholesale
+1025,Paneer 200g,Dairy,7.0,79.0,2026-01-02,Wholesale
+1026,Rice 5kg,Grocery,17.0,354.0,2026-01-31,Wholesale
+1027,Rice 5kg,Grocery,7.0,351.0,2026-06-26,Walk-in
+1028,Paneer 200g,Dairy,4.0,80.0,2026-02-09,Walk-in
+1029,Biscuits,Snacks,18.0,29.0,2026-04-19,Wholesale
+1030,Milk 1L,Dairy,9.0,59.0,2026-06-24,Walk-in
+1031,Shampoo,Personal Care,18.0,181.0,2026-05-23,Walk-in
+1032,Soap,Personal Care,18.0,35.0,2026-05-23,Walk-in
+1033,Biscuits,Snacks,19.0,29.0,2026-03-30,Wholesale
+1034,Curd 500g,Dairy,4.0,37.0,2026-02-28,Walk-in
+1035,Soap,Personal Care,7.0,31.0,2026-05-11,Walk-in
+1036,Namkeen 200g,Snacks,20.0,63.0,2026-06-28,Wholesale
+1037,Wheat Flour 5kg,Grocery,13.0,217.0,2026-06-12,Regular
+1038,Sugar 1kg,Grocery,16.0,42.0,2026-06-03,Walk-in
+1039,Sugar 1kg,Grocery,9.0,41.0,2026-02-26,Walk-in
+1040,Sugar 1kg,Grocery,2.0,49.0,2026-04-09,Walk-in
+1041,Chips,Snacks,2.0,24.0,2026-02-14,Wholesale
+1042,Dishwash Liquid,Household,1.0,97.0,2026-02-21,Wholesale
+1043,Chips,Snacks,2.0,18.0,2026-06-03,Wholesale
+1044,Toothpaste,Personal Care,6.0,94.0,2026-06-22,Regular
+1045,Milk 1L,Dairy,1.0,53.0,2026-02-10,Regular
+1046,Biscuits,Snacks,12.0,31.0,2026-06-21,Walk-in
+1047,Curd 500g,Dairy,7.0,44.0,2026-05-13,Regular
+1048,Sugar 1kg,Grocery,18.0,41.0,2026-03-14,Wholesale
+1049,Milk 1L,Dairy,9.0,55.0,2026-02-27,Wholesale
+1050,Shampoo,Personal Care,13.0,182.0,2026-05-28,Regular
+1051,Biscuits,Snacks,14.0,27.0,2026-05-10,Regular
+1052,Sugar 1kg,Grocery,10.0,48.0,2026-03-29,Regular
+1053,Biscuits,Snacks,19.0,33.0,2026-03-06,Wholesale
+1054,Detergent 1kg,Household,19.0,131.0,2026-05-04,Regular
+1055,Namkeen 200g,Snacks,15.0,62.0,2026-05-31,Regular
+1056,Dishwash Liquid,Household,9.0,91.0,2026-01-18,Walk-in
+1057,TOOTHPASTE  ,Personal Care,8.0,95.0,2026-03-22,Walk-in
+1058,Milk 1L,Dairy,,58.0,2026-01-03,Wholesale
+1059,Biscuits,Snacks,10.0,28.0,2026-01-24,Walk-in
+1060,Namkeen 200g,Snacks,18.0,56.0,2026-02-15,Walk-in
+1061,Namkeen 200g,Snacks,7.0,60.0,2026-05-27,Walk-in
+1062,Soap,Personal Care,7.0,40.0,2026-05-08,Wholesale
+1063,Shampoo,Personal Care,8.0,178.0,2026-03-09,Regular
+1064,Toothpaste,Personal Care,8.0,88.0,2026-06-08,Walk-in
+1065,Tea Powder 250g,Grocery,4.0,116.0,2026-01-21,Wholesale
+1066,Dishwash Liquid,Household,1.0,99.0,2026-05-19,Regular
+1067,Dishwash Liquid,Household,20.0,95.0,2026-03-22,Walk-in
+1068,Biscuits,Snacks,6.0,32.0,2026-05-11,Walk-in
+1069,Curd 500g,Dairy,19.0,38.0,2026-02-02,Regular
+1070,Paneer 200g,Dairy,18.0,82.0,2026-01-09,Wholesale
+1071,Milk 1L,Dairy,6.0,56.0,2026-04-28,Regular
+1072,Detergent 1kg,Household,1.0,130.0,2026-01-04,Wholesale
+1073,Shampoo,Personal Care,19.0,181.0,2026-01-26,Walk-in
+1074,Milk 1L,Dairy,9.0,59.0,2026-02-17,Wholesale
+1075,Biscuits,Snacks,9.0,28.0,2026-05-01,Wholesale
+1076,Namkeen 200g,Snacks,6.0,60.0,2026-05-08,Walk-in
+1077,Shampoo,Personal Care,12.0,181.0,2026-04-04,Walk-in
+1078,Biscuits,Snacks,6.0,32.0,2026-05-27,Regular
+1079,Toothpaste,Personal Care,9.0,86.0,2026-03-02,Wholesale
+1080,Paneer 200g,Dairy,7.0,81.0,2026-02-07,Wholesale
+1081,Tea Powder 250g,Grocery,1.0,,2026-02-15,Walk-in
+1082,Dishwash Liquid,Household,17.0,92.0,2026-05-17,Wholesale
+1083,Namkeen 200g,Snacks,10.0,62.0,2026-03-06,Wholesale
+1084,Wheat Flour 5kg,Grocery,4.0,221.0,2026-06-26,Regular
+1085,Wheat Flour 5kg,Grocery,9.0,218.0,2026-05-02,Wholesale
+1086,Cooking Oil 1L,Grocery,11.0,152.0,2026-03-08,Walk-in
+1087,Milk 1L,Dairy,18.0,58.0,2026-03-07,Walk-in
+1088,Rice 5kg,Grocery,4.0,351.0,2026-03-31,Wholesale
+1089,Shampoo,Personal Care,,184.0,2026-06-16,Wholesale
+1090,Soap,Personal Care,12.0,34.0,2026-03-25,Wholesale
+1091,Dishwash Liquid,Household,,97.0,2026-04-08,Wholesale
+1092,Chips,Snacks,5.0,22.0,2026-02-12,Wholesale
+1093,Namkeen 200g,Snacks,20.0,61.0,2026-05-27,Walk-in
+1094,Sugar 1kg,Grocery,6.0,41.0,2026-03-29,Regular
+1095,Namkeen 200g,Snacks,10.0,60.0,2026-03-10,Wholesale
+1096,Curd 500g,Dairy,15.0,39.0,2026-04-03,Wholesale
+1097,Detergent 1kg,Household,6.0,131.0,2026-02-17,Regular
+1098,Tea Powder 250g,Grocery,9.0,118.0,2026-06-29,Wholesale
+1099,Sugar 1kg,Grocery,6.0,43.0,2026-04-12,Regular
+1100,Cooking Oil 1L,Grocery,,146.0,2026-05-21,Regular
+1101,Rice 5kg,Grocery,17.0,351.0,2026-01-22,Regular
+1102,Biscuits,Snacks,5.0,34.0,2026-01-22,Wholesale
+1103,Curd 500g,Dairy,8.0,39.0,2026-03-05,Wholesale
+1104,Chips,Snacks,5.0,22.0,2026-02-03,Wholesale
+1105,Soap,Personal Care,2.0,30.0,2026-06-19,Walk-in
+1106,Namkeen 200g,Snacks,15.0,62.0,2026-05-19,Walk-in
+1107,Detergent 1kg,Household,18.0,127.0,2026-02-15,Wholesale
+1108,Detergent 1kg,Household,19.0,135.0,2026-04-22,Wholesale
+1109,Chips,Snacks,16.0,20.0,2026-05-19,Regular
+1110,Sugar 1kg,Grocery,10.0,47.0,2026-04-04,Walk-in
+1111,Biscuits,Snacks,10.0,27.0,2026-01-03,Regular
+1112,Tea Powder 250g,Grocery,10.0,120.0,2026-05-01,Wholesale
+1113,Rice 5kg,Grocery,16.0,352.0,2026-03-18,Regular
+1114,Paneer 200g,Dairy,20.0,79.0,2026-03-01,Regular
+1115,Milk 1L,Dairy,,53.0,2026-05-24,Walk-in
+1116,Curd 500g,Dairy,6.0,38.0,2026-06-15,Walk-in
+1117,Curd 500g,Dairy,9.0,38.0,2026-01-21,Walk-in
+1118,Toothpaste,Personal Care,20.0,93.0,2026-06-27,Wholesale
+1119,Biscuits,Snacks,18.0,29.0,2026-03-10,Walk-in
+1120,Shampoo,Personal Care,6.0,176.0,2026-02-04,Walk-in
+1121,Cooking Oil 1L,Grocery,15.0,155.0,2026-06-08,Walk-in
+1122,Biscuits,Snacks,16.0,34.0,2026-02-18,Walk-in
+1123,Rice 5kg,Grocery,2.0,347.0,2026-05-17,Regular
+1124,Soap,Personal Care,10.0,31.0,2026-03-10,Regular
+1125,Detergent 1kg,Household,8.0,125.0,2026-01-24,Regular
+1126,Rice 5kg,Grocery,7.0,352.0,2026-03-29,Walk-in
+1127,Chips,Snacks,12.0,22.0,2026-04-29,Wholesale
+1128,Wheat Flour 5kg,Grocery,3.0,220.0,2026-02-07,Regular
+1129,Biscuits,Snacks,3.0,31.0,2026-05-20,Walk-in
+1130,Soap,Personal Care,9.0,33.0,2026-04-08,Regular
+1131,Cooking Oil 1L,Grocery,13.0,148.0,2026-04-24,Regular
+1132,Wheat Flour 5kg,Grocery,15.0,218.0,2026-01-25,Wholesale
+1133,Shampoo,Personal Care,13.0,182.0,2026-06-24,Walk-in
+1134,Namkeen 200g,Snacks,2.0,57.0,2026-05-21,Wholesale
+1135,Cooking Oil 1L,Grocery,16.0,149.0,2026-06-13,Walk-in
+1136,Shampoo,Personal Care,2.0,180.0,2026-06-20,Regular
+1137,COOKING OIL 1L  ,Grocery,14.0,148.0,2026-03-25,Regular
+1138,Soap,Personal Care,19.0,34.0,2026-01-31,Walk-in
+1139,Toothpaste,Personal Care,2.0,85.0,2026-05-29,Wholesale
+1140,Dishwash Liquid,Household,5.0,99.0,2026-04-06,Regular
+1141,Toothpaste,Personal Care,16.0,87.0,2026-01-24,Wholesale
+1142,Namkeen 200g,Snacks,2.0,65.0,2026-01-16,Walk-in
+1143,Tea Powder 250g,Grocery,4.0,123.0,2026-02-02,Walk-in
+1144,Toothpaste,Personal Care,18.0,90.0,2026-06-15,Walk-in
+1145,Detergent 1kg,Household,1.0,128.0,2026-06-26,Walk-in
+1146,Milk 1L,Dairy,9.0,52.0,2026-01-11,Walk-in
+1147,Detergent 1kg,Household,,133.0,2026-05-19,Wholesale
+1148,Dishwash Liquid,Household,19.0,93.0,2026-02-17,Wholesale
+1149,Milk 1L,Dairy,15.0,55.0,2026-03-12,Wholesale
+1150,Soap,Personal Care,17.0,31.0,2026-02-09,Walk-in
+1151,Chips,Snacks,18.0,19.0,2026-04-04,Walk-in
+1152,Rice 5kg,Grocery,17.0,355.0,2026-04-08,Wholesale
+1153,Soap,Personal Care,20.0,30.0,2026-04-04,Wholesale
+1154,Toothpaste,Personal Care,3.0,90.0,2026-06-18,Wholesale
+1155,Curd 500g,Dairy,17.0,38.0,2026-06-24,Walk-in
+1156,Tea Powder 250g,Grocery,10.0,124.0,2026-03-24,Walk-in
+1157,Namkeen 200g,Snacks,4.0,56.0,2026-05-14,Wholesale
+1158,Sugar 1kg,Grocery,5.0,40.0,2026-02-15,Regular
+1159,Shampoo,Personal Care,16.0,176.0,2026-02-19,Regular
+1160,Wheat Flour 5kg,Grocery,13.0,224.0,2026-06-18,Walk-in
+1161,Biscuits,Snacks,12.0,25.0,2026-02-26,Wholesale
+1162,Sugar 1kg,Grocery,7.0,,2026-06-17,Walk-in
+1163,Sugar 1kg,Grocery,2.0,47.0,2026-04-03,Wholesale
+1164,Paneer 200g,Dairy,2.0,80.0,2026-06-07,Walk-in
+1165,Wheat Flour 5kg,Grocery,10.0,216.0,2026-01-20,Regular
+1166,Cooking Oil 1L,Grocery,8.0,146.0,2026-05-17,Walk-in
+1167,Shampoo,Personal Care,17.0,178.0,2026-06-18,Regular
+1168,Soap,Personal Care,18.0,38.0,2026-04-17,Wholesale
+1169,Cooking Oil 1L,Grocery,19.0,155.0,2026-04-02,Wholesale
+1170,Detergent 1kg,Household,14.0,135.0,2026-01-27,Regular
+1171,Soap,Personal Care,13.0,38.0,2026-05-10,Walk-in
+1172,Soap,Personal Care,20.0,38.0,2026-04-24,Walk-in
+1173,Namkeen 200g,Snacks,11.0,63.0,2026-04-06,Walk-in
+1174,Paneer 200g,Dairy,20.0,80.0,2026-03-03,Wholesale
+1175,Shampoo,Personal Care,18.0,181.0,2026-03-07,Walk-in
+1176,Detergent 1kg,Household,13.0,132.0,2026-01-01,Wholesale
+1177,Wheat Flour 5kg,Grocery,20.0,219.0,2026-01-05,Wholesale
+1178,Tea Powder 250g,Grocery,1.0,119.0,2026-03-18,Regular
+1179,Shampoo,Personal Care,1.0,180.0,2026-06-26,Walk-in
+1180,Tea Powder 250g,Grocery,,116.0,2026-04-28,Walk-in
+1181,Tea Powder 250g,Grocery,9.0,117.0,2026-04-04,Wholesale
+1182,Toothpaste,Personal Care,9.0,88.0,2026-03-18,Regular
+1183,Curd 500g,Dairy,7.0,44.0,2026-01-20,Wholesale
+1184,Namkeen 200g,Snacks,6.0,62.0,2026-05-05,Wholesale
+1185,Cooking Oil 1L,Grocery,10.0,154.0,2026-01-10,Wholesale
+1186,Curd 500g,Dairy,2.0,36.0,2026-03-27,Walk-in
+1187,Paneer 200g,Dairy,4.0,81.0,2026-02-28,Wholesale
+1188,Rice 5kg,Grocery,13.0,355.0,2026-01-14,Walk-in
+1189,Wheat Flour 5kg,Grocery,18.0,220.0,2026-05-25,Regular
+1190,Namkeen 200g,Snacks,8.0,63.0,2026-02-09,Regular
+1191,Curd 500g,Dairy,20.0,42.0,2026-05-28,Wholesale
+1192,Sugar 1kg,Grocery,14.0,43.0,2026-03-16,Walk-in
+1193,Tea Powder 250g,Grocery,,117.0,2026-01-22,Walk-in
+1194,Wheat Flour 5kg,Grocery,13.0,223.0,2026-03-09,Regular
+1195,Curd 500g,Dairy,14.0,43.0,2026-06-28,Regular
+1196,Tea Powder 250g,Grocery,18.0,,2026-02-20,Walk-in
+1197,Curd 500g,Dairy,19.0,45.0,2026-02-20,Wholesale
+1198,Toothpaste,Personal Care,3.0,88.0,2026-03-10,Walk-in
+1199,Namkeen 200g,Snacks,19.0,65.0,2026-01-23,Regular
+1200,Paneer 200g,Dairy,12.0,81.0,2026-03-31,Regular
+1201,Namkeen 200g,Snacks,20.0,60.0,2026-06-17,Regular
+1202,Chips,Snacks,12.0,17.0,2026-06-07,Walk-in
+1203,Tea Powder 250g,Grocery,2.0,122.0,2026-03-01,Regular
+1204,Milk 1L,Dairy,3.0,52.0,2026-01-29,Wholesale
+1205,WHEAT FLOUR 5KG  ,Grocery,20.0,218.0,2026-02-07,Walk-in
+1206,Rice 5kg,Grocery,4.0,350.0,2026-03-20,Walk-in
+1207,Dishwash Liquid,Household,11.0,90.0,2026-02-23,Wholesale
+1208,Shampoo,Personal Care,18.0,178.0,2026-05-14,Walk-in
+1209,Dishwash Liquid,Household,5.0,99.0,2026-06-27,Wholesale
+1210,Rice 5kg,Grocery,19.0,351.0,2026-06-19,Wholesale
+1211,Wheat Flour 5kg,Grocery,6.0,219.0,2026-01-16,Walk-in
+1212,Shampoo,Personal Care,9.0,184.0,2026-01-14,Walk-in
+1213,Rice 5kg,Grocery,13.0,346.0,2026-06-19,Walk-in
+1214,Milk 1L,Dairy,1.0,51.0,2026-03-16,Wholesale
+1215,Curd 500g,Dairy,13.0,38.0,2026-05-11,Wholesale
+1216,Cooking Oil 1L,Grocery,16.0,,2026-06-02,Wholesale
+1217,Sugar 1kg,Grocery,7.0,42.0,2026-05-09,Walk-in
+1218,Rice 5kg,Grocery,8.0,345.0,2026-05-16,Walk-in
+1219,Namkeen 200g,Snacks,13.0,62.0,2026-02-10,Regular
+1220,Milk 1L,Dairy,12.0,60.0,2026-04-01,Wholesale
+1221,Chips,Snacks,17.0,18.0,2026-03-12,Regular
+1222,Biscuits,Snacks,1.0,31.0,2026-05-23,Walk-in
+1223,Toothpaste,Personal Care,11.0,87.0,2026-04-11,Wholesale
+1224,Tea Powder 250g,Grocery,13.0,116.0,2026-05-14,Wholesale
+1225,Toothpaste,Personal Care,8.0,91.0,2026-05-27,Regular
+1226,Paneer 200g,Dairy,20.0,79.0,2026-03-26,Walk-in
+1227,Tea Powder 250g,Grocery,5.0,118.0,2026-05-29,Wholesale
+1228,Shampoo,Personal Care,10.0,177.0,2026-06-26,Wholesale
+1229,Tea Powder 250g,Grocery,5.0,121.0,2026-06-17,Wholesale
+1230,Soap,Personal Care,3.0,35.0,2026-05-23,Wholesale
+1231,Cooking Oil 1L,Grocery,11.0,147.0,2026-02-07,Wholesale
+1232,Rice 5kg,Grocery,14.0,350.0,2026-04-16,Walk-in
+1233,Detergent 1kg,Household,9.0,135.0,2026-02-08,Regular
+1234,Cooking Oil 1L,Grocery,6.0,147.0,2026-01-07,Wholesale
+1235,Biscuits,Snacks,19.0,34.0,2026-06-06,Regular
+1236,Toothpaste,Personal Care,1.0,88.0,2026-04-02,Regular
+1237,Dishwash Liquid,Household,17.0,92.0,2026-06-04,Walk-in
+1238,Milk 1L,Dairy,13.0,52.0,2026-05-06,Walk-in
+1239,Tea Powder 250g,Grocery,7.0,117.0,2026-02-27,Regular
+1240,Paneer 200g,Dairy,9.0,75.0,2026-04-16,Regular
+1241,Shampoo,Personal Care,3.0,178.0,2026-02-15,Walk-in
+1242,Dishwash Liquid,Household,15.0,95.0,2026-03-05,Walk-in
+1243,Curd 500g,Dairy,,35.0,2026-04-08,Wholesale
+1244,Namkeen 200g,Snacks,20.0,61.0,2026-05-27,Wholesale
+1245,Wheat Flour 5kg,Grocery,4.0,223.0,2026-04-26,Walk-in
+1246,Wheat Flour 5kg,Grocery,17.0,218.0,2026-05-18,Walk-in
+1247,Wheat Flour 5kg,Grocery,13.0,223.0,2026-05-13,Wholesale
+1248,Wheat Flour 5kg,Grocery,10.0,218.0,2026-04-23,Walk-in
+1249,Chips,Snacks,15.0,19.0,2026-02-12,Walk-in
+1250,CHIPS  ,Snacks,2.0,24.0,2026-06-26,Wholesale
+1251,Tea Powder 250g,Grocery,15.0,122.0,2026-01-24,Wholesale
+1252,Cooking Oil 1L,Grocery,19.0,147.0,2026-06-28,Wholesale
+1253,Tea Powder 250g,Grocery,14.0,121.0,2026-03-24,Walk-in
+1254,Rice 5kg,Grocery,15.0,347.0,2026-06-01,Wholesale
+1255,Shampoo,Personal Care,3.0,182.0,2026-03-06,Walk-in
+1256,Soap,Personal Care,3.0,31.0,2026-01-30,Wholesale
+1257,Detergent 1kg,Household,12.0,135.0,2026-01-22,Wholesale
+1258,Curd 500g,Dairy,20.0,43.0,2026-02-10,Walk-in
+1259,Curd 500g,Dairy,6.0,35.0,2026-03-27,Wholesale
+1260,Tea Powder 250g,Grocery,5.0,117.0,2026-02-15,Wholesale
+1261,Wheat Flour 5kg,Grocery,10.0,221.0,2026-03-21,Wholesale
+1262,Detergent 1kg,Household,6.0,129.0,2026-01-31,Regular
+1263,Shampoo,Personal Care,20.0,175.0,2026-03-06,Regular
+1264,Detergent 1kg,Household,16.0,132.0,2026-05-20,Regular
+1265,Dishwash Liquid,Household,7.0,93.0,2026-05-31,Wholesale
+1266,Dishwash Liquid,Household,14.0,97.0,2026-04-24,Regular
+1267,Rice 5kg,Grocery,18.0,348.0,2026-03-13,Wholesale
+1268,Shampoo,Personal Care,6.0,175.0,2026-02-07,Regular
+1269,Milk 1L,Dairy,5.0,50.0,2026-01-09,Wholesale
+1270,Chips,Snacks,3.0,20.0,2026-01-13,Regular
+1271,Paneer 200g,Dairy,6.0,77.0,2026-06-22,Walk-in
+1272,Soap,Personal Care,19.0,37.0,2026-04-03,Regular
+1273,Sugar 1kg,Grocery,11.0,44.0,2026-04-05,Walk-in
+1274,Sugar 1kg,Grocery,18.0,46.0,2026-01-17,Walk-in
+1275,Dishwash Liquid,Household,4.0,92.0,2026-06-27,Walk-in
+1276,Namkeen 200g,Snacks,14.0,63.0,2026-05-15,Regular
+1277,Shampoo,Personal Care,2.0,184.0,2026-01-28,Wholesale
+1278,Sugar 1kg,Grocery,20.0,47.0,2026-06-30,Walk-in
+1279,Paneer 200g,Dairy,11.0,84.0,2026-03-08,Wholesale
+1280,Milk 1L,Dairy,20.0,52.0,2026-05-25,Walk-in
+1281,Dishwash Liquid,Household,6.0,97.0,2026-06-06,Regular
+1282,Chips,Snacks,1.0,18.0,2026-01-31,Regular
+1283,Detergent 1kg,Household,4.0,135.0,2026-02-23,Wholesale
+1284,Paneer 200g,Dairy,2.0,81.0,2026-03-27,Walk-in
+1285,Shampoo,Personal Care,7.0,175.0,2026-06-26,Walk-in
+1286,Biscuits,Snacks,10.0,26.0,2026-03-18,Wholesale
+1287,Namkeen 200g,Snacks,4.0,55.0,2026-06-25,Walk-in
+1288,Namkeen 200g,Snacks,19.0,61.0,2026-06-07,Regular
+1289,Soap,Personal Care,11.0,33.0,2026-03-28,Wholesale
+1290,Dishwash Liquid,Household,2.0,97.0,2026-06-15,Regular
+1291,Dishwash Liquid,Household,15.0,,2026-05-18,Walk-in
+1292,Detergent 1kg,Household,2.0,131.0,2026-05-14,Walk-in
+1293,Namkeen 200g,Snacks,18.0,63.0,2026-01-05,Regular
+1294,Namkeen 200g,Snacks,3.0,60.0,2026-02-08,Walk-in
+1295,Rice 5kg,Grocery,13.0,350.0,2026-06-10,Wholesale
+1296,Soap,Personal Care,20.0,39.0,2026-04-10,Regular
+1297,Cooking Oil 1L,Grocery,11.0,149.0,2026-01-09,Walk-in
+1298,Paneer 200g,Dairy,16.0,76.0,2026-03-02,Walk-in
+1299,Detergent 1kg,Household,7.0,129.0,2026-05-15,Walk-in
+1300,Soap,Personal Care,12.0,31.0,2026-01-10,Regular
+1301,Sugar 1kg,Grocery,17.0,47.0,2026-01-07,Walk-in
+1302,Tea Powder 250g,Grocery,11.0,118.0,2026-05-04,Wholesale
+1303,Chips,Snacks,5.0,,2026-01-26,Wholesale
+1304,Tea Powder 250g,Grocery,2.0,118.0,2026-04-28,Walk-in
+1305,Cooking Oil 1L,Grocery,10.0,145.0,2026-01-12,Wholesale
+1306,Sugar 1kg,Grocery,15.0,45.0,2026-01-12,Regular
+1307,Chips,Snacks,19.0,15.0,2026-03-21,Wholesale
+1308,Shampoo,Personal Care,7.0,180.0,2026-02-19,Walk-in
+1309,Biscuits,Snacks,11.0,33.0,2026-04-23,Wholesale
+1310,Cooking Oil 1L,Grocery,5.0,149.0,2026-02-10,Walk-in
+1311,Cooking Oil 1L,Grocery,20.0,145.0,2026-05-24,Wholesale
+1312,Cooking Oil 1L,Grocery,18.0,,2026-03-31,Wholesale
+1313,Namkeen 200g,Snacks,5.0,59.0,2026-06-30,Walk-in
+1314,Toothpaste,Personal Care,3.0,87.0,2026-03-21,Wholesale
+1315,Namkeen 200g,Snacks,15.0,63.0,2026-01-13,Regular
+1316,Rice 5kg,Grocery,2.0,352.0,2026-01-28,Walk-in
+1317,Wheat Flour 5kg,Grocery,14.0,216.0,2026-04-11,Regular
+1318,Detergent 1kg,Household,12.0,134.0,2026-03-21,Walk-in
+1319,Shampoo,Personal Care,18.0,185.0,2026-01-21,Walk-in
+1320,Tea Powder 250g,Grocery,15.0,116.0,2026-01-25,Walk-in
+1321,Chips,Snacks,15.0,25.0,2026-05-01,Regular
+1322,Toothpaste,Personal Care,20.0,87.0,2026-03-08,Walk-in
+1323,Curd 500g,Dairy,11.0,37.0,2026-03-25,Walk-in
+1324,Dishwash Liquid,Household,3.0,90.0,2026-05-02,Regular
+1325,Milk 1L,Dairy,15.0,57.0,2026-02-13,Walk-in
+1326,Milk 1L,Dairy,19.0,59.0,2026-02-02,Wholesale
+1327,Cooking Oil 1L,Grocery,4.0,151.0,2026-03-25,Wholesale
+1328,Sugar 1kg,Grocery,18.0,44.0,2026-04-29,Walk-in
+1329,Paneer 200g,Dairy,20.0,78.0,2026-03-04,Wholesale
+1330,Soap,Personal Care,13.0,37.0,2026-01-17,Walk-in
+1331,Shampoo,Personal Care,14.0,184.0,2026-04-22,Wholesale
+1332,Namkeen 200g,Snacks,8.0,63.0,2026-02-14,Wholesale
+1333,Sugar 1kg,Grocery,16.0,49.0,2026-01-30,Wholesale
+1334,Detergent 1kg,Household,18.0,130.0,2026-01-25,Walk-in
+1335,Soap,Personal Care,13.0,34.0,2026-01-18,Wholesale
+1336,Cooking Oil 1L,Grocery,20.0,155.0,2026-04-08,Walk-in
+1337,Dishwash Liquid,Household,2.0,100.0,2026-01-24,Regular
+1338,Tea Powder 250g,Grocery,1.0,124.0,2026-02-07,Wholesale
+1339,Tea Powder 250g,Grocery,18.0,122.0,2026-03-16,Walk-in
+1340,Detergent 1kg,Household,7.0,128.0,2026-06-24,Walk-in
+1341,Chips,Snacks,10.0,24.0,2026-04-22,Wholesale
+1342,Milk 1L,Dairy,19.0,51.0,2026-01-03,Wholesale
+1343,Curd 500g,Dairy,10.0,37.0,2026-01-16,Walk-in
+1344,Wheat Flour 5kg,Grocery,18.0,,2026-04-02,Regular
+1345,Chips,Snacks,8.0,15.0,2026-04-21,Wholesale
+1346,Curd 500g,Dairy,11.0,45.0,2026-04-08,Walk-in
+1347,Curd 500g,Dairy,18.0,41.0,2026-02-24,Wholesale
+1348,Soap,Personal Care,5.0,37.0,2026-02-18,Wholesale
+1349,Curd 500g,Dairy,14.0,40.0,2026-02-09,Walk-in
+1350,Tea Powder 250g,Grocery,,117.0,2026-01-19,Wholesale
+1351,Rice 5kg,Grocery,16.0,347.0,2026-06-18,Walk-in
+1352,Tea Powder 250g,Grocery,5.0,116.0,2026-06-14,Walk-in
+1353,DETERGENT 1KG  ,Household,14.0,134.0,2026-06-09,Regular
+1354,Detergent 1kg,Household,14.0,133.0,2026-05-22,Walk-in
+1355,Curd 500g,Dairy,8.0,40.0,2026-02-17,Walk-in
+1356,Rice 5kg,Grocery,16.0,354.0,2026-03-02,Wholesale
+1357,Biscuits,Snacks,18.0,31.0,2026-05-28,Walk-in
+1358,Wheat Flour 5kg,Grocery,19.0,215.0,2026-05-04,Wholesale
+1359,Milk 1L,Dairy,19.0,51.0,2026-05-04,Wholesale
+1360,Sugar 1kg,Grocery,17.0,42.0,2026-03-13,Walk-in
+1361,Sugar 1kg,Grocery,20.0,48.0,2026-01-23,Regular
+1362,Dishwash Liquid,Household,3.0,100.0,2026-06-25,Wholesale
+1363,Chips,Snacks,2.0,24.0,2026-03-29,Wholesale
+1364,Rice 5kg,Grocery,15.0,352.0,2026-05-12,Walk-in
+1365,Namkeen 200g,Snacks,12.0,61.0,2026-03-17,Walk-in
+1366,Soap,Personal Care,20.0,30.0,2026-03-19,Wholesale
+1367,Biscuits,Snacks,16.0,25.0,2026-05-29,Regular
+1368,Wheat Flour 5kg,Grocery,10.0,225.0,2026-06-09,Regular
+1369,Chips,Snacks,,22.0,2026-02-02,Wholesale
+1370,Sugar 1kg,Grocery,9.0,44.0,2026-02-03,Wholesale
+1371,Biscuits,Snacks,,29.0,2026-01-04,Wholesale
+1372,Cooking Oil 1L,Grocery,6.0,154.0,2026-06-01,Wholesale
+1373,Tea Powder 250g,Grocery,15.0,125.0,2026-04-05,Regular
+1374,Biscuits,Snacks,16.0,28.0,2026-02-16,Wholesale
+1375,Wheat Flour 5kg,Grocery,3.0,220.0,2026-02-07,Wholesale
+1376,Tea Powder 250g,Grocery,,122.0,2026-04-09,Regular
+1377,Detergent 1kg,Household,6.0,135.0,2026-02-23,Wholesale
+1378,Milk 1L,Dairy,9.0,50.0,2026-01-30,Regular
+1379,Soap,Personal Care,13.0,37.0,2026-05-02,Walk-in
+1380,Dishwash Liquid,Household,8.0,98.0,2026-04-08,Wholesale
+1381,Curd 500g,Dairy,9.0,42.0,2026-02-07,Wholesale
+1382,Paneer 200g,Dairy,10.0,75.0,2026-04-25,Walk-in
+1383,Namkeen 200g,Snacks,2.0,63.0,2026-01-25,Wholesale
+1384,Milk 1L,Dairy,20.0,56.0,2026-06-16,Walk-in
+1385,Namkeen 200g,Snacks,9.0,59.0,2026-01-26,Walk-in
+1386,Curd 500g,Dairy,8.0,42.0,2026-06-22,Wholesale
+1387,Shampoo,Personal Care,11.0,183.0,2026-06-23,Wholesale
+1388,Soap,Personal Care,18.0,35.0,2026-01-03,Wholesale
+1389,Rice 5kg,Grocery,1.0,346.0,2026-04-16,Regular
+1390,Cooking Oil 1L,Grocery,15.0,155.0,2026-03-31,Regular
+1391,Chips,Snacks,7.0,19.0,2026-01-09,Regular
+1392,Sugar 1kg,Grocery,20.0,40.0,2026-06-18,Regular
+1393,Cooking Oil 1L,Grocery,3.0,146.0,2026-06-04,Regular
+1394,Curd 500g,Dairy,19.0,45.0,2026-02-17,Regular
+1395,Soap,Personal Care,10.0,34.0,2026-04-30,Wholesale
+1396,Sugar 1kg,Grocery,,50.0,2026-03-12,Walk-in
+1397,Namkeen 200g,Snacks,6.0,59.0,2026-01-19,Walk-in
+1398,Wheat Flour 5kg,Grocery,13.0,221.0,2026-03-27,Regular
+1399,Biscuits,Snacks,6.0,29.0,2026-04-23,Regular
+1400,Dishwash Liquid,Household,,93.0,2026-04-11,Regular
+1401,Dishwash Liquid,Household,5.0,91.0,2026-05-19,Walk-in
+1402,Shampoo,Personal Care,4.0,184.0,2026-04-24,Wholesale
+1403,Biscuits,Snacks,2.0,26.0,2026-01-19,Regular
+1404,Biscuits,Snacks,1.0,32.0,2026-05-08,Regular
+1405,Rice 5kg,Grocery,13.0,345.0,2026-03-10,Regular
+1406,Namkeen 200g,Snacks,,61.0,2026-01-01,Wholesale
+1407,Dishwash Liquid,Household,14.0,97.0,2026-04-14,Wholesale
+1408,Sugar 1kg,Grocery,8.0,48.0,2026-01-01,Walk-in
+1409,Dishwash Liquid,Household,19.0,91.0,2026-05-18,Walk-in
+1410,Namkeen 200g,Snacks,10.0,65.0,2026-04-13,Regular
+1411,Sugar 1kg,Grocery,18.0,45.0,2026-03-29,Regular
+1412,DETERGENT 1KG  ,Household,7.0,129.0,2026-02-15,Wholesale
+1413,Wheat Flour 5kg,Grocery,7.0,221.0,2026-03-18,Wholesale
+1414,Curd 500g,Dairy,12.0,36.0,2026-05-05,Regular
+1415,Detergent 1kg,Household,5.0,128.0,2026-01-10,Regular
+1416,Rice 5kg,Grocery,8.0,354.0,2026-05-06,Walk-in
+1417,Sugar 1kg,Grocery,10.0,48.0,2026-05-08,Wholesale
+1418,Detergent 1kg,Household,2.0,125.0,2026-03-28,Regular
+1419,Namkeen 200g,Snacks,13.0,55.0,2026-01-31,Regular
+1420,Detergent 1kg,Household,18.0,135.0,2026-02-08,Wholesale
+1421,Toothpaste,Personal Care,2.0,86.0,2026-02-06,Walk-in
+1422,Rice 5kg,Grocery,,352.0,2026-01-12,Regular
+1423,Tea Powder 250g,Grocery,6.0,115.0,2026-06-11,Regular
+1424,Chips,Snacks,,16.0,2026-06-06,Regular
+1425,Sugar 1kg,Grocery,4.0,41.0,2026-05-08,Wholesale
+1426,Toothpaste,Personal Care,7.0,86.0,2026-04-20,Walk-in
+1427,Curd 500g,Dairy,4.0,40.0,2026-06-25,Wholesale
+1428,Tea Powder 250g,Grocery,7.0,120.0,2026-01-12,Wholesale
+1429,Soap,Personal Care,3.0,35.0,2026-01-31,Walk-in
+1430,Tea Powder 250g,Grocery,6.0,121.0,2026-06-28,Walk-in
+1431,Soap,Personal Care,8.0,37.0,2026-05-29,Regular
+1432,Tea Powder 250g,Grocery,20.0,116.0,2026-04-07,Regular
+1433,Rice 5kg,Grocery,3.0,352.0,2026-01-02,Regular
+1434,Soap,Personal Care,19.0,31.0,2026-03-14,Walk-in
+1435,Dishwash Liquid,Household,7.0,92.0,2026-02-06,Wholesale
+1436,Biscuits,Snacks,15.0,33.0,2026-04-16,Regular
+1437,Soap,Personal Care,2.0,39.0,2026-06-02,Regular
+1438,Dishwash Liquid,Household,3.0,99.0,2026-06-10,Walk-in
+1439,Milk 1L,Dairy,1.0,56.0,2026-05-23,Regular
+1440,Shampoo,Personal Care,17.0,176.0,2026-01-25,Wholesale
+1441,Milk 1L,Dairy,17.0,58.0,2026-02-26,Walk-in
+1442,Shampoo,Personal Care,2.0,179.0,2026-02-19,Regular
+1443,Tea Powder 250g,Grocery,16.0,125.0,2026-05-08,Regular
+1444,Soap,Personal Care,2.0,40.0,2026-01-14,Wholesale
+1445,Milk 1L,Dairy,7.0,54.0,2026-04-22,Walk-in
+1446,Namkeen 200g,Snacks,15.0,64.0,2026-01-12,Regular
+1447,Wheat Flour 5kg,Grocery,6.0,223.0,2026-02-10,Regular
+1448,Dishwash Liquid,Household,4.0,98.0,2026-01-19,Regular
+1449,Detergent 1kg,Household,19.0,134.0,2026-03-25,Walk-in
+1450,Shampoo,Personal Care,11.0,185.0,2026-02-28,Regular
+1451,Namkeen 200g,Snacks,,58.0,2026-03-02,Wholesale
+1452,Paneer 200g,Dairy,13.0,78.0,2026-02-26,Regular
+1453,Dishwash Liquid,Household,16.0,99.0,2026-01-14,Walk-in
+1454,Tea Powder 250g,Grocery,20.0,118.0,2026-04-27,Regular
+1455,Curd 500g,Dairy,5.0,40.0,2026-04-28,Wholesale
+1456,Shampoo,Personal Care,12.0,185.0,2026-03-11,Regular
+1457,Namkeen 200g,Snacks,,57.0,2026-06-27,Wholesale
+1458,Wheat Flour 5kg,Grocery,5.0,219.0,2026-01-29,Walk-in
+1459,Detergent 1kg,Household,6.0,131.0,2026-03-29,Regular
+1460,Chips,Snacks,6.0,24.0,2026-06-13,Wholesale
+1461,Soap,Personal Care,18.0,39.0,2026-02-28,Regular
+1462,Paneer 200g,Dairy,,83.0,2026-02-25,Wholesale
+1463,Dishwash Liquid,Household,9.0,97.0,2026-01-04,Wholesale
+1464,Paneer 200g,Dairy,8.0,78.0,2026-03-25,Walk-in
+1465,Toothpaste,Personal Care,5.0,94.0,2026-05-27,Regular
+1466,Paneer 200g,Dairy,2.0,75.0,2026-05-01,Wholesale
+1467,Wheat Flour 5kg,Grocery,17.0,221.0,2026-04-11,Walk-in
+1468,Cooking Oil 1L,Grocery,16.0,152.0,2026-03-03,Regular
+1469,Rice 5kg,Grocery,7.0,351.0,2026-02-03,Walk-in
+1470,Chips,Snacks,3.0,18.0,2026-01-05,Walk-in
+1471,Chips,Snacks,15.0,17.0,2026-05-27,Wholesale
+1472,Rice 5kg,Grocery,15.0,352.0,2026-02-05,Wholesale
+1473,Curd 500g,Dairy,12.0,37.0,2026-06-10,Walk-in
+1474,Rice 5kg,Grocery,3.0,355.0,2026-04-09,Wholesale
+1475,Namkeen 200g,Snacks,2.0,63.0,2026-03-17,Walk-in
+1476,Biscuits,Snacks,18.0,34.0,2026-05-28,Regular
+1477,Sugar 1kg,Grocery,11.0,49.0,2026-01-15,Wholesale
+1478,Milk 1L,Dairy,4.0,50.0,2026-04-09,Walk-in
+1479,Detergent 1kg,Household,2.0,134.0,2026-04-04,Walk-in
+1480,Soap,Personal Care,18.0,40.0,2026-06-30,Regular
+1481,Shampoo,Personal Care,11.0,177.0,2026-03-03,Wholesale
+1482,Cooking Oil 1L,Grocery,16.0,155.0,2026-05-29,Wholesale
+1483,Shampoo,Personal Care,11.0,178.0,2026-04-01,Walk-in
+1484,Paneer 200g,Dairy,2.0,79.0,2026-01-17,Walk-in
+1485,Milk 1L,Dairy,16.0,57.0,2026-05-09,Wholesale
+1486,Cooking Oil 1L,Grocery,18.0,152.0,2026-06-23,Wholesale
+1487,Chips,Snacks,20.0,22.0,2026-04-05,Wholesale
+1488,Sugar 1kg,Grocery,15.0,43.0,2026-01-23,Regular
+1489,Curd 500g,Dairy,10.0,37.0,2026-01-20,Regular
+1490,Soap,Personal Care,4.0,34.0,2026-06-28,Regular
+1491,Dishwash Liquid,Household,7.0,92.0,2026-05-14,Wholesale
+1492,Rice 5kg,Grocery,14.0,349.0,2026-06-24,Wholesale
+1493,Tea Powder 250g,Grocery,12.0,122.0,2026-04-18,Walk-in
+1494,Rice 5kg,Grocery,7.0,349.0,2026-01-17,Regular
+1495,Toothpaste,Personal Care,11.0,93.0,2026-04-16,Wholesale
+1496,Namkeen 200g,Snacks,11.0,65.0,2026-05-05,Wholesale
+1497,Detergent 1kg,Household,10.0,132.0,2026-05-26,Regular
+1498,Chips,Snacks,,17.0,2026-02-28,Walk-in
+1499,Milk 1L,Dairy,2.0,54.0,2026-02-07,Walk-in
+1500,Chips,Snacks,6.0,22.0,2026-06-08,Regular
+1501,Chips,Snacks,6.0,17.0,2026-06-27,Wholesale
+1502,Tea Powder 250g,Grocery,8.0,,2026-01-30,Regular
+1503,Namkeen 200g,Snacks,5.0,64.0,2026-04-23,Walk-in
+1504,Milk 1L,Dairy,7.0,52.0,2026-05-24,Wholesale
+1505,Wheat Flour 5kg,Grocery,11.0,225.0,2026-03-30,Regular
+1506,Milk 1L,Dairy,18.0,57.0,2026-02-11,Wholesale
+1507,Chips,Snacks,1.0,16.0,2026-04-14,Walk-in
+1508,Tea Powder 250g,Grocery,11.0,122.0,2026-02-09,Regular
+1509,Namkeen 200g,Snacks,10.0,65.0,2026-05-02,Walk-in
+1510,Tea Powder 250g,Grocery,15.0,124.0,2026-03-28,Wholesale
+1511,Cooking Oil 1L,Grocery,2.0,152.0,2026-02-05,Wholesale
+1512,Cooking Oil 1L,Grocery,1.0,149.0,2026-04-13,Wholesale
+1513,Toothpaste,Personal Care,12.0,92.0,2026-01-24,Walk-in
+1514,Wheat Flour 5kg,Grocery,7.0,224.0,2026-05-30,Wholesale
+1515,Toothpaste,Personal Care,7.0,89.0,2026-01-06,Regular
+1516,Detergent 1kg,Household,3.0,135.0,2026-05-12,Walk-in
+1517,Shampoo,Personal Care,11.0,182.0,2026-06-04,Wholesale
+1518,Wheat Flour 5kg,Grocery,12.0,225.0,2026-04-12,Regular
+1519,Paneer 200g,Dairy,13.0,80.0,2026-04-06,Regular
+1520,Chips,Snacks,12.0,20.0,2026-03-20,Walk-in
+1521,Sugar 1kg,Grocery,15.0,43.0,2026-04-17,Walk-in
+1522,Chips,Snacks,14.0,17.0,2026-04-17,Regular
+1523,Sugar 1kg,Grocery,7.0,42.0,2026-03-19,Walk-in
+1524,Namkeen 200g,Snacks,19.0,56.0,2026-04-07,Regular
+1525,Rice 5kg,Grocery,9.0,351.0,2026-04-17,Regular
+1526,Detergent 1kg,Household,5.0,134.0,2026-02-21,Regular
+1527,Curd 500g,Dairy,18.0,39.0,2026-05-06,Regular
+1528,Chips,Snacks,10.0,24.0,2026-05-07,Wholesale
+1529,Detergent 1kg,Household,1.0,128.0,2026-01-01,Regular
+1530,Biscuits,Snacks,16.0,29.0,2026-02-01,Wholesale
+1531,Chips,Snacks,6.0,21.0,2026-05-06,Wholesale
+1532,Toothpaste,Personal Care,4.0,85.0,2026-03-12,Walk-in
+1533,Sugar 1kg,Grocery,,49.0,2026-05-29,Walk-in
+1534,Paneer 200g,Dairy,16.0,79.0,2026-06-27,Regular
+1535,Milk 1L,Dairy,19.0,58.0,2026-01-05,Walk-in
+1536,Soap,Personal Care,2.0,39.0,2026-02-07,Walk-in
+1537,Detergent 1kg,Household,12.0,127.0,2026-02-11,Regular
+1538,Biscuits,Snacks,14.0,30.0,2026-06-12,Walk-in
+1539,Wheat Flour 5kg,Grocery,10.0,219.0,2026-05-16,Wholesale
+1540,Sugar 1kg,Grocery,7.0,48.0,2026-06-10,Regular
+1541,Cooking Oil 1L,Grocery,6.0,154.0,2026-05-20,Walk-in
+1542,Namkeen 200g,Snacks,10.0,65.0,2026-03-11,Wholesale
+1543,Milk 1L,Dairy,18.0,51.0,2026-05-29,Walk-in
+1544,Tea Powder 250g,Grocery,5.0,115.0,2026-05-13,Walk-in
+1545,Milk 1L,Dairy,14.0,57.0,2026-03-29,Regular
+1546,Cooking Oil 1L,Grocery,5.0,148.0,2026-05-09,Regular
+1547,Shampoo,Personal Care,20.0,183.0,2026-06-26,Wholesale
+1548,Cooking Oil 1L,Grocery,15.0,151.0,2026-01-20,Regular
+1549,Tea Powder 250g,Grocery,16.0,115.0,2026-03-31,Walk-in
+1550,Milk 1L,Dairy,15.0,,2026-06-02,Wholesale
+1551,Namkeen 200g,Snacks,10.0,57.0,2026-01-08,Wholesale
+1552,Cooking Oil 1L,Grocery,5.0,148.0,2026-06-27,Regular
+1553,Toothpaste,Personal Care,5.0,89.0,2026-02-23,Regular
+1554,Sugar 1kg,Grocery,4.0,46.0,2026-01-20,Regular
+1555,Dishwash Liquid,Household,2.0,96.0,2026-02-20,Regular
+1556,Wheat Flour 5kg,Grocery,17.0,225.0,2026-06-01,Regular
+1557,Dishwash Liquid,Household,9.0,91.0,2026-01-12,Regular
+1558,Chips,Snacks,1.0,25.0,2026-01-25,Regular
+1559,Shampoo,Personal Care,7.0,184.0,2026-02-17,Wholesale
+1560,Milk 1L,Dairy,3.0,50.0,2026-02-07,Wholesale
+1561,Biscuits,Snacks,12.0,34.0,2026-04-01,Regular
+1562,Toothpaste,Personal Care,19.0,93.0,2026-01-18,Regular
+1563,Rice 5kg,Grocery,7.0,353.0,2026-02-19,Walk-in
+1564,Soap,Personal Care,1.0,38.0,2026-01-26,Regular
+1565,Dishwash Liquid,Household,19.0,95.0,2026-02-17,Walk-in
+1566,Cooking Oil 1L,Grocery,12.0,147.0,2026-04-08,Walk-in
+1567,Shampoo,Personal Care,8.0,183.0,2026-04-15,Regular
+1568,Namkeen 200g,Snacks,15.0,56.0,2026-01-29,Wholesale
+1569,Tea Powder 250g,Grocery,12.0,122.0,2026-06-30,Walk-in
+1570,Wheat Flour 5kg,Grocery,11.0,216.0,2026-05-07,Regular
+1571,Curd 500g,Dairy,15.0,39.0,2026-06-03,Wholesale
+1572,Chips,Snacks,15.0,25.0,2026-02-27,Wholesale
+1573,Paneer 200g,Dairy,14.0,79.0,2026-02-18,Regular
+1574,Dishwash Liquid,Household,12.0,100.0,2026-02-15,Regular
+1575,Dishwash Liquid,Household,4.0,100.0,2026-04-12,Walk-in
+1576,Sugar 1kg,Grocery,5.0,41.0,2026-04-12,Walk-in
+1577,Cooking Oil 1L,Grocery,3.0,147.0,2026-04-04,Regular
+1578,Namkeen 200g,Snacks,20.0,58.0,2026-04-14,Regular
+1579,Toothpaste,Personal Care,16.0,91.0,2026-03-13,Wholesale
+1580,Biscuits,Snacks,13.0,35.0,2026-04-02,Walk-in
+1581,Curd 500g,Dairy,17.0,42.0,2026-03-13,Regular
+1582,Detergent 1kg,Household,4.0,126.0,2026-03-06,Walk-in
+1583,Dishwash Liquid,Household,5.0,93.0,2026-01-08,Regular
+1584,Wheat Flour 5kg,Grocery,16.0,216.0,2026-06-23,Regular
+1585,Soap,Personal Care,20.0,36.0,2026-06-23,Walk-in
+1586,Tea Powder 250g,Grocery,20.0,119.0,2026-06-09,Regular
+1587,Sugar 1kg,Grocery,17.0,50.0,2026-05-07,Walk-in
+1588,Shampoo,Personal Care,16.0,179.0,2026-05-06,Wholesale
+1589,Biscuits,Snacks,11.0,33.0,2026-05-19,Wholesale
+1590,Rice 5kg,Grocery,14.0,345.0,2026-01-31,Walk-in
+1591,Detergent 1kg,Household,13.0,130.0,2026-04-24,Walk-in
+1592,Wheat Flour 5kg,Grocery,6.0,215.0,2026-05-23,Wholesale
+1593,Chips,Snacks,16.0,17.0,2026-04-21,Regular
+1594,Chips,Snacks,,21.0,2026-01-29,Wholesale
+1595,Dishwash Liquid,Household,18.0,100.0,2026-06-25,Wholesale
+1596,Dishwash Liquid,Household,18.0,97.0,2026-02-10,Wholesale
+1597,Wheat Flour 5kg,Grocery,9.0,221.0,2026-05-07,Wholesale
+1598,Curd 500g,Dairy,12.0,44.0,2026-03-14,Walk-in
+1599,Wheat Flour 5kg,Grocery,19.0,215.0,2026-01-12,Regular
+1600,Milk 1L,Dairy,19.0,55.0,2026-01-07,Wholesale
+1601,Namkeen 200g,Snacks,4.0,61.0,2026-04-20,Walk-in
+1602,Milk 1L,Dairy,12.0,56.0,2026-01-15,Wholesale
+1603,Toothpaste,Personal Care,8.0,88.0,2026-06-15,Walk-in
+1604,Sugar 1kg,Grocery,10.0,41.0,2026-01-30,Walk-in
+1605,Soap,Personal Care,18.0,30.0,2026-03-25,Regular
+1606,Detergent 1kg,Household,14.0,135.0,2026-05-26,Wholesale
+1607,Paneer 200g,Dairy,1.0,79.0,2026-06-28,Walk-in
+1608,Rice 5kg,Grocery,13.0,350.0,2026-05-27,Walk-in
+1609,Namkeen 200g,Snacks,4.0,64.0,2026-05-06,Regular
+1610,Shampoo,Personal Care,16.0,,2026-05-09,Wholesale
+1611,Namkeen 200g,Snacks,20.0,57.0,2026-03-18,Walk-in
+1612,Paneer 200g,Dairy,16.0,78.0,2026-06-12,Regular
+1613,Shampoo,Personal Care,9.0,179.0,2026-01-13,Walk-in
+1614,Curd 500g,Dairy,20.0,38.0,2026-01-24,Wholesale
+1615,Cooking Oil 1L,Grocery,,154.0,2026-03-11,Regular
+1616,Dishwash Liquid,Household,7.0,96.0,2026-03-30,Regular
+1617,Chips,Snacks,10.0,23.0,2026-04-21,Wholesale
+1618,Namkeen 200g,Snacks,14.0,58.0,2026-04-13,Walk-in
+1619,Detergent 1kg,Household,18.0,135.0,2026-02-16,Regular
+1620,Soap,Personal Care,16.0,39.0,2026-02-24,Wholesale
+1621,Detergent 1kg,Household,18.0,129.0,2026-06-07,Walk-in
+1622,Wheat Flour 5kg,Grocery,7.0,223.0,2026-04-04,Walk-in
+1623,Tea Powder 250g,Grocery,5.0,118.0,2026-06-25,Walk-in
+1624,Paneer 200g,Dairy,11.0,81.0,2026-01-17,Wholesale
+1625,Shampoo,Personal Care,9.0,181.0,2026-03-15,Wholesale
+1626,Soap,Personal Care,20.0,34.0,2026-03-02,Walk-in
+1627,Toothpaste,Personal Care,5.0,86.0,2026-02-19,Regular
+1628,Toothpaste,Personal Care,15.0,89.0,2026-05-05,Wholesale
+1629,Paneer 200g,Dairy,2.0,81.0,2026-02-21,Regular
+1630,Biscuits,Snacks,1.0,27.0,2026-03-08,Walk-in
+1631,Soap,Personal Care,2.0,40.0,2026-05-05,Regular
+1632,Wheat Flour 5kg,Grocery,11.0,216.0,2026-06-04,Walk-in
+1633,Sugar 1kg,Grocery,12.0,46.0,2026-06-21,Wholesale
+1634,Sugar 1kg,Grocery,5.0,46.0,2026-03-02,Regular
+1635,Cooking Oil 1L,Grocery,19.0,153.0,2026-05-15,Walk-in
+1636,Dishwash Liquid,Household,8.0,91.0,2026-06-03,Regular
+1637,Namkeen 200g,Snacks,19.0,60.0,2026-04-10,Wholesale
+1638,Toothpaste,Personal Care,7.0,91.0,2026-02-06,Regular
+1639,Soap,Personal Care,9.0,33.0,2026-04-23,Walk-in
+1640,Biscuits,Snacks,2.0,,2026-05-06,Wholesale
+1641,Milk 1L,Dairy,11.0,51.0,2026-05-20,Walk-in
+1642,Dishwash Liquid,Household,8.0,100.0,2026-03-13,Regular
+1643,Milk 1L,Dairy,12.0,57.0,2026-03-20,Regular
+1644,Wheat Flour 5kg,Grocery,2.0,225.0,2026-06-26,Wholesale
+1645,Toothpaste,Personal Care,18.0,89.0,2026-04-09,Walk-in
+1646,Milk 1L,Dairy,4.0,60.0,2026-05-17,Regular
+1647,Detergent 1kg,Household,1.0,131.0,2026-04-11,Walk-in
+1648,Chips,Snacks,8.0,16.0,2026-03-18,Regular
+1649,Soap,Personal Care,11.0,37.0,2026-06-14,Walk-in
+1650,Wheat Flour 5kg,Grocery,3.0,219.0,2026-05-06,Walk-in
+1651,Paneer 200g,Dairy,14.0,80.0,2026-01-26,Regular
+1652,Biscuits,Snacks,3.0,33.0,2026-04-01,Walk-in
+1653,Namkeen 200g,Snacks,1.0,62.0,2026-01-14,Wholesale
+1654,Soap,Personal Care,15.0,40.0,2026-06-14,Regular
+1655,Rice 5kg,Grocery,7.0,351.0,2026-06-10,Walk-in
+1656,Namkeen 200g,Snacks,3.0,64.0,2026-01-29,Regular
+1657,Toothpaste,Personal Care,,93.0,2026-06-02,Wholesale
+1658,Paneer 200g,Dairy,15.0,80.0,2026-05-03,Wholesale
+1659,Tea Powder 250g,Grocery,6.0,119.0,2026-06-25,Wholesale
+1660,Namkeen 200g,Snacks,7.0,59.0,2026-01-22,Walk-in
+1661,Milk 1L,Dairy,13.0,52.0,2026-04-07,Wholesale
+1662,Toothpaste,Personal Care,1.0,85.0,2026-05-23,Wholesale
+1663,Toothpaste,Personal Care,15.0,86.0,2026-02-20,Walk-in
+1664,Soap,Personal Care,13.0,30.0,2026-06-08,Walk-in
+1665,Biscuits,Snacks,3.0,27.0,2026-04-05,Regular
+1666,Cooking Oil 1L,Grocery,17.0,145.0,2026-04-22,Walk-in
+1667,Dishwash Liquid,Household,8.0,91.0,2026-02-22,Regular
+1668,Biscuits,Snacks,16.0,29.0,2026-04-08,Regular
+1669,Paneer 200g,Dairy,20.0,78.0,2026-02-25,Walk-in
+1670,Shampoo,Personal Care,6.0,181.0,2026-04-15,Regular
+1671,Rice 5kg,Grocery,9.0,349.0,2026-03-02,Wholesale
+1672,Detergent 1kg,Household,12.0,,2026-05-30,Wholesale
+1673,Detergent 1kg,Household,1.0,126.0,2026-05-01,Regular
+1674,Namkeen 200g,Snacks,7.0,61.0,2026-04-09,Wholesale
+1675,Paneer 200g,Dairy,,84.0,2026-01-19,Regular
+1676,Wheat Flour 5kg,Grocery,11.0,215.0,2026-03-02,Walk-in
+1677,Milk 1L,Dairy,20.0,59.0,2026-01-12,Regular
+1678,Biscuits,Snacks,20.0,33.0,2026-04-08,Walk-in
+1679,Curd 500g,Dairy,12.0,45.0,2026-02-03,Wholesale
+1680,WHEAT FLOUR 5KG  ,Grocery,6.0,224.0,2026-03-08,Regular
+1681,Dishwash Liquid,Household,15.0,95.0,2026-02-03,Regular
+1682,Namkeen 200g,Snacks,14.0,63.0,2026-02-06,Walk-in
+1683,Cooking Oil 1L,Grocery,2.0,150.0,2026-02-02,Walk-in
+1684,Biscuits,Snacks,14.0,30.0,2026-03-14,Walk-in
+1685,Biscuits,Snacks,11.0,33.0,2026-04-22,Regular
+1686,Namkeen 200g,Snacks,5.0,62.0,2026-05-23,Wholesale
+1687,Detergent 1kg,Household,7.0,125.0,2026-02-08,Regular
+1688,Toothpaste,Personal Care,2.0,87.0,2026-05-01,Walk-in
+1689,Soap,Personal Care,14.0,37.0,2026-01-30,Walk-in
+1690,Wheat Flour 5kg,Grocery,12.0,222.0,2026-05-24,Walk-in
+1691,Detergent 1kg,Household,4.0,132.0,2026-02-07,Regular
+1692,Milk 1L,Dairy,7.0,51.0,2026-03-14,Regular
+1693,Soap,Personal Care,9.0,38.0,2026-05-25,Wholesale
+1694,Shampoo,Personal Care,1.0,184.0,2026-05-15,Wholesale
+1695,Soap,Personal Care,3.0,,2026-03-05,Walk-in
+1696,Cooking Oil 1L,Grocery,1.0,150.0,2026-03-14,Wholesale
+1697,Cooking Oil 1L,Grocery,12.0,151.0,2026-06-01,Regular
+1698,Namkeen 200g,Snacks,1.0,57.0,2026-01-21,Walk-in
+1699,Dishwash Liquid,Household,9.0,97.0,2026-06-02,Wholesale
+1700,Rice 5kg,Grocery,2.0,350.0,2026-06-17,Wholesale
+1701,Detergent 1kg,Household,19.0,130.0,2026-02-03,Regular
+1702,Wheat Flour 5kg,Grocery,10.0,225.0,2026-03-24,Regular
+1703,Sugar 1kg,Grocery,20.0,48.0,2026-04-08,Regular
+1704,Curd 500g,Dairy,6.0,39.0,2026-03-03,Walk-in
+1705,Sugar 1kg,Grocery,7.0,40.0,2026-02-11,Walk-in
+1706,Curd 500g,Dairy,5.0,39.0,2026-01-31,Walk-in
+1707,Dishwash Liquid,Household,10.0,96.0,2026-06-25,Wholesale
+1708,Tea Powder 250g,Grocery,4.0,120.0,2026-04-05,Wholesale
+1709,Shampoo,Personal Care,15.0,182.0,2026-04-10,Walk-in
+1710,Biscuits,Snacks,20.0,34.0,2026-04-19,Regular
+1711,Paneer 200g,Dairy,20.0,80.0,2026-02-17,Walk-in
+1712,Paneer 200g,Dairy,2.0,76.0,2026-05-12,Walk-in
+1713,Detergent 1kg,Household,8.0,135.0,2026-06-15,Wholesale
+1714,Tea Powder 250g,Grocery,17.0,122.0,2026-06-11,Wholesale
+1715,Sugar 1kg,Grocery,15.0,44.0,2026-04-22,Regular
+1716,Dishwash Liquid,Household,5.0,94.0,2026-02-02,Wholesale
+1717,Chips,Snacks,17.0,18.0,2026-04-20,Walk-in
+1718,Wheat Flour 5kg,Grocery,3.0,223.0,2026-01-12,Wholesale
+1719,COOKING OIL 1L  ,Grocery,14.0,153.0,2026-04-16,Regular
+1720,Detergent 1kg,Household,19.0,135.0,2026-03-06,Walk-in
+1721,Biscuits,Snacks,3.0,34.0,2026-05-09,Regular
+1722,Cooking Oil 1L,Grocery,15.0,155.0,2026-02-15,Regular
+1723,Curd 500g,Dairy,3.0,35.0,2026-04-17,Wholesale
+1724,Chips,Snacks,19.0,20.0,2026-04-27,Wholesale
+1725,Detergent 1kg,Household,9.0,134.0,2026-03-29,Regular
+1726,Shampoo,Personal Care,,177.0,2026-06-04,Walk-in
+1727,Cooking Oil 1L,Grocery,18.0,151.0,2026-01-05,Regular
+1728,Curd 500g,Dairy,1.0,36.0,2026-02-13,Wholesale
+1729,Dishwash Liquid,Household,13.0,97.0,2026-06-18,Wholesale
+1730,Dishwash Liquid,Household,20.0,94.0,2026-06-07,Walk-in
+1731,Curd 500g,Dairy,3.0,39.0,2026-02-02,Regular
+1732,Rice 5kg,Grocery,4.0,348.0,2026-01-05,Wholesale
+1733,Shampoo,Personal Care,7.0,,2026-05-04,Wholesale
+1734,Tea Powder 250g,Grocery,8.0,125.0,2026-04-22,Wholesale
+1735,Shampoo,Personal Care,10.0,176.0,2026-04-29,Regular
+1736,Dishwash Liquid,Household,1.0,96.0,2026-01-30,Regular
+1737,Tea Powder 250g,Grocery,16.0,122.0,2026-05-01,Regular
+1738,Detergent 1kg,Household,8.0,134.0,2026-02-21,Walk-in
+1739,Curd 500g,Dairy,11.0,35.0,2026-01-03,Regular
+1740,Paneer 200g,Dairy,16.0,81.0,2026-05-29,Wholesale
+1741,Chips,Snacks,16.0,15.0,2026-04-13,Walk-in
+1742,Dishwash Liquid,Household,2.0,93.0,2026-05-16,Regular
+1743,Paneer 200g,Dairy,11.0,84.0,2026-05-22,Regular
+1744,Biscuits,Snacks,14.0,35.0,2026-05-02,Regular
+1745,Dishwash Liquid,Household,12.0,99.0,2026-04-25,Wholesale
+1746,Paneer 200g,Dairy,6.0,75.0,2026-03-15,Wholesale
+1747,Shampoo,Personal Care,12.0,182.0,2026-04-23,Regular
+1748,Toothpaste,Personal Care,11.0,94.0,2026-06-04,Wholesale
+1749,Detergent 1kg,Household,10.0,127.0,2026-04-10,Walk-in
+1750,MILK 1L  ,Dairy,6.0,57.0,2026-06-09,Regular
+1751,Chips,Snacks,16.0,16.0,2026-02-03,Regular
+1752,Shampoo,Personal Care,20.0,177.0,2026-05-06,Regular
+1753,Paneer 200g,Dairy,10.0,82.0,2026-03-02,Regular
+1754,Wheat Flour 5kg,Grocery,12.0,215.0,2026-03-08,Walk-in
+1755,Soap,Personal Care,17.0,32.0,2026-01-09,Regular
+1756,Namkeen 200g,Snacks,4.0,61.0,2026-06-08,Regular
+1757,Cooking Oil 1L,Grocery,8.0,153.0,2026-05-05,Walk-in
+1758,NAMKEEN 200G  ,Snacks,2.0,60.0,2026-05-23,Walk-in
+1759,TEA POWDER 250G  ,Grocery,20.0,123.0,2026-06-21,Regular
+1760,Wheat Flour 5kg,Grocery,15.0,222.0,2026-01-29,Regular
+1761,Cooking Oil 1L,Grocery,2.0,153.0,2026-05-10,Regular
+1762,Soap,Personal Care,4.0,40.0,2026-02-22,Walk-in
+1763,Soap,Personal Care,15.0,34.0,2026-05-10,Walk-in
+1764,Cooking Oil 1L,Grocery,12.0,147.0,2026-03-27,Regular
+1765,Cooking Oil 1L,Grocery,15.0,148.0,2026-04-17,Regular
+1766,Toothpaste,Personal Care,11.0,92.0,2026-03-15,Wholesale
+1767,Soap,Personal Care,9.0,31.0,2026-04-06,Wholesale
+1768,Paneer 200g,Dairy,8.0,80.0,2026-02-08,Wholesale
+1769,Paneer 200g,Dairy,5.0,78.0,2026-04-20,Walk-in
+1770,Paneer 200g,Dairy,17.0,82.0,2026-06-24,Walk-in
+1771,Rice 5kg,Grocery,5.0,352.0,2026-01-03,Wholesale
+1772,Sugar 1kg,Grocery,11.0,41.0,2026-03-22,Walk-in
+1773,Soap,Personal Care,2.0,36.0,2026-04-11,Regular
+1774,Tea Powder 250g,Grocery,2.0,124.0,2026-06-11,Wholesale
+1775,Chips,Snacks,13.0,21.0,2026-06-24,Wholesale
+1776,Chips,Snacks,12.0,20.0,2026-01-03,Walk-in
+1777,Tea Powder 250g,Grocery,15.0,121.0,2026-06-14,Regular
+1778,Detergent 1kg,Household,13.0,130.0,2026-02-20,Walk-in
+1779,Sugar 1kg,Grocery,18.0,40.0,2026-03-27,Walk-in
+1780,Tea Powder 250g,Grocery,18.0,123.0,2026-03-14,Regular
+1781,Sugar 1kg,Grocery,18.0,48.0,2026-03-21,Wholesale
+1782,Namkeen 200g,Snacks,6.0,65.0,2026-01-06,Regular
+1783,Biscuits,Snacks,10.0,28.0,2026-04-19,Wholesale
+1784,Cooking Oil 1L,Grocery,12.0,145.0,2026-03-08,Wholesale
+1785,Milk 1L,Dairy,2.0,51.0,2026-06-16,Regular
+1786,Detergent 1kg,Household,19.0,129.0,2026-01-02,Walk-in
+1787,Namkeen 200g,Snacks,19.0,58.0,2026-05-25,Wholesale
+1788,Toothpaste,Personal Care,10.0,90.0,2026-03-14,Wholesale
+1789,Tea Powder 250g,Grocery,17.0,121.0,2026-03-05,Regular
+1790,Namkeen 200g,Snacks,19.0,63.0,2026-02-19,Walk-in
+1791,Detergent 1kg,Household,5.0,126.0,2026-04-19,Walk-in
+1792,Sugar 1kg,Grocery,2.0,41.0,2026-04-19,Regular
+1793,Dishwash Liquid,Household,15.0,93.0,2026-01-20,Walk-in
+1794,Curd 500g,Dairy,18.0,44.0,2026-05-13,Walk-in
+1795,Biscuits,Snacks,16.0,34.0,2026-06-12,Walk-in
+1796,Detergent 1kg,Household,14.0,132.0,2026-02-11,Regular
+1797,Tea Powder 250g,Grocery,15.0,122.0,2026-02-03,Wholesale
+1798,Cooking Oil 1L,Grocery,,,2026-05-02,Regular
+1799,Soap,Personal Care,12.0,38.0,2026-01-31,Wholesale
+1800,Paneer 200g,Dairy,4.0,76.0,2026-04-05,Wholesale
+1801,Chips,Snacks,17.0,15.0,2026-02-09,Regular
+1802,Milk 1L,Dairy,12.0,54.0,2026-03-19,Walk-in
+1803,Dishwash Liquid,Household,5.0,90.0,2026-02-06,Wholesale
+1804,Paneer 200g,Dairy,10.0,75.0,2026-03-14,Regular
+1805,Soap,Personal Care,1.0,37.0,2026-02-01,Wholesale
+1806,Milk 1L,Dairy,2.0,51.0,2026-04-17,Walk-in
+1807,Chips,Snacks,15.0,24.0,2026-03-28,Walk-in
+1808,Dishwash Liquid,Household,5.0,99.0,2026-02-05,Wholesale
+1809,Detergent 1kg,Household,15.0,132.0,2026-02-08,Wholesale
+1810,Namkeen 200g,Snacks,20.0,56.0,2026-06-20,Wholesale
+1811,Paneer 200g,Dairy,8.0,81.0,2026-04-12,Walk-in
+1812,Wheat Flour 5kg,Grocery,15.0,225.0,2026-03-13,Wholesale
+1813,Sugar 1kg,Grocery,1.0,42.0,2026-05-27,Wholesale
+1814,Chips,Snacks,4.0,23.0,2026-06-14,Wholesale
+1815,Sugar 1kg,Grocery,20.0,43.0,2026-05-19,Wholesale
+1816,Wheat Flour 5kg,Grocery,17.0,224.0,2026-02-18,Walk-in
+1817,Rice 5kg,Grocery,18.0,346.0,2026-02-16,Regular
+1818,Biscuits,Snacks,8.0,28.0,2026-06-30,Wholesale
+1819,Detergent 1kg,Household,18.0,126.0,2026-06-05,Walk-in
+1820,Curd 500g,Dairy,2.0,44.0,2026-05-06,Regular
+1821,Namkeen 200g,Snacks,6.0,61.0,2026-04-17,Regular
+1822,Namkeen 200g,Snacks,9.0,61.0,2026-01-24,Regular
+1823,Cooking Oil 1L,Grocery,6.0,153.0,2026-03-15,Regular
+1824,Soap,Personal Care,3.0,34.0,2026-02-09,Walk-in
+1825,Paneer 200g,Dairy,6.0,85.0,2026-01-16,Wholesale
+1826,Namkeen 200g,Snacks,1.0,57.0,2026-01-15,Walk-in
+1827,Curd 500g,Dairy,11.0,36.0,2026-02-06,Walk-in
+1828,Namkeen 200g,Snacks,13.0,59.0,2026-01-31,Regular
+1829,Shampoo,Personal Care,20.0,178.0,2026-05-31,Regular
+1830,Dishwash Liquid,Household,17.0,98.0,2026-04-09,Regular
+1831,Biscuits,Snacks,11.0,25.0,2026-04-29,Wholesale
+1832,Paneer 200g,Dairy,16.0,,2026-01-08,Walk-in
+1833,Toothpaste,Personal Care,9.0,85.0,2026-05-22,Wholesale
+1834,Cooking Oil 1L,Grocery,18.0,148.0,2026-06-16,Regular
+1835,Chips,Snacks,,24.0,2026-04-25,Regular
+1836,Shampoo,Personal Care,12.0,177.0,2026-05-19,Regular
+1837,Toothpaste,Personal Care,14.0,93.0,2026-05-23,Walk-in
+1838,Wheat Flour 5kg,Grocery,15.0,215.0,2026-06-08,Walk-in
+1839,Soap,Personal Care,2.0,30.0,2026-05-04,Walk-in
+1840,Biscuits,Snacks,13.0,35.0,2026-03-31,Wholesale
+1841,Shampoo,Personal Care,17.0,184.0,2026-03-14,Regular
+1842,Soap,Personal Care,19.0,38.0,2026-01-18,Walk-in
+1843,Sugar 1kg,Grocery,4.0,46.0,2026-02-05,Wholesale
+1844,Biscuits,Snacks,7.0,31.0,2026-06-06,Wholesale
+1845,Namkeen 200g,Snacks,11.0,65.0,2026-06-12,Walk-in
+1846,Detergent 1kg,Household,8.0,129.0,2026-06-19,Walk-in
+1847,Namkeen 200g,Snacks,15.0,58.0,2026-06-03,Walk-in
+1848,Rice 5kg,Grocery,1.0,347.0,2026-06-05,Walk-in
+1849,Rice 5kg,Grocery,6.0,345.0,2026-04-16,Wholesale
+1850,Dishwash Liquid,Household,18.0,96.0,2026-01-21,Wholesale
+1851,Sugar 1kg,Grocery,1.0,48.0,2026-06-21,Walk-in
+1852,Cooking Oil 1L,Grocery,13.0,150.0,2026-06-03,Walk-in
+1853,Curd 500g,Dairy,1.0,37.0,2026-02-01,Walk-in
+1854,Milk 1L,Dairy,15.0,53.0,2026-01-03,Regular
+1855,Rice 5kg,Grocery,12.0,349.0,2026-02-19,Regular
+1856,Chips,Snacks,8.0,18.0,2026-05-07,Walk-in
+1857,Wheat Flour 5kg,Grocery,16.0,219.0,2026-06-30,Wholesale
+1858,Shampoo,Personal Care,7.0,175.0,2026-06-13,Walk-in
+1859,Cooking Oil 1L,Grocery,19.0,149.0,2026-05-09,Walk-in
+1860,Soap,Personal Care,7.0,38.0,2026-06-18,Wholesale
+1861,Soap,Personal Care,19.0,31.0,2026-02-02,Wholesale
+1862,Sugar 1kg,Grocery,9.0,42.0,2026-05-26,Regular
+1863,Biscuits,Snacks,1.0,28.0,2026-06-27,Wholesale
+1864,Biscuits,Snacks,18.0,35.0,2026-04-27,Regular
+1865,Paneer 200g,Dairy,2.0,85.0,2026-03-24,Walk-in
+1866,Paneer 200g,Dairy,4.0,79.0,2026-06-24,Wholesale
+1867,Detergent 1kg,Household,12.0,132.0,2026-05-13,Regular
+1868,Toothpaste,Personal Care,9.0,85.0,2026-04-18,Wholesale
+1869,Detergent 1kg,Household,1.0,130.0,2026-04-11,Regular
+1870,Namkeen 200g,Snacks,19.0,56.0,2026-01-07,Wholesale
+1871,Toothpaste,Personal Care,3.0,91.0,2026-03-05,Regular
+1872,Soap,Personal Care,10.0,35.0,2026-01-17,Wholesale
+1873,Cooking Oil 1L,Grocery,16.0,145.0,2026-04-21,Regular
+1874,Namkeen 200g,Snacks,8.0,59.0,2026-01-28,Walk-in
+1875,Toothpaste,Personal Care,2.0,90.0,2026-03-27,Wholesale
+1876,Toothpaste,Personal Care,20.0,86.0,2026-06-08,Walk-in
+1877,Cooking Oil 1L,Grocery,15.0,155.0,2026-05-29,Regular
+1878,Sugar 1kg,Grocery,2.0,40.0,2026-04-07,Walk-in
+1879,Sugar 1kg,Grocery,2.0,42.0,2026-04-24,Regular
+1880,Chips,Snacks,14.0,24.0,2026-01-17,Regular
+1881,Wheat Flour 5kg,Grocery,2.0,223.0,2026-03-17,Walk-in
+1882,Curd 500g,Dairy,20.0,36.0,2026-04-16,Regular
+1883,Rice 5kg,Grocery,13.0,352.0,2026-04-29,Walk-in
+1884,Cooking Oil 1L,Grocery,1.0,150.0,2026-04-27,Wholesale
+1885,Namkeen 200g,Snacks,7.0,64.0,2026-01-28,Regular
+1886,Rice 5kg,Grocery,3.0,354.0,2026-06-01,Regular
+1887,Tea Powder 250g,Grocery,17.0,125.0,2026-03-07,Walk-in
+1888,Paneer 200g,Dairy,20.0,82.0,2026-04-24,Regular
+1889,Toothpaste,Personal Care,2.0,87.0,2026-01-16,Regular
+1890,Chips,Snacks,14.0,24.0,2026-05-12,Wholesale
+1891,Milk 1L,Dairy,19.0,54.0,2026-05-19,Regular
+1892,Tea Powder 250g,Grocery,10.0,122.0,2026-06-04,Walk-in
+1893,Chips,Snacks,1.0,20.0,2026-05-13,Wholesale
+1894,Tea Powder 250g,Grocery,8.0,115.0,2026-05-10,Wholesale
+1895,Wheat Flour 5kg,Grocery,,221.0,2026-02-20,Regular
+1896,Shampoo,Personal Care,11.0,176.0,2026-02-18,Wholesale
+1897,Dishwash Liquid,Household,20.0,97.0,2026-06-27,Walk-in
+1898,Namkeen 200g,Snacks,10.0,64.0,2026-04-18,Walk-in
+1899,Soap,Personal Care,15.0,31.0,2026-01-11,Walk-in
+1900,Toothpaste,Personal Care,8.0,85.0,2026-06-27,Regular
+1901,Detergent 1kg,Household,7.0,134.0,2026-03-03,Walk-in
+1902,Namkeen 200g,Snacks,7.0,61.0,2026-04-13,Regular
+1903,Rice 5kg,Grocery,1.0,350.0,2026-01-19,Walk-in
+1904,Rice 5kg,Grocery,4.0,353.0,2026-02-06,Walk-in
+1905,Detergent 1kg,Household,19.0,128.0,2026-04-03,Regular
+1906,Rice 5kg,Grocery,7.0,348.0,2026-03-14,Regular
+1907,Toothpaste,Personal Care,6.0,89.0,2026-03-28,Wholesale
+1908,Toothpaste,Personal Care,7.0,87.0,2026-01-06,Regular
+1909,Biscuits,Snacks,1.0,26.0,2026-06-23,Regular
+1910,Curd 500g,Dairy,4.0,45.0,2026-03-28,Regular
+1911,Chips,Snacks,8.0,22.0,2026-04-05,Walk-in
+1912,Soap,Personal Care,20.0,38.0,2026-04-22,Wholesale
+1913,Sugar 1kg,Grocery,5.0,41.0,2026-02-03,Regular
+1914,Shampoo,Personal Care,13.0,183.0,2026-06-27,Walk-in
+1915,Namkeen 200g,Snacks,14.0,64.0,2026-06-12,Regular
+1916,Wheat Flour 5kg,Grocery,19.0,224.0,2026-02-18,Wholesale
+1917,Chips,Snacks,,17.0,2026-03-05,Regular
+1918,Biscuits,Snacks,17.0,27.0,2026-05-30,Walk-in
+1919,Shampoo,Personal Care,16.0,176.0,2026-06-19,Wholesale
+1920,Sugar 1kg,Grocery,17.0,42.0,2026-04-10,Wholesale
+1921,Milk 1L,Dairy,17.0,57.0,2026-04-29,Regular
+1922,Namkeen 200g,Snacks,17.0,60.0,2026-06-27,Walk-in
+1923,Dishwash Liquid,Household,9.0,97.0,2026-05-29,Walk-in
+1924,Wheat Flour 5kg,Grocery,8.0,218.0,2026-02-21,Walk-in
+1925,Toothpaste,Personal Care,7.0,91.0,2026-03-20,Walk-in
+1926,Curd 500g,Dairy,6.0,44.0,2026-04-06,Walk-in
+1927,Sugar 1kg,Grocery,3.0,42.0,2026-03-17,Walk-in
+1928,Milk 1L,Dairy,19.0,53.0,2026-01-11,Walk-in
+1929,Namkeen 200g,Snacks,15.0,61.0,2026-04-30,Walk-in
+1930,Paneer 200g,Dairy,16.0,80.0,2026-03-23,Walk-in
+1931,Curd 500g,Dairy,6.0,35.0,2026-04-24,Regular
+1932,Biscuits,Snacks,3.0,35.0,2026-04-02,Regular
+1933,Chips,Snacks,17.0,23.0,2026-05-20,Wholesale
+1934,Sugar 1kg,Grocery,8.0,44.0,2026-01-26,Regular
+1935,Sugar 1kg,Grocery,2.0,45.0,2026-05-20,Regular
+1936,Namkeen 200g,Snacks,11.0,58.0,2026-03-06,Walk-in
+1937,Biscuits,Snacks,20.0,28.0,2026-02-05,Wholesale
+1938,Biscuits,Snacks,10.0,25.0,2026-03-14,Walk-in
+1939,Curd 500g,Dairy,19.0,41.0,2026-06-17,Regular
+1940,Dishwash Liquid,Household,17.0,100.0,2026-02-08,Walk-in
+1941,Toothpaste,Personal Care,7.0,88.0,2026-05-02,Regular
+1942,Detergent 1kg,Household,11.0,132.0,2026-01-22,Walk-in
+1943,Shampoo,Personal Care,14.0,181.0,2026-02-23,Walk-in
+1944,Detergent 1kg,Household,1.0,133.0,2026-04-06,Regular
+1945,Tea Powder 250g,Grocery,1.0,119.0,2026-05-08,Wholesale
+1946,Milk 1L,Dairy,8.0,55.0,2026-04-18,Walk-in
+1947,Curd 500g,Dairy,10.0,43.0,2026-03-25,Wholesale
+1948,Rice 5kg,Grocery,2.0,354.0,2026-02-05,Regular
+1949,Namkeen 200g,Snacks,20.0,64.0,2026-06-05,Wholesale
+1950,Curd 500g,Dairy,7.0,41.0,2026-04-11,Regular
+1951,Curd 500g,Dairy,16.0,38.0,2026-01-28,Walk-in
+1952,Detergent 1kg,Household,10.0,135.0,2026-01-24,Regular
+1953,Cooking Oil 1L,Grocery,18.0,155.0,2026-02-15,Regular
+1954,Dishwash Liquid,Household,6.0,90.0,2026-02-20,Regular
+1955,Curd 500g,Dairy,7.0,39.0,2026-03-01,Walk-in
+1956,Sugar 1kg,Grocery,2.0,47.0,2026-04-05,Wholesale
+1957,Rice 5kg,Grocery,11.0,347.0,2026-04-16,Walk-in
+1958,Soap,Personal Care,5.0,31.0,2026-05-18,Walk-in
+1959,Dishwash Liquid,Household,13.0,91.0,2026-02-22,Regular
+1960,Shampoo,Personal Care,14.0,179.0,2026-06-20,Walk-in
+1961,Soap,Personal Care,19.0,39.0,2026-03-21,Wholesale
+1962,Shampoo,Personal Care,15.0,183.0,2026-03-12,Regular
+1963,Rice 5kg,Grocery,15.0,347.0,2026-01-17,Walk-in
+1964,Toothpaste,Personal Care,11.0,93.0,2026-05-26,Walk-in
+1965,Detergent 1kg,Household,19.0,132.0,2026-01-11,Wholesale
+1966,Sugar 1kg,Grocery,15.0,44.0,2026-03-30,Wholesale
+1967,Chips,Snacks,20.0,21.0,2026-02-14,Walk-in
+1968,Toothpaste,Personal Care,20.0,87.0,2026-04-21,Walk-in
+1969,Curd 500g,Dairy,6.0,45.0,2026-06-28,Wholesale
+1970,Cooking Oil 1L,Grocery,2.0,151.0,2026-03-03,Regular
+1971,Biscuits,Snacks,18.0,35.0,2026-03-16,Wholesale
+1972,Sugar 1kg,Grocery,16.0,43.0,2026-04-16,Wholesale
+1973,Cooking Oil 1L,Grocery,3.0,150.0,2026-01-27,Wholesale
+1974,Namkeen 200g,Snacks,15.0,,2026-02-12,Walk-in
+1975,Shampoo,Personal Care,2.0,183.0,2026-04-29,Regular
+1976,Sugar 1kg,Grocery,15.0,50.0,2026-04-08,Walk-in
+1977,Curd 500g,Dairy,13.0,38.0,2026-01-10,Regular
+1978,Biscuits,Snacks,5.0,26.0,2026-03-25,Wholesale
+1979,Detergent 1kg,Household,15.0,132.0,2026-01-18,Regular
+1980,Toothpaste,Personal Care,5.0,92.0,2026-05-01,Walk-in
+1981,Soap,Personal Care,1.0,32.0,2026-06-05,Regular
+1982,Soap,Personal Care,4.0,34.0,2026-05-17,Wholesale
+1983,Curd 500g,Dairy,3.0,37.0,2026-06-21,Regular
+1984,Biscuits,Snacks,15.0,27.0,2026-04-02,Regular
+1985,Shampoo,Personal Care,18.0,175.0,2026-02-25,Walk-in
+1986,Wheat Flour 5kg,Grocery,17.0,225.0,2026-06-14,Wholesale
+1987,Cooking Oil 1L,Grocery,10.0,151.0,2026-04-24,Regular
+1988,Rice 5kg,Grocery,13.0,345.0,2026-02-21,Regular
+1989,Milk 1L,Dairy,7.0,53.0,2026-01-24,Regular
+1990,Paneer 200g,Dairy,1.0,75.0,2026-03-28,Regular
+1991,Sugar 1kg,Grocery,4.0,43.0,2026-06-20,Regular
+1992,Soap,Personal Care,14.0,30.0,2026-05-12,Regular
+1993,Namkeen 200g,Snacks,,60.0,2026-06-10,Regular
+1994,Shampoo,Personal Care,13.0,183.0,2026-04-20,Regular
+1995,Toothpaste,Personal Care,4.0,88.0,2026-04-02,Walk-in
+1996,Soap,Personal Care,13.0,30.0,2026-06-17,Walk-in
+1997,Rice 5kg,Grocery,7.0,351.0,2026-04-28,Regular
+1998,Sugar 1kg,Grocery,9.0,50.0,2026-06-16,Wholesale
+1999,Milk 1L,Dairy,3.0,50.0,2026-02-25,Walk-in
+2000,Chips,Snacks,16.0,24.0,2026-01-27,Wholesale
+2001,Soap,Personal Care,4.0,,2026-06-03,Walk-in
+2002,Curd 500g,Dairy,5.0,45.0,2026-03-27,Regular
+2003,Namkeen 200g,Snacks,16.0,65.0,2026-01-18,Walk-in
+2004,Rice 5kg,Grocery,19.0,354.0,2026-04-25,Walk-in
+2005,Toothpaste,Personal Care,19.0,93.0,2026-06-30,Regular
+2006,Toothpaste,Personal Care,20.0,85.0,2026-02-01,Walk-in
+2007,Toothpaste,Personal Care,8.0,91.0,2026-06-08,Regular
+2008,Wheat Flour 5kg,Grocery,12.0,217.0,2026-05-08,Walk-in
+2009,Shampoo,Personal Care,13.0,177.0,2026-02-22,Wholesale
+2010,Wheat Flour 5kg,Grocery,20.0,218.0,2026-04-24,Wholesale
+2011,Namkeen 200g,Snacks,9.0,57.0,2026-03-23,Wholesale
+2012,Wheat Flour 5kg,Grocery,14.0,223.0,2026-06-15,Walk-in
+2013,Rice 5kg,Grocery,11.0,348.0,2026-03-29,Regular
+2014,Shampoo,Personal Care,2.0,183.0,2026-06-20,Regular
+2015,Toothpaste,Personal Care,13.0,94.0,2026-05-14,Walk-in
+2016,Soap,Personal Care,1.0,37.0,2026-01-17,Walk-in
+2017,Sugar 1kg,Grocery,2.0,43.0,2026-06-12,Regular
+2018,Shampoo,Personal Care,3.0,177.0,2026-02-14,Wholesale
+2019,Shampoo,Personal Care,17.0,178.0,2026-01-21,Walk-in
+2020,Detergent 1kg,Household,6.0,129.0,2026-02-20,Regular
+2021,Paneer 200g,Dairy,20.0,77.0,2026-03-05,Walk-in
+2022,CHIPS  ,Snacks,15.0,24.0,2026-06-12,Regular
+2023,Biscuits,Snacks,3.0,32.0,2026-04-03,Walk-in
+2024,Curd 500g,Dairy,16.0,37.0,2026-04-23,Walk-in
+2025,Paneer 200g,Dairy,16.0,77.0,2026-01-06,Walk-in
+2026,Paneer 200g,Dairy,10.0,76.0,2026-06-02,Wholesale
+2027,Tea Powder 250g,Grocery,6.0,123.0,2026-03-07,Walk-in
+2028,Detergent 1kg,Household,15.0,129.0,2026-03-14,Walk-in
+2029,Dishwash Liquid,Household,11.0,91.0,2026-02-04,Wholesale
+2030,Dishwash Liquid,Household,5.0,93.0,2026-02-18,Regular
+2031,Rice 5kg,Grocery,12.0,353.0,2026-05-06,Walk-in
+2032,Paneer 200g,Dairy,12.0,81.0,2026-04-09,Walk-in
+2033,Chips,Snacks,19.0,25.0,2026-01-19,Walk-in
+2034,Wheat Flour 5kg,Grocery,13.0,216.0,2026-05-25,Regular
+2035,Shampoo,Personal Care,9.0,181.0,2026-03-31,Wholesale
+2036,Dishwash Liquid,Household,12.0,100.0,2026-06-28,Regular
+2037,Curd 500g,Dairy,8.0,41.0,2026-03-04,Walk-in
+2038,Wheat Flour 5kg,Grocery,1.0,220.0,2026-06-28,Wholesale
+2039,Tea Powder 250g,Grocery,20.0,119.0,2026-04-27,Wholesale
+2040,Tea Powder 250g,Grocery,8.0,119.0,2026-06-04,Wholesale
+2041,Soap,Personal Care,4.0,30.0,2026-01-24,Wholesale
+2042,Curd 500g,Dairy,19.0,41.0,2026-01-21,Wholesale
+2043,Shampoo,Personal Care,6.0,181.0,2026-04-20,Walk-in
+2044,Chips,Snacks,18.0,23.0,2026-06-18,Walk-in
+2045,Chips,Snacks,,21.0,2026-01-28,Wholesale
+2046,Milk 1L,Dairy,9.0,52.0,2026-02-23,Wholesale
+2047,Curd 500g,Dairy,1.0,39.0,2026-02-13,Walk-in
+2048,Rice 5kg,Grocery,3.0,346.0,2026-06-28,Walk-in
+2049,Paneer 200g,Dairy,10.0,85.0,2026-04-21,Regular
+2050,Soap,Personal Care,6.0,35.0,2026-06-30,Regular
+2051,Shampoo,Personal Care,6.0,182.0,2026-05-09,Regular
+2052,Detergent 1kg,Household,7.0,134.0,2026-02-17,Regular
+2053,Wheat Flour 5kg,Grocery,7.0,217.0,2026-03-08,Walk-in
+2054,Detergent 1kg,Household,20.0,135.0,2026-01-28,Wholesale
+2055,Soap,Personal Care,10.0,31.0,2026-01-22,Walk-in
+2056,Cooking Oil 1L,Grocery,3.0,149.0,2026-03-29,Regular
+2057,Toothpaste,Personal Care,16.0,92.0,2026-06-22,Regular
+2058,Rice 5kg,Grocery,9.0,345.0,2026-01-02,Wholesale
+2059,Wheat Flour 5kg,Grocery,7.0,216.0,2026-05-14,Regular
+2060,Curd 500g,Dairy,17.0,44.0,2026-03-10,Walk-in
+2061,Dishwash Liquid,Household,20.0,95.0,2026-04-20,Walk-in
+2062,Milk 1L,Dairy,11.0,60.0,2026-03-22,Regular
+2063,Milk 1L,Dairy,13.0,60.0,2026-04-07,Wholesale
+2064,Wheat Flour 5kg,Grocery,11.0,220.0,2026-01-26,Regular
+2065,Detergent 1kg,Household,5.0,131.0,2026-01-07,Wholesale
+2066,Cooking Oil 1L,Grocery,9.0,153.0,2026-06-29,Regular
+2067,Milk 1L,Dairy,20.0,57.0,2026-06-25,Wholesale
+2068,Dishwash Liquid,Household,,98.0,2026-06-19,Regular
+2069,Rice 5kg,Grocery,11.0,355.0,2026-01-05,Wholesale
+2070,Milk 1L,Dairy,11.0,50.0,2026-06-23,Walk-in
+2071,Toothpaste,Personal Care,16.0,94.0,2026-04-13,Wholesale
+2072,Sugar 1kg,Grocery,14.0,45.0,2026-05-02,Wholesale
+2073,Cooking Oil 1L,Grocery,10.0,151.0,2026-06-05,Regular
+2074,Tea Powder 250g,Grocery,19.0,123.0,2026-05-10,Regular
+2075,Tea Powder 250g,Grocery,3.0,122.0,2026-03-19,Wholesale
+2076,Detergent 1kg,Household,15.0,127.0,2026-01-30,Walk-in
+2077,Toothpaste,Personal Care,7.0,88.0,2026-02-13,Wholesale
+2078,Sugar 1kg,Grocery,14.0,41.0,2026-01-08,Regular
+2079,Namkeen 200g,Snacks,9.0,61.0,2026-02-26,Wholesale
+2080,Biscuits,Snacks,16.0,35.0,2026-06-21,Regular
+2081,Tea Powder 250g,Grocery,16.0,123.0,2026-01-24,Wholesale
+2082,Namkeen 200g,Snacks,19.0,58.0,2026-06-03,Regular
+2083,Namkeen 200g,Snacks,13.0,61.0,2026-06-17,Wholesale
+2084,Paneer 200g,Dairy,8.0,78.0,2026-03-08,Regular
+2085,Chips,Snacks,4.0,16.0,2026-01-23,Walk-in
+2086,Shampoo,Personal Care,19.0,176.0,2026-04-05,Regular
+2087,Namkeen 200g,Snacks,19.0,61.0,2026-01-01,Walk-in
+2088,Wheat Flour 5kg,Grocery,18.0,224.0,2026-02-18,Walk-in
+2089,Paneer 200g,Dairy,12.0,80.0,2026-06-23,Regular
+2090,Toothpaste,Personal Care,13.0,86.0,2026-01-03,Wholesale
+2091,Detergent 1kg,Household,5.0,130.0,2026-03-17,Regular
+2092,Dishwash Liquid,Household,15.0,100.0,2026-02-07,Wholesale
+2093,Chips,Snacks,2.0,17.0,2026-06-03,Walk-in
+2094,Chips,Snacks,4.0,,2026-03-12,Wholesale
+2095,Dishwash Liquid,Household,7.0,100.0,2026-05-07,Walk-in
+2096,Curd 500g,Dairy,11.0,35.0,2026-02-09,Wholesale
+2097,Shampoo,Personal Care,2.0,178.0,2026-02-15,Walk-in
+2098,CURD 500G  ,Dairy,6.0,39.0,2026-01-06,Wholesale
+2099,Curd 500g,Dairy,14.0,40.0,2026-06-23,Walk-in
+2100,Milk 1L,Dairy,13.0,56.0,2026-01-19,Wholesale
+2101,Chips,Snacks,7.0,19.0,2026-06-29,Wholesale
+2102,Curd 500g,Dairy,5.0,36.0,2026-03-24,Wholesale
+2103,Wheat Flour 5kg,Grocery,15.0,219.0,2026-06-17,Regular
+2104,Tea Powder 250g,Grocery,16.0,122.0,2026-03-16,Regular
+2105,Shampoo,Personal Care,7.0,178.0,2026-06-16,Regular
+2106,Milk 1L,Dairy,4.0,59.0,2026-06-23,Regular
+2107,Curd 500g,Dairy,6.0,41.0,2026-01-15,Regular
+2108,Milk 1L,Dairy,6.0,57.0,2026-01-14,Regular
+2109,NAMKEEN 200G  ,Snacks,,64.0,2026-02-08,Wholesale
+2110,Curd 500g,Dairy,2.0,38.0,2026-01-31,Regular
+2111,Curd 500g,Dairy,10.0,42.0,2026-06-26,Wholesale
+2112,Soap,Personal Care,13.0,40.0,2026-06-27,Wholesale
+2113,Sugar 1kg,Grocery,13.0,47.0,2026-03-12,Wholesale
+2114,Detergent 1kg,Household,,130.0,2026-01-31,Regular
+2115,Sugar 1kg,Grocery,16.0,41.0,2026-06-14,Wholesale
+2116,Toothpaste,Personal Care,19.0,85.0,2026-05-27,Wholesale
+2117,Dishwash Liquid,Household,4.0,94.0,2026-06-01,Regular
+2118,Curd 500g,Dairy,14.0,42.0,2026-03-18,Wholesale
+2119,Tea Powder 250g,Grocery,11.0,116.0,2026-01-17,Wholesale
+2120,Soap,Personal Care,1.0,36.0,2026-04-11,Wholesale
+2121,Dishwash Liquid,Household,17.0,91.0,2026-05-30,Wholesale
+2122,Cooking Oil 1L,Grocery,4.0,148.0,2026-02-16,Wholesale
+2123,Soap,Personal Care,18.0,30.0,2026-04-25,Walk-in
+2124,Cooking Oil 1L,Grocery,5.0,145.0,2026-05-28,Regular
+2125,Soap,Personal Care,18.0,,2026-03-07,Regular
+2126,Sugar 1kg,Grocery,17.0,41.0,2026-03-18,Walk-in
+2127,Soap,Personal Care,1.0,36.0,2026-03-05,Walk-in
+2128,Wheat Flour 5kg,Grocery,10.0,,2026-06-18,Wholesale
+2129,Detergent 1kg,Household,19.0,127.0,2026-05-06,Wholesale
+2130,Namkeen 200g,Snacks,12.0,63.0,2026-06-05,Wholesale
+2131,Shampoo,Personal Care,2.0,176.0,2026-03-02,Regular
+2132,Shampoo,Personal Care,10.0,177.0,2026-02-25,Regular
+2133,Shampoo,Personal Care,12.0,184.0,2026-03-13,Regular
+2134,Paneer 200g,Dairy,18.0,76.0,2026-03-07,Walk-in
+2135,Curd 500g,Dairy,6.0,45.0,2026-04-13,Walk-in
+2136,Sugar 1kg,Grocery,14.0,44.0,2026-06-27,Regular
+2137,Shampoo,Personal Care,9.0,176.0,2026-06-12,Wholesale
+2138,Shampoo,Personal Care,19.0,180.0,2026-06-18,Wholesale
+2139,Soap,Personal Care,5.0,36.0,2026-03-22,Walk-in
+2140,Curd 500g,Dairy,20.0,35.0,2026-03-05,Regular
+2141,Biscuits,Snacks,18.0,26.0,2026-01-29,Wholesale
+2142,Paneer 200g,Dairy,11.0,76.0,2026-06-13,Regular
+2143,Milk 1L,Dairy,9.0,55.0,2026-02-07,Regular
+2144,Biscuits,Snacks,4.0,25.0,2026-04-07,Regular
+2145,Curd 500g,Dairy,4.0,36.0,2026-02-14,Wholesale
+2146,Chips,Snacks,16.0,24.0,2026-01-25,Wholesale
+2147,Milk 1L,Dairy,10.0,59.0,2026-05-22,Walk-in
+2148,Cooking Oil 1L,Grocery,6.0,145.0,2026-03-23,Walk-in
+2149,Soap,Personal Care,18.0,35.0,2026-05-22,Wholesale
+2150,Curd 500g,Dairy,19.0,42.0,2026-02-02,Walk-in
+2151,Rice 5kg,Grocery,17.0,355.0,2026-02-09,Wholesale
+2152,Tea Powder 250g,Grocery,13.0,117.0,2026-05-26,Wholesale
+2153,Biscuits,Snacks,12.0,25.0,2026-03-05,Wholesale
+2154,Paneer 200g,Dairy,6.0,82.0,2026-04-23,Walk-in
+2155,Detergent 1kg,Household,10.0,133.0,2026-03-12,Walk-in
+2156,Toothpaste,Personal Care,3.0,89.0,2026-03-20,Walk-in
+2157,Namkeen 200g,Snacks,3.0,56.0,2026-01-20,Wholesale
+2158,Toothpaste,Personal Care,6.0,86.0,2026-05-28,Regular
+2159,Sugar 1kg,Grocery,18.0,44.0,2026-05-07,Regular
+2160,Paneer 200g,Dairy,17.0,85.0,2026-02-04,Walk-in
+2161,Dishwash Liquid,Household,18.0,98.0,2026-06-28,Regular
+2162,Curd 500g,Dairy,,35.0,2026-02-18,Wholesale
+2163,Rice 5kg,Grocery,18.0,351.0,2026-03-30,Regular
+2164,Wheat Flour 5kg,Grocery,15.0,224.0,2026-02-13,Wholesale
+2165,TOOTHPASTE  ,Personal Care,3.0,87.0,2026-04-04,Regular
+2166,Milk 1L,Dairy,14.0,50.0,2026-05-07,Walk-in
+2167,Soap,Personal Care,4.0,,2026-03-28,Wholesale
+2168,Toothpaste,Personal Care,4.0,93.0,2026-03-16,Walk-in
+2169,Dishwash Liquid,Household,9.0,94.0,2026-02-24,Regular
+2170,Curd 500g,Dairy,10.0,38.0,2026-06-14,Wholesale
+2171,Wheat Flour 5kg,Grocery,20.0,222.0,2026-05-05,Regular
+2172,Milk 1L,Dairy,20.0,50.0,2026-04-28,Walk-in
+2173,Chips,Snacks,4.0,20.0,2026-01-02,Walk-in
+2174,Soap,Personal Care,12.0,36.0,2026-01-03,Regular
+2175,Paneer 200g,Dairy,7.0,82.0,2026-01-22,Wholesale
+2176,Tea Powder 250g,Grocery,4.0,121.0,2026-05-05,Regular
+2177,Tea Powder 250g,Grocery,9.0,125.0,2026-02-27,Walk-in
+2178,Curd 500g,Dairy,10.0,40.0,2026-04-04,Walk-in
+2179,Soap,Personal Care,9.0,38.0,2026-01-28,Walk-in
+2180,Detergent 1kg,Household,5.0,127.0,2026-04-01,Wholesale
+2181,Paneer 200g,Dairy,12.0,75.0,2026-02-20,Regular
+2182,Shampoo,Personal Care,2.0,179.0,2026-02-04,Walk-in
+2183,Paneer 200g,Dairy,2.0,80.0,2026-02-11,Wholesale
+2184,SHAMPOO  ,Personal Care,9.0,182.0,2026-01-31,Walk-in
+2185,Dishwash Liquid,Household,16.0,98.0,2026-06-24,Wholesale
+2186,Tea Powder 250g,Grocery,13.0,120.0,2026-05-09,Wholesale
+2187,Curd 500g,Dairy,4.0,37.0,2026-01-28,Regular
+2188,Tea Powder 250g,Grocery,12.0,117.0,2026-05-09,Regular
+2189,Toothpaste,Personal Care,11.0,85.0,2026-04-20,Wholesale
+2190,Rice 5kg,Grocery,16.0,351.0,2026-03-16,Walk-in
+2191,Dishwash Liquid,Household,14.0,91.0,2026-03-05,Wholesale
+2192,Tea Powder 250g,Grocery,6.0,123.0,2026-03-05,Walk-in
+2193,Cooking Oil 1L,Grocery,8.0,149.0,2026-06-20,Walk-in
+2194,Shampoo,Personal Care,4.0,182.0,2026-06-29,Wholesale
+2195,Soap,Personal Care,19.0,33.0,2026-06-11,Wholesale
+2196,Tea Powder 250g,Grocery,4.0,118.0,2026-02-03,Walk-in
+2197,Wheat Flour 5kg,Grocery,,219.0,2026-02-07,Walk-in
+2198,Rice 5kg,Grocery,7.0,354.0,2026-01-24,Regular
+2199,Curd 500g,Dairy,17.0,41.0,2026-03-20,Wholesale
+2200,Toothpaste,Personal Care,11.0,88.0,2026-04-20,Walk-in
+2201,Wheat Flour 5kg,Grocery,14.0,223.0,2026-06-14,Regular
+2202,Chips,Snacks,9.0,16.0,2026-04-04,Walk-in
+2203,Milk 1L,Dairy,8.0,56.0,2026-03-23,Regular
+2204,Soap,Personal Care,1.0,30.0,2026-01-14,Wholesale
+2205,Namkeen 200g,Snacks,10.0,58.0,2026-05-01,Walk-in
+2206,Cooking Oil 1L,Grocery,6.0,151.0,2026-03-06,Walk-in
+2207,Milk 1L,Dairy,10.0,55.0,2026-01-29,Regular
+2208,Rice 5kg,Grocery,18.0,355.0,2026-02-03,Walk-in
+2209,Milk 1L,Dairy,19.0,55.0,2026-05-16,Wholesale
+2210,Milk 1L,Dairy,9.0,53.0,2026-02-23,Wholesale
+2211,Curd 500g,Dairy,4.0,36.0,2026-02-03,Wholesale
+2212,Cooking Oil 1L,Grocery,19.0,145.0,2026-06-17,Regular
+2213,Shampoo,Personal Care,4.0,182.0,2026-01-20,Wholesale
+2214,Namkeen 200g,Snacks,16.0,59.0,2026-02-21,Wholesale
+2215,Tea Powder 250g,Grocery,5.0,115.0,2026-02-19,Walk-in
+2216,Biscuits,Snacks,12.0,33.0,2026-04-04,Walk-in
+2217,Cooking Oil 1L,Grocery,3.0,151.0,2026-05-04,Walk-in
+2218,Rice 5kg,Grocery,20.0,347.0,2026-03-12,Wholesale
+2219,Tea Powder 250g,Grocery,2.0,119.0,2026-05-25,Regular
+2220,Shampoo,Personal Care,16.0,181.0,2026-06-25,Wholesale
+2221,Sugar 1kg,Grocery,15.0,42.0,2026-05-11,Walk-in
+2222,Curd 500g,Dairy,20.0,41.0,2026-03-11,Regular
+2223,Soap,Personal Care,,30.0,2026-05-27,Regular
+2224,Rice 5kg,Grocery,15.0,353.0,2026-05-09,Wholesale
+2225,Biscuits,Snacks,8.0,,2026-03-17,Wholesale
+2226,Biscuits,Snacks,4.0,33.0,2026-02-13,Regular
+2227,Wheat Flour 5kg,Grocery,8.0,223.0,2026-03-16,Regular
+2228,Tea Powder 250g,Grocery,5.0,119.0,2026-03-11,Regular
+2229,Toothpaste,Personal Care,18.0,88.0,2026-01-30,Regular
+2230,Milk 1L,Dairy,20.0,60.0,2026-04-05,Walk-in
+2231,Sugar 1kg,Grocery,9.0,48.0,2026-02-04,Walk-in
+2232,Chips,Snacks,2.0,20.0,2026-06-10,Regular
+2233,Milk 1L,Dairy,9.0,53.0,2026-02-15,Walk-in
+2234,Rice 5kg,Grocery,19.0,353.0,2026-01-28,Wholesale
+2235,Curd 500g,Dairy,9.0,45.0,2026-06-10,Wholesale
+2236,Shampoo,Personal Care,8.0,182.0,2026-03-25,Walk-in
+2237,Shampoo,Personal Care,13.0,184.0,2026-02-09,Walk-in
+2238,Toothpaste,Personal Care,12.0,91.0,2026-02-07,Walk-in
+2239,Sugar 1kg,Grocery,6.0,47.0,2026-04-28,Regular
+2240,Soap,Personal Care,19.0,33.0,2026-05-06,Wholesale
+2241,Soap,Personal Care,10.0,40.0,2026-01-06,Walk-in
+2242,Soap,Personal Care,13.0,32.0,2026-06-25,Wholesale
+2243,Shampoo,Personal Care,5.0,176.0,2026-01-19,Walk-in
+2244,Toothpaste,Personal Care,13.0,92.0,2026-01-26,Wholesale
+2245,Tea Powder 250g,Grocery,20.0,115.0,2026-01-26,Walk-in
+2246,Curd 500g,Dairy,4.0,35.0,2026-01-04,Wholesale
+2247,Wheat Flour 5kg,Grocery,8.0,217.0,2026-01-22,Walk-in
+2248,Tea Powder 250g,Grocery,20.0,125.0,2026-01-04,Regular
+2249,Cooking Oil 1L,Grocery,11.0,153.0,2026-01-22,Regular
+2250,Tea Powder 250g,Grocery,19.0,122.0,2026-04-24,Regular
+2251,Chips,Snacks,16.0,20.0,2026-02-09,Regular
+2252,Wheat Flour 5kg,Grocery,9.0,223.0,2026-06-10,Wholesale
+2253,Cooking Oil 1L,Grocery,2.0,145.0,2026-01-27,Wholesale
+2254,Chips,Snacks,17.0,16.0,2026-04-17,Regular
+2255,Rice 5kg,Grocery,1.0,348.0,2026-02-28,Walk-in
+2256,Curd 500g,Dairy,12.0,37.0,2026-06-17,Walk-in
+2257,Toothpaste,Personal Care,13.0,95.0,2026-06-25,Wholesale
+2258,Cooking Oil 1L,Grocery,6.0,152.0,2026-01-29,Regular
+2259,COOKING OIL 1L  ,Grocery,12.0,149.0,2026-01-20,Wholesale
+2260,Namkeen 200g,Snacks,12.0,56.0,2026-01-22,Regular
+2261,Tea Powder 250g,Grocery,14.0,117.0,2026-05-16,Walk-in
+2262,Soap,Personal Care,14.0,40.0,2026-02-08,Wholesale
+2263,Chips,Snacks,10.0,24.0,2026-03-31,Regular
+2264,Biscuits,Snacks,12.0,32.0,2026-03-09,Wholesale
+2265,Sugar 1kg,Grocery,5.0,40.0,2026-06-17,Regular
+2266,Namkeen 200g,Snacks,13.0,57.0,2026-04-25,Wholesale
+2267,Dishwash Liquid,Household,4.0,91.0,2026-05-28,Walk-in
+2268,Biscuits,Snacks,3.0,27.0,2026-03-24,Regular
+2269,Soap,Personal Care,12.0,36.0,2026-03-23,Walk-in
+2270,Paneer 200g,Dairy,14.0,82.0,2026-06-04,Wholesale
+2271,Namkeen 200g,Snacks,8.0,57.0,2026-04-09,Walk-in
+2272,Dishwash Liquid,Household,18.0,98.0,2026-05-07,Wholesale
+2273,Toothpaste,Personal Care,3.0,91.0,2026-05-29,Wholesale
+2274,Paneer 200g,Dairy,19.0,83.0,2026-06-27,Wholesale
+2275,Toothpaste,Personal Care,8.0,86.0,2026-04-03,Regular
+2276,Shampoo,Personal Care,12.0,175.0,2026-05-23,Walk-in
+2277,Tea Powder 250g,Grocery,2.0,116.0,2026-03-31,Walk-in
+2278,Tea Powder 250g,Grocery,15.0,119.0,2026-02-06,Wholesale
+2279,Paneer 200g,Dairy,7.0,78.0,2026-02-27,Regular
+2280,Tea Powder 250g,Grocery,5.0,116.0,2026-04-07,Wholesale
+2281,Rice 5kg,Grocery,12.0,351.0,2026-01-14,Wholesale
+2282,Cooking Oil 1L,Grocery,19.0,155.0,2026-01-19,Walk-in
+2283,Soap,Personal Care,5.0,30.0,2026-04-04,Regular
+2284,Sugar 1kg,Grocery,3.0,43.0,2026-01-04,Wholesale
+2285,Paneer 200g,Dairy,6.0,77.0,2026-05-01,Wholesale
+2286,Tea Powder 250g,Grocery,10.0,123.0,2026-05-01,Walk-in
+2287,Namkeen 200g,Snacks,1.0,62.0,2026-03-15,Regular
+2288,Tea Powder 250g,Grocery,2.0,115.0,2026-06-04,Regular
+2289,Soap,Personal Care,13.0,30.0,2026-04-19,Wholesale
+2290,Detergent 1kg,Household,9.0,133.0,2026-05-27,Wholesale
+2291,Chips,Snacks,14.0,18.0,2026-02-10,Walk-in
+2292,Sugar 1kg,Grocery,13.0,48.0,2026-02-02,Wholesale
+2293,Shampoo,Personal Care,20.0,181.0,2026-01-15,Regular
+2294,Curd 500g,Dairy,18.0,37.0,2026-06-04,Regular
+2295,Detergent 1kg,Household,11.0,132.0,2026-06-17,Wholesale
+2296,Curd 500g,Dairy,6.0,41.0,2026-01-14,Walk-in
+2297,Paneer 200g,Dairy,9.0,78.0,2026-01-28,Regular
+2298,Sugar 1kg,Grocery,20.0,45.0,2026-03-27,Regular
+2299,Toothpaste,Personal Care,6.0,89.0,2026-05-19,Regular
+2300,Sugar 1kg,Grocery,20.0,43.0,2026-01-03,Walk-in
+2301,Shampoo,Personal Care,7.0,183.0,2026-06-13,Regular
+2302,Toothpaste,Personal Care,3.0,89.0,2026-05-26,Wholesale
+2303,Wheat Flour 5kg,Grocery,16.0,224.0,2026-01-12,Regular
+2304,Namkeen 200g,Snacks,10.0,56.0,2026-01-03,Walk-in
+2305,Chips,Snacks,17.0,21.0,2026-02-19,Walk-in
+2306,Curd 500g,Dairy,5.0,40.0,2026-06-29,Wholesale
+2307,Cooking Oil 1L,Grocery,14.0,150.0,2026-05-09,Regular
+2308,Tea Powder 250g,Grocery,19.0,115.0,2026-04-08,Walk-in
+2309,Wheat Flour 5kg,Grocery,6.0,219.0,2026-02-08,Wholesale
+2310,Detergent 1kg,Household,,126.0,2026-03-01,Regular
+2311,Tea Powder 250g,Grocery,17.0,117.0,2026-05-13,Wholesale
+2312,Namkeen 200g,Snacks,5.0,62.0,2026-03-28,Walk-in
+2313,Milk 1L,Dairy,14.0,59.0,2026-01-11,Wholesale
+2314,Curd 500g,Dairy,7.0,38.0,2026-06-06,Wholesale
+2315,Sugar 1kg,Grocery,19.0,42.0,2026-06-10,Walk-in
+2316,Cooking Oil 1L,Grocery,5.0,145.0,2026-03-21,Wholesale
+2317,Sugar 1kg,Grocery,4.0,47.0,2026-04-27,Walk-in
+2318,Soap,Personal Care,6.0,34.0,2026-01-18,Walk-in
+2319,Milk 1L,Dairy,3.0,55.0,2026-01-19,Regular
+2320,Detergent 1kg,Household,16.0,129.0,2026-03-07,Walk-in
+2321,Tea Powder 250g,Grocery,19.0,116.0,2026-05-05,Regular
+2322,Milk 1L,Dairy,13.0,54.0,2026-04-15,Wholesale
+2323,Tea Powder 250g,Grocery,,122.0,2026-05-12,Wholesale
+2324,Namkeen 200g,Snacks,3.0,60.0,2026-06-24,Walk-in
+2325,Detergent 1kg,Household,2.0,129.0,2026-06-08,Wholesale
+2326,Wheat Flour 5kg,Grocery,18.0,218.0,2026-01-03,Regular
+2327,Cooking Oil 1L,Grocery,13.0,149.0,2026-02-10,Wholesale
+2328,Curd 500g,Dairy,8.0,36.0,2026-04-10,Walk-in
+2329,Sugar 1kg,Grocery,15.0,45.0,2026-04-30,Wholesale
+2330,Detergent 1kg,Household,3.0,126.0,2026-02-16,Wholesale
+2331,Cooking Oil 1L,Grocery,14.0,151.0,2026-02-21,Walk-in
+2332,Namkeen 200g,Snacks,11.0,56.0,2026-03-29,Wholesale
+2333,Dishwash Liquid,Household,16.0,93.0,2026-01-30,Walk-in
+2334,Detergent 1kg,Household,18.0,125.0,2026-02-09,Walk-in
+2335,Tea Powder 250g,Grocery,7.0,,2026-03-23,Wholesale
+2336,Wheat Flour 5kg,Grocery,13.0,224.0,2026-01-16,Walk-in
+2337,Paneer 200g,Dairy,7.0,,2026-01-14,Regular
+2338,Rice 5kg,Grocery,14.0,355.0,2026-03-11,Walk-in
+2339,Soap,Personal Care,5.0,31.0,2026-01-18,Walk-in
+2340,Curd 500g,Dairy,10.0,36.0,2026-04-26,Walk-in
+2341,Shampoo,Personal Care,9.0,185.0,2026-02-17,Regular
+2342,Sugar 1kg,Grocery,,46.0,2026-03-18,Regular
+2343,Shampoo,Personal Care,14.0,180.0,2026-05-04,Walk-in
+2344,Soap,Personal Care,12.0,36.0,2026-06-27,Wholesale
+2345,Curd 500g,Dairy,18.0,35.0,2026-06-02,Regular
+2346,Sugar 1kg,Grocery,19.0,50.0,2026-06-07,Regular
+2347,Namkeen 200g,Snacks,11.0,65.0,2026-01-04,Regular
+2348,Detergent 1kg,Household,16.0,127.0,2026-03-23,Regular
+2349,Paneer 200g,Dairy,17.0,79.0,2026-01-01,Walk-in
+2350,Tea Powder 250g,Grocery,15.0,125.0,2026-06-13,Wholesale
+2351,Cooking Oil 1L,Grocery,7.0,145.0,2026-02-18,Walk-in
+2352,Soap,Personal Care,13.0,39.0,2026-02-25,Walk-in
+2353,Shampoo,Personal Care,19.0,178.0,2026-01-04,Walk-in
+2354,Milk 1L,Dairy,10.0,50.0,2026-03-20,Wholesale
+2355,Cooking Oil 1L,Grocery,15.0,152.0,2026-04-16,Walk-in
+2356,Milk 1L,Dairy,18.0,55.0,2026-04-20,Wholesale
+2357,Namkeen 200g,Snacks,6.0,56.0,2026-04-28,Walk-in
+2358,Milk 1L,Dairy,18.0,52.0,2026-06-02,Regular
+2359,Paneer 200g,Dairy,10.0,,2026-06-18,Wholesale
+2360,Paneer 200g,Dairy,10.0,85.0,2026-06-29,Wholesale
+2361,Cooking Oil 1L,Grocery,4.0,146.0,2026-01-23,Wholesale
+2362,Rice 5kg,Grocery,14.0,354.0,2026-01-27,Walk-in
+2363,Cooking Oil 1L,Grocery,15.0,155.0,2026-05-09,Wholesale
+2364,Wheat Flour 5kg,Grocery,10.0,225.0,2026-04-18,Regular
+2365,Toothpaste,Personal Care,18.0,92.0,2026-04-08,Regular
+2366,Shampoo,Personal Care,4.0,182.0,2026-03-31,Walk-in
+2367,Paneer 200g,Dairy,13.0,85.0,2026-01-02,Walk-in
+2368,Toothpaste,Personal Care,10.0,93.0,2026-03-10,Wholesale
+2369,Biscuits,Snacks,14.0,29.0,2026-06-22,Regular
+2370,Rice 5kg,Grocery,2.0,351.0,2026-01-04,Regular
+2371,Tea Powder 250g,Grocery,17.0,120.0,2026-06-03,Walk-in
+2372,Namkeen 200g,Snacks,,57.0,2026-04-21,Regular
+2373,Curd 500g,Dairy,20.0,38.0,2026-06-14,Walk-in
+2374,Wheat Flour 5kg,Grocery,14.0,224.0,2026-02-02,Wholesale
+2375,Curd 500g,Dairy,13.0,37.0,2026-03-23,Wholesale
+2376,Soap,Personal Care,8.0,36.0,2026-01-26,Wholesale
+2377,Tea Powder 250g,Grocery,4.0,123.0,2026-06-11,Wholesale
+2378,Curd 500g,Dairy,9.0,45.0,2026-05-22,Regular
+2379,Namkeen 200g,Snacks,3.0,58.0,2026-01-24,Regular
+2380,PANEER 200G  ,Dairy,19.0,75.0,2026-02-09,Regular
+2381,Sugar 1kg,Grocery,13.0,49.0,2026-01-07,Wholesale
+2382,Tea Powder 250g,Grocery,12.0,122.0,2026-02-17,Regular
+2383,Toothpaste,Personal Care,7.0,89.0,2026-05-18,Regular
+2384,Curd 500g,Dairy,2.0,39.0,2026-03-12,Regular
+2385,Tea Powder 250g,Grocery,1.0,125.0,2026-06-13,Wholesale
+2386,Cooking Oil 1L,Grocery,15.0,146.0,2026-06-02,Regular
+2387,Cooking Oil 1L,Grocery,10.0,147.0,2026-03-09,Regular
+2388,Sugar 1kg,Grocery,16.0,41.0,2026-04-03,Regular
+2389,Curd 500g,Dairy,16.0,36.0,2026-01-06,Walk-in
+2390,Sugar 1kg,Grocery,3.0,47.0,2026-02-23,Wholesale
+2391,Paneer 200g,Dairy,11.0,81.0,2026-06-12,Walk-in
+2392,Soap,Personal Care,10.0,,2026-01-03,Regular
+2393,Wheat Flour 5kg,Grocery,11.0,216.0,2026-03-30,Walk-in
+2394,Rice 5kg,Grocery,17.0,347.0,2026-03-07,Regular
+2395,Shampoo,Personal Care,1.0,184.0,2026-05-18,Regular
+2396,Tea Powder 250g,Grocery,12.0,118.0,2026-01-30,Regular
+2397,Rice 5kg,Grocery,5.0,350.0,2026-02-26,Regular
+2398,Tea Powder 250g,Grocery,,119.0,2026-05-04,Regular
+2399,Sugar 1kg,Grocery,18.0,45.0,2026-06-16,Walk-in
+2400,Detergent 1kg,Household,14.0,132.0,2026-05-12,Walk-in
+2401,Shampoo,Personal Care,6.0,179.0,2026-02-20,Wholesale
+2402,Biscuits,Snacks,4.0,31.0,2026-05-30,Wholesale
+2403,Chips,Snacks,7.0,17.0,2026-05-05,Walk-in
+2404,Detergent 1kg,Household,20.0,131.0,2026-03-11,Walk-in
+2405,Cooking Oil 1L,Grocery,13.0,154.0,2026-04-20,Regular
+2406,Milk 1L,Dairy,3.0,55.0,2026-04-26,Regular
+2407,Wheat Flour 5kg,Grocery,,223.0,2026-05-31,Walk-in
+2408,Chips,Snacks,17.0,24.0,2026-04-01,Walk-in
+2409,Rice 5kg,Grocery,6.0,346.0,2026-03-24,Walk-in
+2410,Soap,Personal Care,8.0,35.0,2026-01-19,Regular
+2411,Milk 1L,Dairy,5.0,55.0,2026-03-22,Regular
+2412,Rice 5kg,Grocery,1.0,350.0,2026-03-26,Regular
+2413,Detergent 1kg,Household,11.0,134.0,2026-03-01,Wholesale
+2414,Sugar 1kg,Grocery,10.0,46.0,2026-06-04,Regular
+2415,Shampoo,Personal Care,18.0,176.0,2026-03-13,Wholesale
+2416,Sugar 1kg,Grocery,14.0,49.0,2026-06-24,Walk-in
+2417,Namkeen 200g,Snacks,7.0,60.0,2026-02-20,Regular
+2418,Dishwash Liquid,Household,2.0,97.0,2026-03-12,Walk-in
+2419,Cooking Oil 1L,Grocery,15.0,146.0,2026-02-13,Wholesale
+2420,Namkeen 200g,Snacks,13.0,64.0,2026-03-02,Wholesale
+2421,Rice 5kg,Grocery,1.0,349.0,2026-06-14,Wholesale
+2422,Rice 5kg,Grocery,10.0,352.0,2026-02-03,Walk-in
+2423,Wheat Flour 5kg,Grocery,17.0,223.0,2026-01-11,Walk-in
+2424,Rice 5kg,Grocery,16.0,346.0,2026-01-25,Walk-in
+2425,Chips,Snacks,11.0,19.0,2026-03-30,Walk-in
+2426,Sugar 1kg,Grocery,11.0,48.0,2026-05-07,Wholesale
+2427,Wheat Flour 5kg,Grocery,10.0,221.0,2026-06-28,Walk-in
+2428,Dishwash Liquid,Household,4.0,100.0,2026-04-06,Wholesale
+2429,Cooking Oil 1L,Grocery,8.0,145.0,2026-01-13,Regular
+2430,Tea Powder 250g,Grocery,11.0,116.0,2026-06-26,Wholesale
+2431,Paneer 200g,Dairy,6.0,78.0,2026-01-23,Regular
+2432,Milk 1L,Dairy,1.0,58.0,2026-06-26,Regular
+2433,Biscuits,Snacks,4.0,25.0,2026-01-13,Walk-in
+2434,Sugar 1kg,Grocery,11.0,44.0,2026-06-26,Wholesale
+2435,Curd 500g,Dairy,6.0,39.0,2026-02-05,Wholesale
+2436,Detergent 1kg,Household,5.0,126.0,2026-03-23,Regular
+2437,Paneer 200g,Dairy,15.0,85.0,2026-06-21,Regular
+2438,Toothpaste,Personal Care,16.0,94.0,2026-06-19,Walk-in
+2439,Biscuits,Snacks,16.0,30.0,2026-02-27,Regular
+2440,Biscuits,Snacks,3.0,29.0,2026-04-01,Wholesale
+2441,Toothpaste,Personal Care,7.0,95.0,2026-06-27,Regular
+2442,Sugar 1kg,Grocery,2.0,47.0,2026-02-24,Regular
+2443,Shampoo,Personal Care,13.0,182.0,2026-02-18,Walk-in
+2444,Cooking Oil 1L,Grocery,7.0,150.0,2026-06-01,Wholesale
+2445,Namkeen 200g,Snacks,15.0,59.0,2026-06-17,Regular
+2446,Cooking Oil 1L,Grocery,8.0,147.0,2026-04-04,Walk-in
+2447,Detergent 1kg,Household,17.0,134.0,2026-02-21,Walk-in
+2448,Shampoo,Personal Care,9.0,176.0,2026-04-19,Regular
+2449,Chips,Snacks,4.0,24.0,2026-02-07,Walk-in
+2450,Cooking Oil 1L,Grocery,8.0,146.0,2026-01-05,Walk-in
+2451,Soap,Personal Care,1.0,34.0,2026-05-02,Wholesale
+2452,Detergent 1kg,Household,9.0,130.0,2026-01-31,Wholesale
+2453,Sugar 1kg,Grocery,14.0,45.0,2026-02-24,Regular
+2454,Curd 500g,Dairy,14.0,43.0,2026-05-11,Walk-in
+2455,Wheat Flour 5kg,Grocery,9.0,222.0,2026-04-05,Regular
+2456,Wheat Flour 5kg,Grocery,13.0,225.0,2026-04-19,Regular
+2457,Chips,Snacks,13.0,18.0,2026-02-15,Wholesale
+2458,Biscuits,Snacks,20.0,33.0,2026-05-07,Wholesale
+2459,Paneer 200g,Dairy,2.0,76.0,2026-06-15,Regular
+2460,Cooking Oil 1L,Grocery,4.0,148.0,2026-01-14,Regular
+2461,Biscuits,Snacks,3.0,28.0,2026-05-17,Regular
+2462,Biscuits,Snacks,20.0,28.0,2026-06-29,Wholesale
+2463,Curd 500g,Dairy,13.0,41.0,2026-01-26,Regular
+2464,Biscuits,Snacks,7.0,32.0,2026-02-13,Regular
+2465,Milk 1L,Dairy,10.0,60.0,2026-06-30,Wholesale
+2466,Chips,Snacks,4.0,15.0,2026-02-17,Wholesale
+2467,Dishwash Liquid,Household,8.0,94.0,2026-02-13,Walk-in
+2468,Sugar 1kg,Grocery,6.0,42.0,2026-03-27,Walk-in
+2469,Tea Powder 250g,Grocery,16.0,115.0,2026-04-20,Walk-in
+2470,Rice 5kg,Grocery,9.0,347.0,2026-01-20,Regular
+2471,Rice 5kg,Grocery,12.0,354.0,2026-05-02,Wholesale
+2472,Rice 5kg,Grocery,8.0,352.0,2026-05-01,Regular
+2473,Wheat Flour 5kg,Grocery,19.0,215.0,2026-06-24,Walk-in
+2474,Toothpaste,Personal Care,17.0,93.0,2026-02-12,Regular
+2475,Cooking Oil 1L,Grocery,10.0,146.0,2026-03-27,Walk-in
+2476,Dishwash Liquid,Household,18.0,95.0,2026-03-07,Wholesale
+2477,Dishwash Liquid,Household,12.0,94.0,2026-04-28,Regular
+2478,Milk 1L,Dairy,11.0,54.0,2026-05-13,Wholesale
+2479,Dishwash Liquid,Household,9.0,91.0,2026-06-25,Wholesale
+2480,Rice 5kg,Grocery,14.0,347.0,2026-02-26,Wholesale
+2481,Tea Powder 250g,Grocery,16.0,120.0,2026-01-08,Regular
+2482,Paneer 200g,Dairy,7.0,,2026-01-23,Regular
+2483,Curd 500g,Dairy,4.0,45.0,2026-03-12,Wholesale
+2484,Detergent 1kg,Household,6.0,133.0,2026-03-09,Wholesale
+2485,Milk 1L,Dairy,13.0,55.0,2026-05-31,Walk-in
+2486,Biscuits,Snacks,7.0,29.0,2026-01-11,Wholesale
+2487,Namkeen 200g,Snacks,4.0,,2026-04-21,Walk-in
+2488,Milk 1L,Dairy,4.0,54.0,2026-01-03,Walk-in
+2489,Tea Powder 250g,Grocery,5.0,122.0,2026-05-14,Walk-in
+2490,Soap,Personal Care,16.0,34.0,2026-03-15,Regular
+2491,Chips,Snacks,15.0,15.0,2026-01-11,Regular
+2492,Chips,Snacks,4.0,24.0,2026-01-14,Walk-in
+2493,Chips,Snacks,14.0,15.0,2026-04-01,Wholesale
+2494,RICE 5KG  ,Grocery,9.0,345.0,2026-02-05,Walk-in
+2495,Chips,Snacks,18.0,23.0,2026-02-09,Regular
+2496,Biscuits,Snacks,7.0,27.0,2026-04-21,Wholesale
+2497,Sugar 1kg,Grocery,8.0,44.0,2026-01-09,Walk-in
+2498,Milk 1L,Dairy,13.0,53.0,2026-04-19,Walk-in
+2499,Cooking Oil 1L,Grocery,10.0,,2026-06-02,Walk-in
+2500,Soap,Personal Care,,39.0,2026-06-23,Walk-in
+2501,Tea Powder 250g,Grocery,7.0,125.0,2026-03-06,Regular
+2502,Paneer 200g,Dairy,7.0,83.0,2026-03-19,Walk-in
+2503,Sugar 1kg,Grocery,19.0,44.0,2026-06-10,Walk-in
+2504,Soap,Personal Care,14.0,36.0,2026-01-25,Regular
+2505,Detergent 1kg,Household,17.0,130.0,2026-06-25,Wholesale
+2506,Milk 1L,Dairy,12.0,57.0,2026-04-20,Walk-in
+2507,Paneer 200g,Dairy,15.0,81.0,2026-01-08,Wholesale
+2508,Rice 5kg,Grocery,3.0,351.0,2026-02-05,Wholesale
+2509,Chips,Snacks,19.0,18.0,2026-05-12,Walk-in
+2510,Tea Powder 250g,Grocery,18.0,124.0,2026-05-25,Walk-in
+2511,Wheat Flour 5kg,Grocery,5.0,221.0,2026-04-14,Wholesale
+2512,Rice 5kg,Grocery,17.0,352.0,2026-04-28,Regular
+2513,Sugar 1kg,Grocery,9.0,40.0,2026-06-16,Regular
+2514,Namkeen 200g,Snacks,4.0,64.0,2026-03-16,Wholesale
+2515,Dishwash Liquid,Household,2.0,,2026-02-01,Wholesale
+2516,Wheat Flour 5kg,Grocery,17.0,218.0,2026-02-06,Wholesale
+2517,Dishwash Liquid,Household,8.0,92.0,2026-06-22,Wholesale
+2518,Tea Powder 250g,Grocery,10.0,119.0,2026-01-02,Walk-in
+2519,Shampoo,Personal Care,3.0,176.0,2026-01-01,Regular
+2520,Cooking Oil 1L,Grocery,4.0,153.0,2026-03-05,Regular
+2521,Cooking Oil 1L,Grocery,1.0,152.0,2026-05-10,Walk-in
+2522,Curd 500g,Dairy,4.0,35.0,2026-03-18,Walk-in
+2523,Dishwash Liquid,Household,8.0,92.0,2026-05-20,Walk-in
+2524,Detergent 1kg,Household,20.0,135.0,2026-02-01,Walk-in
+2525,Tea Powder 250g,Grocery,1.0,125.0,2026-02-17,Regular
+2526,Toothpaste,Personal Care,17.0,87.0,2026-06-29,Wholesale
+2527,Shampoo,Personal Care,16.0,182.0,2026-03-16,Walk-in
+2528,Cooking Oil 1L,Grocery,16.0,154.0,2026-04-05,Wholesale
+2529,Biscuits,Snacks,,31.0,2026-06-28,Regular
+2530,Detergent 1kg,Household,14.0,131.0,2026-02-07,Regular
+2531,Chips,Snacks,4.0,,2026-05-25,Walk-in
+2532,Rice 5kg,Grocery,10.0,354.0,2026-01-09,Wholesale
+2533,Detergent 1kg,Household,12.0,125.0,2026-02-05,Walk-in
+2534,Detergent 1kg,Household,1.0,129.0,2026-02-10,Walk-in
+2535,Shampoo,Personal Care,17.0,180.0,2026-04-10,Wholesale
+2536,Sugar 1kg,Grocery,5.0,42.0,2026-04-01,Wholesale
+2537,Namkeen 200g,Snacks,5.0,62.0,2026-03-13,Wholesale
+2538,Chips,Snacks,3.0,21.0,2026-06-15,Walk-in
+2539,Curd 500g,Dairy,20.0,,2026-06-18,Regular
+2540,Biscuits,Snacks,11.0,27.0,2026-05-31,Wholesale
+2541,Milk 1L,Dairy,20.0,59.0,2026-04-14,Regular
+2542,Wheat Flour 5kg,Grocery,6.0,215.0,2026-03-01,Regular
+2543,Cooking Oil 1L,Grocery,16.0,152.0,2026-03-24,Regular
+2544,Toothpaste,Personal Care,6.0,86.0,2026-04-09,Walk-in
+2545,Sugar 1kg,Grocery,20.0,40.0,2026-03-06,Regular
+2546,Wheat Flour 5kg,Grocery,15.0,216.0,2026-04-06,Wholesale
+2547,Rice 5kg,Grocery,11.0,347.0,2026-01-28,Wholesale
+2548,Detergent 1kg,Household,5.0,131.0,2026-06-13,Wholesale
+2549,Shampoo,Personal Care,,178.0,2026-05-06,Walk-in
+2550,Chips,Snacks,7.0,18.0,2026-02-11,Walk-in
+2551,Shampoo,Personal Care,19.0,176.0,2026-01-07,Wholesale
+2552,Cooking Oil 1L,Grocery,2.0,148.0,2026-02-05,Regular
+2553,Milk 1L,Dairy,19.0,56.0,2026-05-20,Regular
+2554,Namkeen 200g,Snacks,17.0,57.0,2026-05-08,Regular
+2555,Shampoo,Personal Care,16.0,184.0,2026-05-09,Walk-in
+2556,Milk 1L,Dairy,18.0,59.0,2026-02-05,Regular
+2557,Detergent 1kg,Household,13.0,131.0,2026-01-19,Wholesale
+2558,Sugar 1kg,Grocery,17.0,42.0,2026-03-18,Regular
+2559,Cooking Oil 1L,Grocery,8.0,152.0,2026-01-14,Wholesale
+2560,Namkeen 200g,Snacks,8.0,55.0,2026-03-16,Walk-in
+2561,Curd 500g,Dairy,3.0,40.0,2026-02-10,Walk-in
+2562,Sugar 1kg,Grocery,19.0,48.0,2026-03-03,Wholesale
+2563,Chips,Snacks,20.0,21.0,2026-01-15,Wholesale
+2564,Cooking Oil 1L,Grocery,16.0,154.0,2026-03-09,Wholesale
+2565,Rice 5kg,Grocery,11.0,345.0,2026-04-18,Walk-in
+2566,Shampoo,Personal Care,2.0,180.0,2026-02-05,Regular
+2567,Namkeen 200g,Snacks,2.0,65.0,2026-03-02,Walk-in
+2568,Sugar 1kg,Grocery,20.0,49.0,2026-06-29,Regular
+2569,Milk 1L,Dairy,14.0,51.0,2026-06-03,Wholesale
+2570,Sugar 1kg,Grocery,16.0,48.0,2026-02-03,Walk-in
+2571,Wheat Flour 5kg,Grocery,2.0,216.0,2026-05-08,Wholesale
+2572,Toothpaste,Personal Care,12.0,95.0,2026-04-21,Walk-in
+2573,Chips,Snacks,1.0,18.0,2026-01-15,Regular
+2574,Shampoo,Personal Care,20.0,183.0,2026-04-08,Wholesale
+2575,Rice 5kg,Grocery,16.0,353.0,2026-01-14,Walk-in
+2576,Curd 500g,Dairy,14.0,37.0,2026-06-29,Walk-in
+2577,Tea Powder 250g,Grocery,15.0,116.0,2026-01-31,Wholesale
+2578,Milk 1L,Dairy,7.0,55.0,2026-03-29,Walk-in
+2579,Wheat Flour 5kg,Grocery,8.0,218.0,2026-01-24,Wholesale
+2580,Rice 5kg,Grocery,14.0,348.0,2026-05-18,Wholesale
+2581,Wheat Flour 5kg,Grocery,8.0,215.0,2026-01-15,Regular
+2582,Wheat Flour 5kg,Grocery,15.0,217.0,2026-02-16,Walk-in
+2583,Wheat Flour 5kg,Grocery,12.0,220.0,2026-06-04,Wholesale
+2584,Toothpaste,Personal Care,5.0,89.0,2026-06-05,Walk-in
+2585,Dishwash Liquid,Household,4.0,100.0,2026-06-18,Regular
+2586,Sugar 1kg,Grocery,18.0,44.0,2026-02-22,Walk-in
+2587,Milk 1L,Dairy,15.0,53.0,2026-03-19,Walk-in
+2588,Chips,Snacks,8.0,25.0,2026-05-15,Walk-in
+2589,Namkeen 200g,Snacks,17.0,63.0,2026-01-27,Regular
+2590,Milk 1L,Dairy,20.0,56.0,2026-05-05,Walk-in
+2591,Sugar 1kg,Grocery,5.0,43.0,2026-05-14,Regular
+2592,Chips,Snacks,7.0,23.0,2026-02-01,Walk-in
+2593,Tea Powder 250g,Grocery,8.0,115.0,2026-06-28,Walk-in
+2594,Detergent 1kg,Household,1.0,126.0,2026-05-08,Regular
+2595,Biscuits,Snacks,19.0,29.0,2026-04-09,Walk-in
+2596,Sugar 1kg,Grocery,9.0,40.0,2026-06-06,Walk-in
+2597,Dishwash Liquid,Household,13.0,90.0,2026-04-09,Walk-in
+2598,Wheat Flour 5kg,Grocery,7.0,218.0,2026-04-08,Regular
+2599,PANEER 200G  ,Dairy,2.0,83.0,2026-06-19,Walk-in
+2600,Wheat Flour 5kg,Grocery,,223.0,2026-01-07,Wholesale
+2601,Namkeen 200g,Snacks,19.0,59.0,2026-02-25,Regular
+2602,Namkeen 200g,Snacks,14.0,64.0,2026-04-20,Wholesale
+2603,Wheat Flour 5kg,Grocery,18.0,216.0,2026-04-10,Wholesale
+2604,Chips,Snacks,15.0,23.0,2026-04-19,Wholesale
+2605,Biscuits,Snacks,13.0,27.0,2026-04-30,Wholesale
+2606,Toothpaste,Personal Care,1.0,87.0,2026-03-13,Wholesale
+2607,Biscuits,Snacks,8.0,26.0,2026-05-19,Walk-in
+2608,Namkeen 200g,Snacks,13.0,64.0,2026-01-10,Wholesale
+2609,Biscuits,Snacks,9.0,30.0,2026-06-18,Walk-in
+2610,Rice 5kg,Grocery,10.0,346.0,2026-05-26,Wholesale
+2611,Namkeen 200g,Snacks,6.0,59.0,2026-04-24,Walk-in
+2612,Rice 5kg,Grocery,1.0,352.0,2026-04-30,Regular
+2613,Milk 1L,Dairy,18.0,57.0,2026-02-25,Walk-in
+2614,Wheat Flour 5kg,Grocery,3.0,224.0,2026-03-12,Wholesale
+2615,Namkeen 200g,Snacks,15.0,56.0,2026-02-16,Walk-in
+2616,Biscuits,Snacks,16.0,29.0,2026-02-02,Regular
+2617,Soap,Personal Care,20.0,32.0,2026-06-17,Regular
+2618,Toothpaste,Personal Care,2.0,86.0,2026-02-17,Wholesale
+2619,Detergent 1kg,Household,11.0,134.0,2026-01-11,Wholesale
+2620,Toothpaste,Personal Care,9.0,85.0,2026-03-07,Regular
+2621,Milk 1L,Dairy,2.0,58.0,2026-06-03,Regular
+2622,Milk 1L,Dairy,3.0,51.0,2026-05-10,Walk-in
+2623,Cooking Oil 1L,Grocery,3.0,153.0,2026-03-02,Regular
+2624,Namkeen 200g,Snacks,12.0,64.0,2026-06-24,Walk-in
+2625,Sugar 1kg,Grocery,14.0,50.0,2026-03-14,Regular
+2626,Rice 5kg,Grocery,20.0,,2026-04-03,Walk-in
+2627,Paneer 200g,Dairy,12.0,85.0,2026-05-01,Walk-in
+2628,Rice 5kg,Grocery,12.0,347.0,2026-01-12,Walk-in
+2629,Tea Powder 250g,Grocery,1.0,124.0,2026-01-28,Wholesale
+2630,Shampoo,Personal Care,17.0,180.0,2026-05-11,Wholesale
+2631,Milk 1L,Dairy,13.0,53.0,2026-05-30,Regular
+2632,Tea Powder 250g,Grocery,3.0,121.0,2026-01-20,Regular
+2633,Paneer 200g,Dairy,4.0,83.0,2026-05-16,Regular
+2634,Dishwash Liquid,Household,,100.0,2026-05-14,Walk-in
+2635,Namkeen 200g,Snacks,7.0,59.0,2026-05-28,Walk-in
+2636,Toothpaste,Personal Care,8.0,90.0,2026-04-03,Regular
+2637,Detergent 1kg,Household,4.0,130.0,2026-06-27,Regular
+2638,Detergent 1kg,Household,12.0,131.0,2026-01-21,Walk-in
+2639,Sugar 1kg,Grocery,16.0,45.0,2026-06-04,Regular
+2640,Detergent 1kg,Household,8.0,131.0,2026-05-26,Regular
+2641,Toothpaste,Personal Care,19.0,91.0,2026-06-20,Regular
+2642,Biscuits,Snacks,11.0,29.0,2026-03-22,Regular
+2643,Sugar 1kg,Grocery,14.0,46.0,2026-05-10,Regular
+2644,Dishwash Liquid,Household,7.0,100.0,2026-02-16,Walk-in
+2645,Rice 5kg,Grocery,4.0,,2026-04-18,Walk-in
+2646,Dishwash Liquid,Household,5.0,91.0,2026-01-09,Walk-in
+2647,Rice 5kg,Grocery,3.0,347.0,2026-02-03,Wholesale
+2648,Curd 500g,Dairy,12.0,41.0,2026-02-02,Walk-in
+2649,Toothpaste,Personal Care,4.0,89.0,2026-03-28,Walk-in
+2650,Cooking Oil 1L,Grocery,3.0,145.0,2026-04-01,Walk-in
+2651,Paneer 200g,Dairy,15.0,85.0,2026-04-22,Walk-in
+2652,Dishwash Liquid,Household,6.0,92.0,2026-05-31,Wholesale
+2653,Sugar 1kg,Grocery,1.0,42.0,2026-06-01,Wholesale
+2654,Milk 1L,Dairy,15.0,60.0,2026-04-08,Walk-in
+2655,Detergent 1kg,Household,17.0,127.0,2026-05-31,Walk-in
+2656,Cooking Oil 1L,Grocery,10.0,148.0,2026-05-07,Walk-in
+2657,Wheat Flour 5kg,Grocery,17.0,224.0,2026-05-15,Wholesale
+2658,Paneer 200g,Dairy,11.0,79.0,2026-04-09,Walk-in
+2659,Soap,Personal Care,2.0,32.0,2026-02-23,Walk-in
+2660,Biscuits,Snacks,20.0,34.0,2026-03-22,Regular
+2661,Milk 1L,Dairy,6.0,54.0,2026-01-31,Walk-in
+2662,Biscuits,Snacks,15.0,32.0,2026-02-27,Regular
+2663,Chips,Snacks,20.0,19.0,2026-01-28,Regular
+2664,Biscuits,Snacks,4.0,27.0,2026-02-22,Wholesale
+2665,Soap,Personal Care,20.0,30.0,2026-01-11,Wholesale
+2666,Shampoo,Personal Care,16.0,175.0,2026-01-07,Walk-in
+2667,Shampoo,Personal Care,19.0,179.0,2026-04-20,Wholesale
+2668,Detergent 1kg,Household,,133.0,2026-04-27,Walk-in
+2669,Cooking Oil 1L,Grocery,15.0,146.0,2026-04-21,Walk-in
+2670,Biscuits,Snacks,5.0,26.0,2026-03-13,Wholesale
+2671,Cooking Oil 1L,Grocery,3.0,150.0,2026-02-26,Wholesale
+2672,Sugar 1kg,Grocery,6.0,45.0,2026-05-10,Walk-in
+2673,Biscuits,Snacks,17.0,32.0,2026-06-22,Regular
+2674,Namkeen 200g,Snacks,14.0,,2026-01-26,Wholesale
+2675,Namkeen 200g,Snacks,18.0,58.0,2026-06-19,Wholesale
+2676,WHEAT FLOUR 5KG  ,Grocery,1.0,225.0,2026-03-04,Regular
+2677,Curd 500g,Dairy,7.0,38.0,2026-03-09,Walk-in
+2678,Tea Powder 250g,Grocery,6.0,122.0,2026-05-08,Walk-in
+2679,Tea Powder 250g,Grocery,3.0,118.0,2026-05-13,Wholesale
+2680,Shampoo,Personal Care,14.0,175.0,2026-01-18,Walk-in
+2681,Shampoo,Personal Care,2.0,177.0,2026-04-18,Wholesale
+2682,Biscuits,Snacks,13.0,34.0,2026-06-11,Wholesale
+2683,Toothpaste,Personal Care,12.0,95.0,2026-05-04,Wholesale
+2684,Soap,Personal Care,8.0,34.0,2026-03-16,Wholesale
+2685,Dishwash Liquid,Household,13.0,,2026-06-03,Walk-in
+2686,Dishwash Liquid,Household,4.0,94.0,2026-02-26,Regular
+2687,Chips,Snacks,15.0,21.0,2026-03-25,Regular
+2688,Paneer 200g,Dairy,6.0,76.0,2026-04-29,Walk-in
+2689,Cooking Oil 1L,Grocery,13.0,150.0,2026-06-30,Regular
+2690,Dishwash Liquid,Household,20.0,97.0,2026-04-16,Wholesale
+2691,Toothpaste,Personal Care,10.0,85.0,2026-03-10,Wholesale
+2692,Shampoo,Personal Care,2.0,181.0,2026-05-24,Walk-in
+2693,Biscuits,Snacks,11.0,35.0,2026-04-16,Walk-in
+2694,Detergent 1kg,Household,13.0,131.0,2026-03-08,Regular
+2695,Biscuits,Snacks,8.0,32.0,2026-03-28,Wholesale
+2696,Wheat Flour 5kg,Grocery,15.0,219.0,2026-04-15,Regular
+2697,Soap,Personal Care,7.0,38.0,2026-06-10,Regular
+2698,Namkeen 200g,Snacks,20.0,57.0,2026-05-19,Regular
+2699,Rice 5kg,Grocery,3.0,351.0,2026-06-30,Walk-in
+2700,Milk 1L,Dairy,3.0,58.0,2026-06-17,Regular
+2701,Shampoo,Personal Care,18.0,180.0,2026-02-20,Regular
+2702,Curd 500g,Dairy,10.0,38.0,2026-02-11,Walk-in
+2703,Namkeen 200g,Snacks,7.0,61.0,2026-05-22,Wholesale
+2704,Toothpaste,Personal Care,2.0,85.0,2026-01-06,Wholesale
+2705,Cooking Oil 1L,Grocery,13.0,153.0,2026-05-05,Regular
+2706,Soap,Personal Care,10.0,34.0,2026-01-07,Regular
+2707,TOOTHPASTE  ,Personal Care,9.0,85.0,2026-02-01,Walk-in
+2708,CURD 500G  ,Dairy,9.0,37.0,2026-01-22,Regular
+2709,Sugar 1kg,Grocery,14.0,48.0,2026-01-06,Regular
+2710,Tea Powder 250g,Grocery,19.0,116.0,2026-04-11,Regular
+2711,Chips,Snacks,14.0,20.0,2026-05-12,Wholesale
+2712,Rice 5kg,Grocery,9.0,349.0,2026-04-28,Regular
+2713,Cooking Oil 1L,Grocery,19.0,149.0,2026-05-01,Walk-in
+2714,Chips,Snacks,3.0,21.0,2026-02-26,Walk-in
+2715,Biscuits,Snacks,10.0,32.0,2026-06-29,Wholesale
+2716,Toothpaste,Personal Care,1.0,91.0,2026-05-08,Wholesale
+2717,Curd 500g,Dairy,18.0,40.0,2026-01-28,Walk-in
+2718,Toothpaste,Personal Care,1.0,94.0,2026-04-12,Regular
+2719,Detergent 1kg,Household,16.0,130.0,2026-05-25,Regular
+2720,Chips,Snacks,5.0,20.0,2026-06-11,Regular
+2721,Cooking Oil 1L,Grocery,6.0,153.0,2026-02-23,Walk-in
+2722,Toothpaste,Personal Care,5.0,86.0,2026-04-14,Wholesale
+2723,Dishwash Liquid,Household,19.0,98.0,2026-03-01,Regular
+2724,Dishwash Liquid,Household,14.0,94.0,2026-03-21,Wholesale
+2725,Namkeen 200g,Snacks,2.0,57.0,2026-03-24,Wholesale
+2726,Paneer 200g,Dairy,9.0,75.0,2026-06-26,Regular
+2727,Dishwash Liquid,Household,16.0,98.0,2026-03-22,Wholesale
+2728,Toothpaste,Personal Care,15.0,90.0,2026-05-04,Wholesale
+2729,Sugar 1kg,Grocery,14.0,41.0,2026-06-29,Regular
+2730,Curd 500g,Dairy,1.0,37.0,2026-02-11,Wholesale
+2731,Cooking Oil 1L,Grocery,7.0,147.0,2026-04-23,Regular
+2732,Wheat Flour 5kg,Grocery,16.0,221.0,2026-02-13,Wholesale
+2733,Dishwash Liquid,Household,18.0,92.0,2026-04-18,Walk-in
+2734,Rice 5kg,Grocery,4.0,349.0,2026-04-22,Walk-in
+2735,Biscuits,Snacks,11.0,33.0,2026-06-07,Walk-in
+2736,Soap,Personal Care,10.0,32.0,2026-05-14,Wholesale
+2737,Shampoo,Personal Care,12.0,,2026-05-13,Wholesale
+2738,Biscuits,Snacks,15.0,32.0,2026-02-23,Walk-in
+2739,Tea Powder 250g,Grocery,17.0,117.0,2026-05-02,Regular
+2740,Namkeen 200g,Snacks,,61.0,2026-02-08,Walk-in
+2741,Sugar 1kg,Grocery,10.0,40.0,2026-06-29,Regular
+2742,Shampoo,Personal Care,18.0,176.0,2026-04-28,Walk-in
+2743,COOKING OIL 1L  ,Grocery,20.0,145.0,2026-04-30,Wholesale
+2744,Soap,Personal Care,12.0,31.0,2026-06-12,Wholesale
+2745,Toothpaste,Personal Care,1.0,90.0,2026-02-19,Walk-in
+2746,Chips,Snacks,19.0,21.0,2026-03-20,Walk-in
+2747,Curd 500g,Dairy,18.0,39.0,2026-05-19,Wholesale
+2748,Shampoo,Personal Care,19.0,176.0,2026-02-09,Regular
+2749,Shampoo,Personal Care,6.0,179.0,2026-03-09,Wholesale
+2750,Cooking Oil 1L,Grocery,17.0,147.0,2026-05-31,Wholesale
+2751,Curd 500g,Dairy,19.0,40.0,2026-06-01,Wholesale
+2752,Biscuits,Snacks,16.0,34.0,2026-02-23,Regular
+2753,Rice 5kg,Grocery,7.0,348.0,2026-01-24,Wholesale
+2754,Tea Powder 250g,Grocery,6.0,117.0,2026-05-02,Regular
+2755,Namkeen 200g,Snacks,2.0,56.0,2026-02-05,Wholesale
+2756,Detergent 1kg,Household,16.0,131.0,2026-03-25,Walk-in
+2757,Cooking Oil 1L,Grocery,18.0,148.0,2026-04-11,Walk-in
+2758,Curd 500g,Dairy,12.0,42.0,2026-03-21,Wholesale
+2759,Namkeen 200g,Snacks,3.0,63.0,2026-06-04,Regular
+2760,Soap,Personal Care,9.0,40.0,2026-02-06,Walk-in
+2761,Detergent 1kg,Household,9.0,132.0,2026-06-25,Regular
+2762,Paneer 200g,Dairy,12.0,85.0,2026-02-15,Regular
+2763,Milk 1L,Dairy,,57.0,2026-04-19,Regular
+2764,Shampoo,Personal Care,12.0,181.0,2026-02-15,Wholesale
+2765,Rice 5kg,Grocery,15.0,348.0,2026-04-03,Wholesale
+2766,Shampoo,Personal Care,19.0,175.0,2026-03-21,Walk-in
+2767,Cooking Oil 1L,Grocery,9.0,150.0,2026-05-09,Regular
+2768,Biscuits,Snacks,9.0,25.0,2026-06-14,Walk-in
+2769,Curd 500g,Dairy,9.0,35.0,2026-03-12,Wholesale
+2770,Wheat Flour 5kg,Grocery,1.0,224.0,2026-05-01,Wholesale
+2771,Detergent 1kg,Household,6.0,132.0,2026-05-02,Wholesale
+2772,Cooking Oil 1L,Grocery,12.0,145.0,2026-01-08,Wholesale
+2773,TEA POWDER 250G  ,Grocery,5.0,117.0,2026-01-22,Walk-in
+2774,Cooking Oil 1L,Grocery,15.0,145.0,2026-06-13,Wholesale
+2775,Wheat Flour 5kg,Grocery,4.0,220.0,2026-05-20,Walk-in
+2776,Shampoo,Personal Care,20.0,185.0,2026-01-05,Walk-in
+2777,Namkeen 200g,Snacks,19.0,57.0,2026-04-04,Wholesale
+2778,Rice 5kg,Grocery,13.0,355.0,2026-04-17,Wholesale
+2779,Wheat Flour 5kg,Grocery,7.0,216.0,2026-05-09,Regular
+2780,Biscuits,Snacks,6.0,26.0,2026-04-24,Regular
+2781,Biscuits,Snacks,,34.0,2026-06-26,Wholesale
+2782,Paneer 200g,Dairy,1.0,77.0,2026-03-21,Walk-in
+2783,Milk 1L,Dairy,11.0,51.0,2026-04-30,Wholesale
+2784,Sugar 1kg,Grocery,15.0,49.0,2026-01-23,Regular
+2785,Sugar 1kg,Grocery,3.0,42.0,2026-02-17,Walk-in
+2786,Rice 5kg,Grocery,1.0,347.0,2026-02-25,Wholesale
+2787,Milk 1L,Dairy,3.0,57.0,2026-03-05,Walk-in
+2788,Shampoo,Personal Care,,177.0,2026-01-14,Walk-in
+2789,Chips,Snacks,9.0,17.0,2026-02-05,Wholesale
+2790,Namkeen 200g,Snacks,8.0,61.0,2026-02-18,Walk-in
+2791,Shampoo,Personal Care,10.0,177.0,2026-03-08,Wholesale
+2792,Detergent 1kg,Household,3.0,129.0,2026-05-06,Walk-in
+2793,Milk 1L,Dairy,17.0,55.0,2026-04-26,Wholesale
+2794,Soap,Personal Care,19.0,30.0,2026-04-09,Regular
+2795,Shampoo,Personal Care,12.0,181.0,2026-06-15,Wholesale
+2796,Chips,Snacks,11.0,18.0,2026-06-29,Wholesale
+2797,Biscuits,Snacks,17.0,26.0,2026-02-23,Walk-in
+2798,Shampoo,Personal Care,9.0,182.0,2026-01-09,Regular
+2799,Soap,Personal Care,5.0,37.0,2026-04-30,Wholesale
+2800,Namkeen 200g,Snacks,19.0,60.0,2026-04-07,Wholesale
+1189,Wheat Flour 5kg,Grocery,18.0,220.0,2026-05-25,Regular
+2337,Paneer 200g,Dairy,7.0,,2026-01-14,Regular
+303,Sugar 1kg,Grocery,2.0,46.0,2026-04-22,Regular
+136,Detergent 1kg,Household,12.0,129.0,2026-02-12,Wholesale
+1035,Soap,Personal Care,7.0,31.0,2026-05-11,Walk-in
+797,Cooking Oil 1L,Grocery,19.0,146.0,2026-01-26,Walk-in
+96,Namkeen 200g,Snacks,11.0,64.0,2026-06-19,Regular
+1604,Sugar 1kg,Grocery,10.0,41.0,2026-01-30,Walk-in
+1018,Dishwash Liquid,Household,20.0,99.0,2026-01-10,Wholesale
+319,Sugar 1kg,Grocery,15.0,44.0,2026-04-26,Regular
+339,Wheat Flour 5kg,Grocery,11.0,225.0,2026-06-08,Regular
+1532,Toothpaste,Personal Care,4.0,85.0,2026-03-12,Walk-in
+1524,Namkeen 200g,Snacks,19.0,56.0,2026-04-07,Regular
+1495,Toothpaste,Personal Care,11.0,93.0,2026-04-16,Wholesale
+1309,Biscuits,Snacks,11.0,33.0,2026-04-23,Wholesale
+946,Milk 1L,Dairy,8.0,57.0,2026-06-14,Wholesale
+568,Biscuits,Snacks,5.0,26.0,2026-01-23,Regular
+749,Soap,Personal Care,2.0,35.0,2026-01-06,Regular
+2140,Curd 500g,Dairy,20.0,35.0,2026-03-05,Regular
+1047,Curd 500g,Dairy,7.0,44.0,2026-05-13,Regular
+2688,Paneer 200g,Dairy,6.0,76.0,2026-04-29,Walk-in
+2322,Milk 1L,Dairy,13.0,54.0,2026-04-15,Wholesale
+145,Soap,Personal Care,9.0,38.0,2026-06-07,Wholesale
+1844,Biscuits,Snacks,7.0,31.0,2026-06-06,Wholesale
+2416,Sugar 1kg,Grocery,14.0,49.0,2026-06-24,Walk-in
+223,Toothpaste,Personal Care,19.0,92.0,2026-02-06,Regular
+2448,Shampoo,Personal Care,9.0,176.0,2026-04-19,Regular
+1056,Dishwash Liquid,Household,9.0,91.0,2026-01-18,Walk-in
+2460,Cooking Oil 1L,Grocery,4.0,148.0,2026-01-14,Regular
+716,Milk 1L,Dairy,15.0,53.0,2026-03-20,Walk-in
